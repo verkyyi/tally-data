@@ -13,8 +13,8 @@ configs:
 
 # Tally: numbers about companies and open-source projects, each with its history and source
 
-A snapshot of the public record kept at [tallycatalog.com](https://tallycatalog.com): 537 numbers about 140 companies and
-open-source projects, with 18,896 dated values going back to 2005. Every value carries the address of the page it was read from.
+A snapshot of the public record kept at [tallycatalog.com](https://tallycatalog.com): 534 numbers about 143 companies and
+open-source projects, with 26,102 dated values going back to 2005. Every value carries the address of the page it was read from.
 
 Typical numbers: latest valuation, total funding raised, quarterly and annual revenue, plan and API prices, headcount,
 open roles, GitHub stars, weekly npm and PyPI downloads, Y Combinator batch sizes.
@@ -68,14 +68,22 @@ when it can be quoted from the source; Tally does not estimate. The recipe for a
 - Private-company figures (valuation, revenue, funding) come from filings where they exist and otherwise from press
   reports and company announcements. They are reported figures, not audited ones.
 - Coverage follows public interest: AI companies and developer tools are covered most heavily.
-- 23 numbers have no source address on the current value; their history rows carry the sources.
+- 24 numbers have no source address on the current value; their history rows carry the sources.
 
-- 71 dated values read from stockanalysis.com are left out of this snapshot; they are shown on the live site.
+- Values whose source allows a link and a quotation but not redistribution (company databases and aggregators) are shown on the live site and left out of these files. The numbers that depend on them are being moved to the original announcements.
+- A publisher's own estimates (modelled revenue, market-implied valuations) are not recorded at all.
 
 ## Use and credit
 
-Licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Use it freely, with a link back. Suggested credit:
+Tally's own work is licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): the compilation, its structure, and the labels and notes
+Tally writes. Use it freely, with a link back. Tally claims no rights in the facts themselves (a price, a count, an announced amount): nobody
+owns those. Every row names the page its value was reported on.
+
+Suggested credit:
 
 > Tally, https://tallycatalog.com — and for a single number, its page address from the `page` column.
 
-For one number at a time, as JSON, Markdown or CSV, see <https://tallycatalog.com/llms.txt>.
+Corrections and removals are logged at <https://tallycatalog.com/corrections>; to report a wrong value, open an issue at
+<https://github.com/verkyyi/tally/issues>. Changes between releases of this dataset are in `CHANGES.md`.
+
+For one number at a time, as JSON, Markdown or CSV, or its value on a past date, see <https://tallycatalog.com/llms.txt>.

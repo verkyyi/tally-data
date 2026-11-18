@@ -1,181 +1,178 @@
 id,title,subject,unit,value,as_of,source,history_points,first_date,page
 2,Gamma · open engineering roles,Gamma,roles,13,2026-11-18,https://jobs.ashbyhq.com/gamma,11,2026-11-15,https://tallycatalog.com/c/gamma/open-engineering-roles
-3,Papermark · GitHub stars,Papermark,stars,9364,2026-11-16,https://api.github.com/repos/papermark/papermark,3,2026-11-14,https://tallycatalog.com/c/papermark/github-stars
+3,Papermark · GitHub stars,Papermark,stars,9391,2026-11-18,https://api.github.com/repos/papermark/papermark,16,2024-01-09,https://tallycatalog.com/c/papermark/github-stars
 4,Papermark · launches this quarter,Papermark,launches,20,2026-11-18,https://www.papermark.com/changelog,6,2026-11-14,https://tallycatalog.com/c/papermark/launches-this-quarter
-5,Notion · App Store rating,Notion,rating /5,4.77,2026-11-16,https://itunes.apple.com/lookup?id=1232780281&country=us,2,2026-11-14,https://tallycatalog.com/c/notion/app-store-rating
-6,Notion · total funding raised,Notion,USD,344100000,2026-11-16,https://www.cbinsights.com/company/notion-labs/financials,5,2013-06-01,https://tallycatalog.com/c/notion/total-funding-raised
-7,Papermark · Data Rooms plan price,Papermark,EUR/mo,99,2026-11-16,https://www.papermark.com/pricing,5,2025-03-15,https://tallycatalog.com/c/papermark/data-rooms-plan-price
-8,Notion · Business plan price,Notion,USD/seat/mo,20,2026-11-16,https://www.notion.com/pricing,6,2024-11-16,https://tallycatalog.com/c/notion/business-plan-price
-9,Notion · Plus plan price,Notion,USD/seat/mo,10,2026-11-16,https://www.notion.com/pricing,7,2024-11-16,https://tallycatalog.com/c/notion/plus-plan-price
-10,Papermark · Business plan price,Papermark,EUR/mo,59,2026-11-16,https://www.papermark.com/pricing,5,2025-03-15,https://tallycatalog.com/c/papermark/business-plan-price
-11,Canva · App Store rating,Canva,rating /5,4.87299,2026-11-16,https://itunes.apple.com/lookup?id=897446215&country=us,2,2026-11-14,https://tallycatalog.com/c/canva/app-store-rating
-12,DocuSeal · GitHub stars,DocuSeal,stars,19052,2026-11-16,https://api.github.com/repos/docusealco/docuseal,2,2026-11-14,https://tallycatalog.com/c/docuseal/github-stars
-13,Documenso · GitHub stars,Documenso,stars,15722,2026-11-16,https://api.github.com/repos/documenso/documenso,2,2026-11-14,https://tallycatalog.com/c/documenso/github-stars
-14,Outline · GitHub stars,Outline,stars,41174,2026-11-16,https://api.github.com/repos/outline/outline,2,2026-11-14,https://tallycatalog.com/c/outline/github-stars
-15,AppFlowy · GitHub stars,AppFlowy,stars,78253,2026-11-16,https://api.github.com/repos/AppFlowy-IO/AppFlowy,2,2026-11-14,https://tallycatalog.com/c/appflowy/github-stars
-16,Excalidraw · GitHub stars,Excalidraw,stars,135887,2026-11-18,https://github.com/excalidraw/excalidraw,32,2020-01-25,https://tallycatalog.com/c/excalidraw/github-stars
-17,Gamma · total funding raised,Gamma,USD,87000000,2026-11-16,https://siliconvalleyinvestclub.com/companies/gamma/tear-sheet.pdf,5,2021-10-01,https://tallycatalog.com/c/gamma/total-funding-raised
-18,Canva · total funding raised,Canva,USD,572600000,2026-11-16,https://sacra.com/c/canva/,8,2018-01-01,https://tallycatalog.com/c/canva/total-funding-raised
-20,Next.js · GitHub stars,Next.js,stars,143715,2026-11-18,https://github.com/vercel/next.js,30,2020-05-27,https://tallycatalog.com/c/next-js/github-stars
-21,n8n · GitHub stars,n8n,stars,210907,2026-11-18,https://github.com/n8n-io/n8n,33,2019-10-08,https://tallycatalog.com/c/n8n/github-stars
+5,Notion · App Store rating,Notion,rating /5,4.77,2026-11-18,https://itunes.apple.com/lookup?id=1232780281&country=us,8,2025-01-17,https://tallycatalog.com/c/notion/app-store-rating
+6,Notion · total funding raised,Notion,USD,300000000,2026-11-18,https://siliconangle.com/2021/10/08/productivity-startup-notion-valued-10b-latest-275m-funding-round,4,2013-06-01,https://tallycatalog.com/c/notion/total-funding-raised
+7,Papermark · Data Rooms plan price,Papermark,EUR/mo,99,2026-11-18,https://www.papermark.com/pricing,9,2025-03-15,https://tallycatalog.com/c/papermark/data-rooms-plan-price
+8,Notion · Business plan price,Notion,USD/seat/mo,20,2026-11-16,https://www.notion.com/pricing,11,2024-11-16,https://tallycatalog.com/c/notion/business-plan-price
+9,Notion · Plus plan price,Notion,USD/seat/mo,10,2026-11-18,https://www.notion.com/pricing,14,2021-11-02,https://tallycatalog.com/c/notion/plus-plan-price
+10,Papermark · Business plan price,Papermark,EUR/mo,59,2026-11-18,https://www.papermark.com/pricing,9,2025-03-15,https://tallycatalog.com/c/papermark/business-plan-price
+11,Canva · App Store rating,Canva,rating /5,4.87299,2026-11-18,https://itunes.apple.com/lookup?id=897446215&country=us,5,2026-01-01,https://tallycatalog.com/c/canva/app-store-rating
+12,DocuSeal · GitHub stars,DocuSeal,stars,19087,2026-11-18,https://api.github.com/repos/docusealco/docuseal,13,2023-08-11,https://tallycatalog.com/c/docuseal/github-stars
+13,Documenso · GitHub stars,Documenso,stars,15818,2026-11-18,https://api.github.com/repos/documenso/documenso,17,2023-04-16,https://tallycatalog.com/c/documenso/github-stars
+14,Outline · GitHub stars,Outline,stars,41296,2026-11-18,https://api.github.com/repos/outline/outline,18,2019-08-02,https://tallycatalog.com/c/outline/github-stars
+15,AppFlowy · GitHub stars,AppFlowy,stars,79125,2026-11-18,https://api.github.com/repos/AppFlowy-IO/AppFlowy,15,2021-12-02,https://tallycatalog.com/c/appflowy/github-stars
+16,Excalidraw · GitHub stars,Excalidraw,stars,135887,2026-11-18,https://github.com/excalidraw/excalidraw,79,2020-01-25,https://tallycatalog.com/c/excalidraw/github-stars
+17,Gamma · total funding raised,Gamma,USD,90000000,2026-11-18,https://techcrunch.com/2025/11/10/ai-powerpoint-killer-gamma-hits-2-1b-valuation-100m-arr-founder-says,3,2025-04-29,https://tallycatalog.com/c/gamma/total-funding-raised
+18,Canva · total funding raised,Canva,USD,560000000,2026-11-18,https://www.cnbc.com/2024/05/14/canva-cnbc-disruptor-50.html,9,2013-03-20,https://tallycatalog.com/c/canva/total-funding-raised
+20,Next.js · GitHub stars,Next.js,stars,143715,2026-11-18,https://github.com/vercel/next.js,78,2020-05-27,https://tallycatalog.com/c/next-js/github-stars
+21,n8n · GitHub stars,n8n,stars,210907,2026-11-18,https://github.com/n8n-io/n8n,75,2019-10-08,https://tallycatalog.com/c/n8n/github-stars
 22,Supabase · GitHub stars,Supabase,stars,115241,2026-11-18,https://github.com/supabase/supabase,30,2020-08-10,https://tallycatalog.com/c/supabase/github-stars
 23,PostHog · GitHub stars,PostHog,stars,40861,2026-11-18,https://github.com/PostHog/posthog,29,2020-07-09,https://tallycatalog.com/c/posthog/github-stars
-24,Cal.com · GitHub stars,Cal.com,stars,50151,2026-11-18,https://github.com/calcom/cal.diy,22,2022-01-31,https://tallycatalog.com/c/cal-com/github-stars
-25,LangChain · GitHub stars,LangChain,stars,149822,2026-11-18,https://github.com/langchain-ai/langchain,19,2023-07-25,https://tallycatalog.com/c/langchain/github-stars
-26,Twenty · GitHub stars,Twenty,stars,60236,2026-11-16,https://api.github.com/repos/twentyhq/twenty,2,2026-11-14,https://tallycatalog.com/c/twenty/github-stars
-27,Appsmith · GitHub stars,Appsmith,stars,41251,2026-11-16,https://api.github.com/repos/appsmithorg/appsmith,2,2026-11-14,https://tallycatalog.com/c/appsmith/github-stars
-28,Directus · GitHub stars,Directus,stars,38824,2026-11-16,https://api.github.com/repos/directus/directus,2,2026-11-14,https://tallycatalog.com/c/directus/github-stars
-29,Strapi · GitHub stars,Strapi,stars,73485,2026-11-16,https://api.github.com/repos/strapi/strapi,2,2026-11-14,https://tallycatalog.com/c/strapi/github-stars
-30,NocoDB · GitHub stars,NocoDB,stars,65524,2026-11-16,https://api.github.com/repos/nocodb/nocodb,2,2026-11-14,https://tallycatalog.com/c/nocodb/github-stars
-31,Plausible · GitHub stars,Plausible,stars,29844,2026-11-16,https://api.github.com/repos/plausible/analytics,2,2026-11-14,https://tallycatalog.com/c/plausible/github-stars
-32,Metabase · GitHub stars,Metabase,stars,50283,2026-11-16,https://api.github.com/repos/metabase/metabase,2,2026-11-14,https://tallycatalog.com/c/metabase/github-stars
-33,Grafana · GitHub stars,Grafana,stars,77750,2026-11-16,https://api.github.com/repos/grafana/grafana,2,2026-11-14,https://tallycatalog.com/c/grafana/github-stars
-34,Mattermost · GitHub stars,Mattermost,stars,39529,2026-11-16,https://api.github.com/repos/mattermost/mattermost,2,2026-11-14,https://tallycatalog.com/c/mattermost/github-stars
-35,Formbricks · GitHub stars,Formbricks,stars,13214,2026-11-16,https://api.github.com/repos/formbricks/formbricks,2,2026-11-14,https://tallycatalog.com/c/formbricks/github-stars
-36,Dub · GitHub stars,Dub,stars,25165,2026-11-16,https://api.github.com/repos/dubinc/dub,2,2026-11-14,https://tallycatalog.com/c/dub/github-stars
-37,Immich · GitHub stars,Immich,stars,117081,2026-11-16,https://api.github.com/repos/immich-app/immich,2,2026-11-14,https://tallycatalog.com/c/immich/github-stars
-38,Ollama · GitHub stars,Ollama,stars,187463,2026-11-18,https://github.com/ollama/ollama,15,2024-01-25,https://tallycatalog.com/c/ollama/github-stars
-39,Langfuse · GitHub stars,Langfuse,stars,37571,2026-11-18,https://github.com/langfuse/langfuse,17,2023-08-29,https://tallycatalog.com/c/langfuse/github-stars
-40,Linear · Business plan price,Linear,USD/mo,16,2026-11-16,https://linear.app/pricing,6,2024-08-06,https://tallycatalog.com/c/linear/business-plan-price
-41,Figma · Professional plan price,Figma,USD/mo,16,2026-11-16,https://www.figma.com/pricing/,19,2018-07-02,https://tallycatalog.com/c/figma/professional-plan-price
-42,Slack · Pro plan price,Slack,USD/mo,8.75,2026-11-16,https://slack.com/pricing,8,2018-07-02,https://tallycatalog.com/c/slack/pro-plan-price
-43,Vercel · Pro plan price,Vercel,USD/mo,20,2026-11-16,https://vercel.com/pricing,15,2020-04-22,https://tallycatalog.com/c/vercel/pro-plan-price
-44,Supabase · Pro plan price,Supabase,USD/mo,25,2026-11-16,https://supabase.com/pricing,12,2021-11-24,https://tallycatalog.com/c/supabase/pro-plan-price
-45,Cal.com · Teams plan price,Cal.com,USD/mo,12,2026-11-16,https://cal.com/pricing,6,2024-01-10,https://tallycatalog.com/c/cal-com/teams-plan-price
-46,Airtable · Team plan price,Airtable,USD/mo,20,2026-11-16,https://airtable.com/pricing,9,2020-01-28,https://tallycatalog.com/c/airtable/team-plan-price
-47,Zapier · Professional plan price,Zapier,USD/mo,19.99,2026-11-16,https://zapier.com/pricing,14,2018-01-23,https://tallycatalog.com/c/zapier/professional-plan-price
-48,Calendly · Standard plan price,Calendly,USD/mo,10,2026-11-16,https://calendly.com/pricing,8,2021-07-20,https://tallycatalog.com/c/calendly/standard-plan-price
-49,Miro · Starter plan price,Miro,USD/mo,8,2026-11-16,https://miro.com/pricing/,2,2026-11-14,https://tallycatalog.com/c/miro/starter-plan-price
-50,Canva · Pro plan price,Canva,USD/mo,12,2026-11-16,https://www.canva.com/learn/canva-pro-vs-canva-enterprise/,2,2026-11-14,https://tallycatalog.com/c/canva/pro-plan-price
-51,Dub · Pro plan price,Dub,USD/mo,27,2026-11-16,https://dub.co/pricing/links,4,2026-04-12,https://tallycatalog.com/c/dub/pro-plan-price
-52,Vercel · total funding raised,Vercel,USD,863022272,2026-11-16,https://finance.yahoo.com/quote/VERC.PVT/,8,2020-04-01,https://tallycatalog.com/c/vercel/total-funding-raised
-53,Linear · total funding raised,Linear,USD,134200000,2026-11-16,https://techcrunch.com/2025/06/10/atlassian-rival-linear-raises-82m-at-1-25b-valuation/,6,2019-11-01,https://tallycatalog.com/c/linear/total-funding-raised
-54,Supabase · total funding raised,Supabase,USD,1167000000,2026-11-16,https://www.cbinsights.com/company/supabase/financials,5,2020-08-01,https://tallycatalog.com/c/supabase/total-funding-raised
-55,PostHog · total funding raised,PostHog,USD,194000000,2026-11-16,https://posthog.com/hogpedia/history-of-posthog,7,2020-04-01,https://tallycatalog.com/c/posthog/total-funding-raised
-56,Cal.com · total funding raised,Cal.com,USD,32400000,2026-11-16,https://www.cbinsights.com/company/calcom/financials,4,2021-12-01,https://tallycatalog.com/c/cal-com/total-funding-raised
-57,Figma · total funding raised,Figma,USD,1400000000,2026-11-16,https://news.crunchbase.com/public/ipo/design-software-startup-boosts-range-nyse-fig/,2,2026-11-14,https://tallycatalog.com/c/figma/total-funding-raised
-58,Airtable · total funding raised,Airtable,USD,1360000000,2026-11-16,https://www.airtable.com/newsroom,9,2015-02-01,https://tallycatalog.com/c/airtable/total-funding-raised
-59,Miro · total funding raised,Miro,USD,476000000,2026-11-16,https://miro.com/newsroom/miro-series-c/,5,2018-11-01,https://tallycatalog.com/c/miro/total-funding-raised
-60,n8n · total funding raised,n8n,USD,240000000,2026-11-16,https://n8n.io/press/,6,2020-03-01,https://tallycatalog.com/c/n8n/total-funding-raised
-61,Langfuse · total funding raised,Langfuse,USD,4500000,2026-11-16,https://www.cbinsights.com/company/langfuse,4,2023-04-01,https://tallycatalog.com/c/langfuse/total-funding-raised
-62,Santa Clara · hackathons,Santa Clara,hackathons,19,2026-11-16,,5,2026-11-14,https://tallycatalog.com/c/santa-clara/hackathons
-64,Tavily · launches this quarter,Tavily,launches,10,2026-11-16,,9,2026-11-07,https://tallycatalog.com/c/tavily/launches-this-quarter
-65,Tavily · entry plan price,Tavily,USD/mo,30,2026-11-16,https://www.tavily.com/pricing,3,2026-01-23,https://tallycatalog.com/c/tavily/entry-plan-price
-66,Tavily · total funding raised,Tavily,USD,25000000,2026-11-16,https://techcrunch.com/2025/08/06/tavily-raises-25m-to-connect-ai-agents-to-the-web/,4,2024-07-01,https://tallycatalog.com/c/tavily/total-funding-raised
+24,Cal.com · GitHub stars,Cal.com,stars,50151,2026-11-18,https://github.com/calcom/cal.diy,53,2022-01-31,https://tallycatalog.com/c/cal-com/github-stars
+25,LangChain · GitHub stars,LangChain,stars,149822,2026-11-18,https://github.com/langchain-ai/langchain,41,2023-09-05,https://tallycatalog.com/c/langchain/github-stars
+26,Twenty · GitHub stars,Twenty,stars,61120,2026-11-18,https://api.github.com/repos/twentyhq/twenty,15,2023-07-20,https://tallycatalog.com/c/twenty/github-stars
+27,Appsmith · GitHub stars,Appsmith,stars,41269,2026-11-18,https://api.github.com/repos/appsmithorg/appsmith,16,2021-01-19,https://tallycatalog.com/c/appsmith/github-stars
+28,Directus · GitHub stars,Directus,stars,38752,2026-11-18,https://api.github.com/repos/directus/directus,11,2020-06-01,https://tallycatalog.com/c/directus/github-stars
+29,Strapi · GitHub stars,Strapi,stars,73512,2026-11-18,https://api.github.com/repos/strapi/strapi,12,2019-05-01,https://tallycatalog.com/c/strapi/github-stars
+30,NocoDB · GitHub stars,NocoDB,stars,65563,2026-11-18,https://api.github.com/repos/nocodb/nocodb,16,2021-05-27,https://tallycatalog.com/c/nocodb/github-stars
+31,Plausible · GitHub stars,Plausible,stars,29876,2026-11-18,https://api.github.com/repos/plausible/analytics,14,2020-07-11,https://tallycatalog.com/c/plausible/github-stars
+32,Metabase · GitHub stars,Metabase,stars,50395,2026-11-18,https://api.github.com/repos/metabase/metabase,14,2021-12-21,https://tallycatalog.com/c/metabase/github-stars
+33,Grafana · GitHub stars,Grafana,stars,77982,2026-11-18,https://api.github.com/repos/grafana/grafana,16,2015-08-15,https://tallycatalog.com/c/grafana/github-stars
+34,Mattermost · GitHub stars,Mattermost,stars,39645,2026-11-18,https://api.github.com/repos/mattermost/mattermost,9,2018-06-11,https://tallycatalog.com/c/mattermost/github-stars
+35,Formbricks · GitHub stars,Formbricks,stars,13255,2026-11-18,https://api.github.com/repos/formbricks/formbricks,18,2022-12-09,https://tallycatalog.com/c/formbricks/github-stars
+36,Dub · GitHub stars,Dub,stars,25196,2026-11-18,https://api.github.com/repos/dubinc/dub,14,2023-12-23,https://tallycatalog.com/c/dub/github-stars
+37,Immich · GitHub stars,Immich,stars,119527,2026-11-18,https://api.github.com/repos/immich-app/immich,21,2022-08-04,https://tallycatalog.com/c/immich/github-stars
+38,Ollama · GitHub stars,Ollama,stars,187463,2026-11-18,https://github.com/ollama/ollama,35,2024-01-25,https://tallycatalog.com/c/ollama/github-stars
+39,Langfuse · GitHub stars,Langfuse,stars,37571,2026-11-18,https://github.com/langfuse/langfuse,39,2023-08-29,https://tallycatalog.com/c/langfuse/github-stars
+40,Linear · Business plan price,Linear,USD/mo,16,2026-11-18,https://linear.app/pricing,14,2024-06-03,https://tallycatalog.com/c/linear/business-plan-price
+41,Figma · Professional plan price,Figma,USD/mo,16,2026-11-18,https://www.figma.com/pricing/,38,2018-07-02,https://tallycatalog.com/c/figma/professional-plan-price
+42,Slack · Pro plan price,Slack,USD/mo,8.75,2026-11-18,https://slack.com/pricing,23,2015-06-09,https://tallycatalog.com/c/slack/pro-plan-price
+43,Vercel · Pro plan price,Vercel,USD/mo,20,2026-11-18,https://vercel.com/pricing,33,2020-04-22,https://tallycatalog.com/c/vercel/pro-plan-price
+44,Supabase · Pro plan price,Supabase,USD/mo,25,2026-11-18,https://supabase.com/pricing,24,2021-11-24,https://tallycatalog.com/c/supabase/pro-plan-price
+45,Cal.com · Teams plan price,Cal.com,USD/mo,12,2026-11-16,https://cal.com/pricing,12,2024-04-03,https://tallycatalog.com/c/cal-com/teams-plan-price
+46,Airtable · Team plan price,Airtable,USD/mo,20,2026-11-18,https://airtable.com/pricing,22,2018-05-03,https://tallycatalog.com/c/airtable/team-plan-price
+47,Zapier · Professional plan price,Zapier,USD/mo,19.99,2026-11-16,https://zapier.com/pricing,28,2018-07-01,https://tallycatalog.com/c/zapier/professional-plan-price
+48,Calendly · Standard plan price,Calendly,USD/mo,10,2026-11-16,https://calendly.com/pricing,18,2021-07-20,https://tallycatalog.com/c/calendly/standard-plan-price
+49,Miro · Starter plan price,Miro,USD/mo,8,2026-11-18,https://miro.com/pricing/,3,2026-11-14,https://tallycatalog.com/c/miro/starter-plan-price
+50,Canva · Pro plan price,Canva,USD/mo,12,2026-11-18,https://www.canva.com/learn/canva-pro-vs-canva-enterprise/,7,2022-11-07,https://tallycatalog.com/c/canva/pro-plan-price
+51,Dub · Pro plan price,Dub,USD/mo,30,2026-11-18,https://dub.co/pricing/links,12,2023-09-05,https://tallycatalog.com/c/dub/pro-plan-price
+52,Vercel · total funding raised,Vercel,USD,863000000,2026-11-18,https://www.hustlefund.vc/post/angel-squad-vercel-pre-ipo-shares-what-accredited-investors-should-know-in-2026,5,2020-12-16,https://tallycatalog.com/c/vercel/total-funding-raised
+53,Linear · total funding raised,Linear,USD,134200000,2026-11-18,https://techcrunch.com/2025/06/10/atlassian-rival-linear-raises-82m-at-1-25b-valuation/,7,2019-11-01,https://tallycatalog.com/c/linear/total-funding-raised
+54,Supabase · total funding raised,Supabase,USD,1000000000,2026-11-18,https://www.prnewswire.com/news-releases/supabase-raises-500m-at-10-5b-to-accelerate-lead-in-agentic-infrastructure-302791787.html,4,2021-09-01,https://tallycatalog.com/c/supabase/total-funding-raised
+55,PostHog · total funding raised,PostHog,USD,194000000,2026-11-18,https://posthog.com/hogpedia/history-of-posthog,9,2020-03-01,https://tallycatalog.com/c/posthog/total-funding-raised
+57,Figma · total funding raised,Figma,USD,1400000000,2026-11-18,https://news.crunchbase.com/public/ipo/design-software-startup-boosts-range-nyse-fig/,8,2019-02-14,https://tallycatalog.com/c/figma/total-funding-raised
+58,Airtable · total funding raised,Airtable,USD,1360000000,2026-11-18,https://www.airtable.com/newsroom,11,2015-02-01,https://tallycatalog.com/c/airtable/total-funding-raised
+59,Miro · total funding raised,Miro,USD,476000000,2026-11-16,https://miro.com/newsroom/miro-series-c/,6,2018-11-01,https://tallycatalog.com/c/miro/total-funding-raised
+60,n8n · total funding raised,n8n,USD,240000000,2026-11-18,https://n8n.io/press/,7,2020-03-01,https://tallycatalog.com/c/n8n/total-funding-raised
+61,Langfuse · total funding raised,Langfuse,USD,4000000,2026-11-18,https://langfuse.com/blog/announcing-our-seed-round,2,2023-11-07,https://tallycatalog.com/c/langfuse/total-funding-raised
+62,Santa Clara · hackathons,Santa Clara,hackathons,21,2026-11-18,,6,2026-11-14,https://tallycatalog.com/c/santa-clara/hackathons
+64,Tavily · launches this quarter,Tavily,launches,10,2026-11-18,,10,2026-11-07,https://tallycatalog.com/c/tavily/launches-this-quarter
+65,Tavily · entry plan price,Tavily,USD/mo,30,2026-11-18,https://www.tavily.com/pricing,6,2025-03-18,https://tallycatalog.com/c/tavily/entry-plan-price
+66,Tavily · total funding raised,Tavily,USD,25000000,2026-11-18,https://techcrunch.com/2025/08/06/tavily-raises-25m-to-connect-ai-agents-to-the-web/,5,2024-07-01,https://tallycatalog.com/c/tavily/total-funding-raised
 67,Tavily · GitHub stars,Tavily,stars,1431,2026-11-18,https://github.com/tavily-ai/tavily-python,13,2024-09-15,https://tallycatalog.com/c/tavily/github-stars
-68,Tavily · open engineering roles,Tavily,roles,16,2026-11-16,,2,2026-11-14,https://tallycatalog.com/c/tavily/open-engineering-roles
-70,Lovable · entry plan price,Lovable,USD/mo,25,2026-11-16,https://gravity.fast/blog/lovable-pricing-explained/,2,2026-11-14,https://tallycatalog.com/c/lovable/entry-plan-price
-71,Lovable · App Store rating,Lovable,rating /5,4.8,2026-11-16,https://apps.apple.com/us/app/lovable-build-apps-with-ai/id6757471107,1,2026-11-14,https://tallycatalog.com/c/lovable/app-store-rating
-72,Lovable · total funding raised,Lovable,USD,952000000,2026-11-18,https://www.revenuememo.com/p/lovable-funding,12,2024-10-01,https://tallycatalog.com/c/lovable/total-funding-raised
-73,Lovable · GitHub stars,Lovable,stars,641,2026-11-16,https://github.com/lovablelabs,2,2026-11-14,https://tallycatalog.com/c/lovable/github-stars
+68,Tavily · open engineering roles,Tavily,roles,17,2026-11-18,,3,2026-11-14,https://tallycatalog.com/c/tavily/open-engineering-roles
+70,Lovable · entry plan price,Lovable,USD/mo,25,2026-11-18,https://gravity.fast/blog/lovable-pricing-explained/,10,2024-11-22,https://tallycatalog.com/c/lovable/entry-plan-price
+71,Lovable · App Store rating,Lovable,rating /5,4.8,2026-11-18,https://apps.apple.com/us/app/lovable-build-apps-with-ai/id6757471107,6,2026-05-01,https://tallycatalog.com/c/lovable/app-store-rating
+73,Lovable · GitHub stars,Lovable,stars,641,2026-11-18,https://github.com/lovablelabs,4,2026-09-16,https://tallycatalog.com/c/lovable/github-stars
 74,Lovable · open engineering roles,Lovable,roles,37,2026-11-18,,5,2026-11-14,https://tallycatalog.com/c/lovable/open-engineering-roles
-75,Lovable · launches this quarter,Lovable,launches,7,2026-11-16,,9,2026-11-07,https://tallycatalog.com/c/lovable/launches-this-quarter
-76,Cursor · total funding raised,Cursor,USD,3370000000,2026-11-18,https://stockanalysis.com/private/cursor/,5,2023-10-01,https://tallycatalog.com/c/cursor/total-funding-raised
-77,Cursor · entry plan price,Cursor,USD/mo,8,2026-11-16,https://cursor.com/pricing,8,2024-06-05,https://tallycatalog.com/c/cursor/entry-plan-price
-78,Cursor · launches this quarter,Cursor,launches,11,2026-11-17,,19,2026-11-07,https://tallycatalog.com/c/cursor/launches-this-quarter
-79,Cursor · App Store rating,Cursor,rating /5,4.7,2026-11-16,https://apps.apple.com/us/app/cursor/id6767085653?uo=2,1,2026-11-14,https://tallycatalog.com/c/cursor/app-store-rating
+75,Lovable · launches this quarter,Lovable,launches,7,2026-11-18,,10,2026-11-07,https://tallycatalog.com/c/lovable/launches-this-quarter
+77,Cursor · entry plan price,Cursor,USD/mo,8,2026-11-18,https://cursor.com/pricing,20,2023-11-07,https://tallycatalog.com/c/cursor/entry-plan-price
+78,Cursor · launches this quarter,Cursor,launches,13,2026-11-18,,20,2026-11-07,https://tallycatalog.com/c/cursor/launches-this-quarter
+79,Cursor · App Store rating,Cursor,rating /5,4.7,2026-11-18,https://apps.apple.com/us/app/cursor/id6767085653?uo=2,6,2026-07-07,https://tallycatalog.com/c/cursor/app-store-rating
 80,Cursor · open engineering roles,Cursor,roles,38,2026-11-17,,3,2026-11-14,https://tallycatalog.com/c/cursor/open-engineering-roles
-81,Cursor · GitHub stars,Cursor,stars,33326,2026-11-16,https://api.github.com/repos/getcursor/cursor,2,2026-11-14,https://tallycatalog.com/c/cursor/github-stars
-82,Linear · launches this quarter,Linear,launches,4,2026-11-16,https://linear.app/changelog,9,2026-11-07,https://tallycatalog.com/c/linear/launches-this-quarter
-83,Linear · open engineering roles,Linear,roles,9,2026-11-16,,2,2026-11-14,https://tallycatalog.com/c/linear/open-engineering-roles
-84,Linear · entry plan price,Linear,USD/mo,10,2026-11-16,https://linear.app/pricing,14,2020-07-01,https://tallycatalog.com/c/linear/entry-plan-price
-85,Linear · App Store rating,Linear,rating /5,4.8,2026-11-18,https://apps.apple.com/us/app/linear-mobile/id1645587184,4,2026-11-14,https://tallycatalog.com/c/linear/app-store-rating
-86,Linear · GitHub stars,Linear,stars,1634,2026-11-16,https://github.com/linear,2,2026-11-14,https://tallycatalog.com/c/linear/github-stars
-93,YC · companies in the current batch,YC,companies,233,2026-11-18,https://yc-oss.github.io/api/meta.json,7,2026-11-14,https://tallycatalog.com/c/yc/companies-in-the-current-batch
-94,YC · Winter 2027 batch so far,YC,companies,13,2026-11-18,https://yc-oss.github.io/api/meta.json,7,2026-11-14,https://tallycatalog.com/c/yc/winter-2027-batch-so-far
+81,Cursor · GitHub stars,Cursor,stars,33343,2026-11-18,https://api.github.com/repos/getcursor/cursor,18,2023-03-16,https://tallycatalog.com/c/cursor/github-stars
+82,Linear · launches this quarter,Linear,launches,5,2026-11-18,https://linear.app/changelog,10,2026-11-07,https://tallycatalog.com/c/linear/launches-this-quarter
+83,Linear · open engineering roles,Linear,roles,10,2026-11-18,,3,2026-11-14,https://tallycatalog.com/c/linear/open-engineering-roles
+84,Linear · entry plan price,Linear,USD/mo,10,2026-11-18,https://linear.app/pricing,32,2020-07-01,https://tallycatalog.com/c/linear/entry-plan-price
+85,Linear · App Store rating,Linear,rating /5,4.8,2026-11-18,https://apps.apple.com/us/app/linear-mobile/id1645587184,6,2025-04-10,https://tallycatalog.com/c/linear/app-store-rating
+86,Linear · GitHub stars,Linear,stars,1681,2026-11-18,https://github.com/linear,10,2021-05-19,https://tallycatalog.com/c/linear/github-stars
+93,YC · companies in the current batch,YC,companies,233,2026-11-18,https://yc-oss.github.io/api/meta.json,10,2025-11-05,https://tallycatalog.com/c/yc/companies-in-the-current-batch
+94,YC · Winter 2027 batch so far,YC,companies,13,2026-11-18,https://yc-oss.github.io/api/meta.json,8,2026-09-01,https://tallycatalog.com/c/yc/winter-2027-batch-so-far
 95,YC · AI companies,YC,companies,1901,2026-11-18,https://www.ycombinator.com/companies,43,2008-07-01,https://tallycatalog.com/c/yc/ai-companies
-96,YC · companies hiring now,YC,companies,1485,2026-11-16,https://yc-oss.github.io/api/meta.json,2,2026-11-14,https://tallycatalog.com/c/yc/companies-hiring-now
-97,"YC · launched companies, all time",YC,companies,6397,2026-11-16,https://yc-oss.github.io/api/meta.json,2,2026-11-14,https://tallycatalog.com/c/yc/launched-companies-all-time
+96,YC · companies hiring now,YC,companies,1475,2026-11-18,https://yc-oss.github.io/api/meta.json,5,2025-11-05,https://tallycatalog.com/c/yc/companies-hiring-now
+97,"YC · launched companies, all time",YC,companies,6399,2026-11-18,https://yc-oss.github.io/api/meta.json,7,2025-11-05,https://tallycatalog.com/c/yc/launched-companies-all-time
 98,AI agent startups · funding this month,AI agent startups,USD,1546300000,2026-11-18,,6,2026-06-30,https://tallycatalog.com/c/ai-agent-startups/funding-this-month
 100,"Lovable, Cursor, Notion, Linear · avg App Store rating","Lovable, Cursor, Notion, Linear",rating /5,4.78,2026-11-18,,3,2026-11-15,https://tallycatalog.com/c/lovable-cursor-notion-linear/avg-app-store-rating
-104,Tavily MCP · GitHub stars,Tavily MCP,stars,2476,2026-11-16,https://api.github.com/repos/tavily-ai/tavily-mcp,2,2026-11-15,https://tallycatalog.com/c/tavily-mcp/github-stars
-105,Anthropic · employee count,Anthropic,employees,5300,2026-11-15,https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm,5,2024-12-31,https://tallycatalog.com/c/anthropic/employee-count
+104,Tavily MCP · GitHub stars,Tavily MCP,stars,2496,2026-11-18,https://api.github.com/repos/tavily-ai/tavily-mcp,9,2025-02-20,https://tallycatalog.com/c/tavily-mcp/github-stars
+105,Anthropic · employee count,Anthropic,employees,5300,2026-11-15,https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm,3,2024-12-31,https://tallycatalog.com/c/anthropic/employee-count
 106,"LangChain · npm downloads, weekly",LangChain,downloads,4076570,2026-11-17,https://www.npmjs.com/package/langchain,195,2023-03-19,https://tallycatalog.com/c/langchain/npm-downloads-weekly
-107,"LangChain · PyPI downloads, weekly",LangChain,downloads,36471805,2026-11-17,https://pypistats.org/packages/langchain,29,2026-05-24,https://tallycatalog.com/c/langchain/pypi-downloads-weekly
-108,LlamaIndex · GitHub stars,LlamaIndex,stars,52930,2026-11-17,https://github.com/run-llama/llama_index,15,2023-10-03,https://tallycatalog.com/c/llamaindex/github-stars
+107,"LangChain · PyPI downloads, weekly",LangChain,downloads,36471805,2026-11-17,https://pypistats.org/packages/langchain,215,2022-11-06,https://tallycatalog.com/c/langchain/pypi-downloads-weekly
+108,LlamaIndex · GitHub stars,LlamaIndex,stars,52930,2026-11-17,https://github.com/run-llama/llama_index,37,2023-10-03,https://tallycatalog.com/c/llamaindex/github-stars
 109,"LlamaIndex · npm downloads, weekly",LlamaIndex,downloads,198146,2026-11-17,https://www.npmjs.com/package/llamaindex,177,2023-07-23,https://tallycatalog.com/c/llamaindex/npm-downloads-weekly
-110,"LlamaIndex · PyPI downloads, weekly",LlamaIndex,downloads,403057,2026-11-17,https://pypistats.org/packages/llama-index,29,2026-05-24,https://tallycatalog.com/c/llamaindex/pypi-downloads-weekly
+110,"LlamaIndex · PyPI downloads, weekly",LlamaIndex,downloads,403057,2026-11-17,https://pypistats.org/packages/llama-index,199,2023-02-26,https://tallycatalog.com/c/llamaindex/pypi-downloads-weekly
 111,"Ollama · npm downloads, weekly",Ollama,downloads,1184351,2026-11-17,https://www.npmjs.com/package/ollama,169,2023-09-17,https://tallycatalog.com/c/ollama/npm-downloads-weekly
-112,"Ollama · PyPI downloads, weekly",Ollama,downloads,2756173,2026-11-17,https://pypistats.org/packages/ollama,29,2026-05-24,https://tallycatalog.com/c/ollama/pypi-downloads-weekly
+112,"Ollama · PyPI downloads, weekly",Ollama,downloads,2756173,2026-11-17,https://pypistats.org/packages/ollama,160,2023-07-09,https://tallycatalog.com/c/ollama/pypi-downloads-weekly
 113,"n8n · npm downloads, weekly",n8n,downloads,105520,2026-11-17,https://www.npmjs.com/package/n8n,398,2019-04-28,https://tallycatalog.com/c/n8n/npm-downloads-weekly
-114,Dify · GitHub stars,Dify,stars,161378,2026-11-18,https://github.com/langgenius/dify,18,2023-05-15,https://tallycatalog.com/c/dify/github-stars
-115,Open WebUI · GitHub stars,Open WebUI,stars,158955,2026-11-18,https://github.com/open-webui/open-webui,14,2024-02-17,https://tallycatalog.com/c/open-webui/github-stars
-116,"Open WebUI · PyPI downloads, weekly",Open WebUI,downloads,277584,2026-11-18,https://pypistats.org/packages/open-webui,29,2026-05-24,https://tallycatalog.com/c/open-webui/pypi-downloads-weekly
-117,AutoGPT · GitHub stars,AutoGPT,stars,188078,2026-11-18,https://github.com/Significant-Gravitas/AutoGPT,16,2023-09-26,https://tallycatalog.com/c/autogpt/github-stars
-118,CrewAI · GitHub stars,CrewAI,stars,61038,2026-11-18,https://github.com/crewAIInc/crewAI,12,2024-10-01,https://tallycatalog.com/c/crewai/github-stars
-119,"CrewAI · PyPI downloads, weekly",CrewAI,downloads,599501,2026-11-18,https://pypistats.org/packages/crewai,29,2026-05-24,https://tallycatalog.com/c/crewai/pypi-downloads-weekly
+114,Dify · GitHub stars,Dify,stars,161378,2026-11-18,https://github.com/langgenius/dify,42,2023-05-15,https://tallycatalog.com/c/dify/github-stars
+115,Open WebUI · GitHub stars,Open WebUI,stars,158955,2026-11-18,https://github.com/open-webui/open-webui,35,2024-02-17,https://tallycatalog.com/c/open-webui/github-stars
+116,"Open WebUI · PyPI downloads, weekly",Open WebUI,downloads,277584,2026-11-18,https://pypistats.org/packages/open-webui,134,2024-05-26,https://tallycatalog.com/c/open-webui/pypi-downloads-weekly
+117,AutoGPT · GitHub stars,AutoGPT,stars,188078,2026-11-18,https://github.com/Significant-Gravitas/AutoGPT,40,2023-09-26,https://tallycatalog.com/c/autogpt/github-stars
+118,CrewAI · GitHub stars,CrewAI,stars,61038,2026-11-18,https://github.com/crewAIInc/crewAI,30,2024-07-14,https://tallycatalog.com/c/crewai/github-stars
+119,"CrewAI · PyPI downloads, weekly",CrewAI,downloads,599501,2026-11-18,https://pypistats.org/packages/crewai,158,2023-12-10,https://tallycatalog.com/c/crewai/pypi-downloads-weekly
 120,LangGraph · GitHub stars,LangGraph,stars,45079,2026-11-18,https://github.com/langchain-ai/langgraph,14,2024-01-09,https://tallycatalog.com/c/langgraph/github-stars
 121,"LangGraph · npm downloads, weekly",LangGraph,downloads,5094192,2026-11-18,https://www.npmjs.com/package/@langchain/langgraph,151,2024-01-21,https://tallycatalog.com/c/langgraph/npm-downloads-weekly
-122,"LangGraph · PyPI downloads, weekly",LangGraph,downloads,14594929,2026-11-18,https://pypistats.org/packages/langgraph,29,2026-05-24,https://tallycatalog.com/c/langgraph/pypi-downloads-weekly
-123,Vercel AI SDK · GitHub stars,Vercel AI SDK,stars,28051,2026-11-18,https://github.com/vercel/ai,17,2023-08-23,https://tallycatalog.com/c/vercel-ai-sdk/github-stars
+122,"LangGraph · PyPI downloads, weekly",LangGraph,downloads,14594929,2026-11-18,https://pypistats.org/packages/langgraph,153,2024-01-14,https://tallycatalog.com/c/langgraph/pypi-downloads-weekly
+123,Vercel AI SDK · GitHub stars,Vercel AI SDK,stars,28051,2026-11-18,https://github.com/vercel/ai,39,2023-08-23,https://tallycatalog.com/c/vercel-ai-sdk/github-stars
 124,"Vercel AI SDK · npm downloads, weekly",Vercel AI SDK,downloads,46516458,2026-11-18,https://www.npmjs.com/package/ai,615,2015-03-01,https://tallycatalog.com/c/vercel-ai-sdk/npm-downloads-weekly
 125,"Supabase · npm downloads, weekly",Supabase,downloads,70283976,2026-11-18,https://www.npmjs.com/package/@supabase/supabase-js,360,2020-01-19,https://tallycatalog.com/c/supabase/npm-downloads-weekly
-126,"Supabase · PyPI downloads, weekly",Supabase,downloads,8516744,2026-11-18,https://pypistats.org/packages/supabase,29,2026-05-24,https://tallycatalog.com/c/supabase/pypi-downloads-weekly
+126,"Supabase · PyPI downloads, weekly",Supabase,downloads,8516744,2026-11-18,https://pypistats.org/packages/supabase,271,2021-08-29,https://tallycatalog.com/c/supabase/pypi-downloads-weekly
 127,"Next.js · npm downloads, weekly",Next.js,downloads,95809261,2026-11-18,https://www.npmjs.com/package/next,615,2015-03-01,https://tallycatalog.com/c/next-js/npm-downloads-weekly
 128,Transformers · GitHub stars,Transformers,stars,169323,2026-11-18,https://github.com/huggingface/transformers,33,2019-09-27,https://tallycatalog.com/c/transformers/github-stars
-129,"Transformers · PyPI downloads, weekly",Transformers,downloads,28000809,2026-11-18,https://pypistats.org/packages/transformers,29,2026-05-24,https://tallycatalog.com/c/transformers/pypi-downloads-weekly
+129,"Transformers · PyPI downloads, weekly",Transformers,downloads,28000809,2026-11-18,https://pypistats.org/packages/transformers,386,2017-04-23,https://tallycatalog.com/c/transformers/pypi-downloads-weekly
 130,vLLM · GitHub stars,vLLM,stars,97115,2026-11-18,https://github.com/vllm-project/vllm,18,2023-06-20,https://tallycatalog.com/c/vllm/github-stars
-131,"vLLM · PyPI downloads, weekly",vLLM,downloads,597680,2026-11-18,https://pypistats.org/packages/vllm,29,2026-05-24,https://tallycatalog.com/c/vllm/pypi-downloads-weekly
-132,llama.cpp · GitHub stars,llama.cpp,stars,135680,2026-11-18,https://github.com/ggml-org/llama.cpp,11,2025-02-16,https://tallycatalog.com/c/llama-cpp/github-stars
-133,Qdrant · GitHub stars,Qdrant,stars,35617,2026-11-18,https://github.com/qdrant/qdrant,24,2020-12-15,https://tallycatalog.com/c/qdrant/github-stars
-134,Chroma · GitHub stars,Chroma,stars,29707,2026-11-18,https://github.com/chroma-core/chroma,18,2023-02-08,https://tallycatalog.com/c/chroma/github-stars
+131,"vLLM · PyPI downloads, weekly",vLLM,downloads,597680,2026-11-18,https://pypistats.org/packages/vllm,182,2023-06-25,https://tallycatalog.com/c/vllm/pypi-downloads-weekly
+132,llama.cpp · GitHub stars,llama.cpp,stars,135680,2026-11-18,https://github.com/ggml-org/llama.cpp,24,2025-02-16,https://tallycatalog.com/c/llama-cpp/github-stars
+133,Qdrant · GitHub stars,Qdrant,stars,35617,2026-11-18,https://github.com/qdrant/qdrant,61,2020-12-15,https://tallycatalog.com/c/qdrant/github-stars
+134,Chroma · GitHub stars,Chroma,stars,29707,2026-11-18,https://github.com/chroma-core/chroma,46,2023-02-08,https://tallycatalog.com/c/chroma/github-stars
 135,"Chroma · npm downloads, weekly",Chroma,downloads,304619,2026-11-18,https://www.npmjs.com/package/chromadb,199,2023-02-19,https://tallycatalog.com/c/chroma/npm-downloads-weekly
-136,Weaviate · GitHub stars,Weaviate,stars,16953,2026-11-18,https://github.com/weaviate/weaviate,18,2023-01-21,https://tallycatalog.com/c/weaviate/github-stars
+136,Weaviate · GitHub stars,Weaviate,stars,16953,2026-11-18,https://github.com/weaviate/weaviate,42,2023-01-21,https://tallycatalog.com/c/weaviate/github-stars
 137,"Weaviate · npm downloads, weekly",Weaviate,downloads,470886,2026-11-18,https://www.npmjs.com/package/weaviate-client,336,2020-07-05,https://tallycatalog.com/c/weaviate/npm-downloads-weekly
-138,"Weaviate · PyPI downloads, weekly",Weaviate,downloads,1211507,2026-11-18,https://pypistats.org/packages/weaviate-client,29,2026-05-24,https://tallycatalog.com/c/weaviate/pypi-downloads-weekly
-139,Milvus · GitHub stars,Milvus,stars,46679,2026-11-18,https://github.com/milvus-io/milvus,4,2026-11-15,https://tallycatalog.com/c/milvus/github-stars
-140,"Milvus · PyPI downloads, weekly",Milvus,downloads,749517,2026-11-18,https://pypistats.org/packages/pymilvus,29,2026-05-24,https://tallycatalog.com/c/milvus/pypi-downloads-weekly
-141,LiteLLM · GitHub stars,LiteLLM,stars,63444,2026-11-18,https://github.com/BerriAI/litellm,17,2023-11-15,https://tallycatalog.com/c/litellm/github-stars
-142,"LiteLLM · PyPI downloads, weekly",LiteLLM,downloads,23892107,2026-11-18,https://pypistats.org/packages/litellm,29,2026-05-24,https://tallycatalog.com/c/litellm/pypi-downloads-weekly
+138,"Weaviate · PyPI downloads, weekly",Weaviate,downloads,1211507,2026-11-18,https://pypistats.org/packages/weaviate-client,357,2019-11-17,https://tallycatalog.com/c/weaviate/pypi-downloads-weekly
+139,Milvus · GitHub stars,Milvus,stars,46679,2026-11-18,https://github.com/milvus-io/milvus,73,2019-11-18,https://tallycatalog.com/c/milvus/github-stars
+140,"Milvus · PyPI downloads, weekly",Milvus,downloads,749517,2026-11-18,https://pypistats.org/packages/pymilvus,390,2019-06-23,https://tallycatalog.com/c/milvus/pypi-downloads-weekly
+141,LiteLLM · GitHub stars,LiteLLM,stars,63444,2026-11-18,https://github.com/BerriAI/litellm,42,2023-08-01,https://tallycatalog.com/c/litellm/github-stars
+142,"LiteLLM · PyPI downloads, weekly",LiteLLM,downloads,23892107,2026-11-18,https://pypistats.org/packages/litellm,176,2023-08-06,https://tallycatalog.com/c/litellm/pypi-downloads-weekly
 143,"Langfuse · npm downloads, weekly",Langfuse,downloads,2470994,2026-11-18,https://www.npmjs.com/package/langfuse,180,2023-07-02,https://tallycatalog.com/c/langfuse/npm-downloads-weekly
-144,"Langfuse · PyPI downloads, weekly",Langfuse,downloads,7535300,2026-11-18,https://pypistats.org/packages/langfuse,29,2026-05-24,https://tallycatalog.com/c/langfuse/pypi-downloads-weekly
-145,Browser Use · GitHub stars,Browser Use,stars,121331,2026-11-18,https://github.com/browser-use/browser-use,10,2024-12-23,https://tallycatalog.com/c/browser-use/github-stars
-146,"Browser Use · PyPI downloads, weekly",Browser Use,downloads,2082510,2026-11-18,https://pypistats.org/packages/browser-use,29,2026-05-24,https://tallycatalog.com/c/browser-use/pypi-downloads-weekly
-147,Firecrawl · GitHub stars,Firecrawl,stars,202654,2026-11-18,https://github.com/firecrawl/firecrawl,10,2025-08-18,https://tallycatalog.com/c/firecrawl/github-stars
+144,"Langfuse · PyPI downloads, weekly",Langfuse,downloads,7535300,2026-11-18,https://pypistats.org/packages/langfuse,178,2023-07-23,https://tallycatalog.com/c/langfuse/pypi-downloads-weekly
+145,Browser Use · GitHub stars,Browser Use,stars,121331,2026-11-18,https://github.com/browser-use/browser-use,26,2024-12-23,https://tallycatalog.com/c/browser-use/github-stars
+146,"Browser Use · PyPI downloads, weekly",Browser Use,downloads,2082510,2026-11-18,https://pypistats.org/packages/browser-use,109,2024-11-17,https://tallycatalog.com/c/browser-use/pypi-downloads-weekly
+147,Firecrawl · GitHub stars,Firecrawl,stars,202654,2026-11-18,https://github.com/firecrawl/firecrawl,19,2025-08-18,https://tallycatalog.com/c/firecrawl/github-stars
 148,"Firecrawl · npm downloads, weekly",Firecrawl,downloads,1406319,2026-11-18,https://www.npmjs.com/package/@mendable/firecrawl-js,138,2024-04-21,https://tallycatalog.com/c/firecrawl/npm-downloads-weekly
-149,"Firecrawl · PyPI downloads, weekly",Firecrawl,downloads,1622694,2026-11-18,https://pypistats.org/packages/firecrawl-py,29,2026-05-24,https://tallycatalog.com/c/firecrawl/pypi-downloads-weekly
-150,Playwright · GitHub stars,Playwright,stars,100439,2026-11-18,https://github.com/microsoft/playwright,30,2020-01-22,https://tallycatalog.com/c/playwright/github-stars
+149,"Firecrawl · PyPI downloads, weekly",Firecrawl,downloads,1622694,2026-11-18,https://pypistats.org/packages/firecrawl-py,139,2024-04-21,https://tallycatalog.com/c/firecrawl/pypi-downloads-weekly
+150,Playwright · GitHub stars,Playwright,stars,100439,2026-11-18,https://github.com/microsoft/playwright,86,2020-01-22,https://tallycatalog.com/c/playwright/github-stars
 151,"Playwright · npm downloads, weekly",Playwright,downloads,175273259,2026-11-18,https://www.npmjs.com/package/playwright,614,2015-03-08,https://tallycatalog.com/c/playwright/npm-downloads-weekly
-152,"Playwright · PyPI downloads, weekly",Playwright,downloads,33358749,2026-11-18,https://pypistats.org/packages/playwright,29,2026-05-24,https://tallycatalog.com/c/playwright/pypi-downloads-weekly
-153,Zed · GitHub stars,Zed,stars,95233,2026-11-18,https://github.com/zed-industries/zed,4,2026-11-15,https://tallycatalog.com/c/zed/github-stars
+152,"Playwright · PyPI downloads, weekly",Playwright,downloads,33358749,2026-11-18,https://pypistats.org/packages/playwright,337,2018-01-21,https://tallycatalog.com/c/playwright/pypi-downloads-weekly
+153,Zed · GitHub stars,Zed,stars,95233,2026-11-18,https://github.com/zed-industries/zed,38,2024-01-24,https://tallycatalog.com/c/zed/github-stars
 154,"PostHog · npm downloads, weekly",PostHog,downloads,26548258,2026-11-18,https://www.npmjs.com/package/posthog-js,355,2020-02-23,https://tallycatalog.com/c/posthog/npm-downloads-weekly
-155,"PostHog · PyPI downloads, weekly",PostHog,downloads,11767243,2026-11-18,https://pypistats.org/packages/posthog,29,2026-05-24,https://tallycatalog.com/c/posthog/pypi-downloads-weekly
+155,"PostHog · PyPI downloads, weekly",PostHog,downloads,11767243,2026-11-18,https://pypistats.org/packages/posthog,348,2020-02-23,https://tallycatalog.com/c/posthog/pypi-downloads-weekly
 156,"Excalidraw · npm downloads, weekly",Excalidraw,downloads,1426795,2026-11-18,https://www.npmjs.com/package/@excalidraw/excalidraw,314,2020-12-06,https://tallycatalog.com/c/excalidraw/npm-downloads-weekly
-157,Mastra · GitHub stars,Mastra,stars,29578,2026-11-18,https://github.com/mastra-ai/mastra,11,2024-10-31,https://tallycatalog.com/c/mastra/github-stars
+157,Mastra · GitHub stars,Mastra,stars,29578,2026-11-18,https://github.com/mastra-ai/mastra,27,2024-10-31,https://tallycatalog.com/c/mastra/github-stars
 158,"Mastra · npm downloads, weekly",Mastra,downloads,3603789,2026-11-18,https://www.npmjs.com/package/@mastra/core,114,2024-10-06,https://tallycatalog.com/c/mastra/npm-downloads-weekly
-159,Pydantic AI · GitHub stars,Pydantic AI,stars,21265,2026-11-18,https://github.com/pydantic/pydantic-ai,12,2024-12-02,https://tallycatalog.com/c/pydantic-ai/github-stars
-160,"Pydantic AI · PyPI downloads, weekly",Pydantic AI,downloads,1524747,2026-11-18,https://pypistats.org/packages/pydantic-ai,29,2026-05-24,https://tallycatalog.com/c/pydantic-ai/pypi-downloads-weekly
-161,DSPy · GitHub stars,DSPy,stars,39116,2026-11-18,https://github.com/stanfordnlp/dspy,16,2023-08-25,https://tallycatalog.com/c/dspy/github-stars
-162,"DSPy · PyPI downloads, weekly",DSPy,downloads,1467956,2026-11-18,https://pypistats.org/packages/dspy,29,2026-05-24,https://tallycatalog.com/c/dspy/pypi-downloads-weekly
-163,Haystack · GitHub stars,Haystack,stars,27037,2026-11-18,https://github.com/deepset-ai/haystack,29,2020-04-11,https://tallycatalog.com/c/haystack/github-stars
-164,"Haystack · PyPI downloads, weekly",Haystack,downloads,168073,2026-11-18,https://pypistats.org/packages/haystack-ai,29,2026-05-24,https://tallycatalog.com/c/haystack/pypi-downloads-weekly
-165,Continue · GitHub stars,Continue,stars,36506,2026-11-18,https://github.com/continuedev/continue,17,2023-07-03,https://tallycatalog.com/c/continue/github-stars
-166,Cline · GitHub stars,Cline,stars,71726,2026-11-18,https://github.com/cline/cline,11,2024-10-31,https://tallycatalog.com/c/cline/github-stars
-167,Aider · GitHub stars,Aider,stars,50161,2026-11-18,https://github.com/Aider-AI/aider,13,2024-10-05,https://tallycatalog.com/c/aider/github-stars
-168,"Aider · PyPI downloads, weekly",Aider,downloads,112646,2026-11-18,https://pypistats.org/packages/aider-chat,29,2026-05-24,https://tallycatalog.com/c/aider/pypi-downloads-weekly
-169,OpenHands · GitHub stars,OpenHands,stars,93681,2026-11-18,https://github.com/OpenHands/OpenHands,9,2024-08-19,https://tallycatalog.com/c/openhands/github-stars
-170,Mem0 · GitHub stars,Mem0,stars,69137,2026-11-18,https://github.com/mem0ai/mem0,13,2024-07-13,https://tallycatalog.com/c/mem0/github-stars
+159,Pydantic AI · GitHub stars,Pydantic AI,stars,21265,2026-11-18,https://github.com/pydantic/pydantic-ai,24,2024-12-02,https://tallycatalog.com/c/pydantic-ai/github-stars
+160,"Pydantic AI · PyPI downloads, weekly",Pydantic AI,downloads,1524747,2026-11-18,https://pypistats.org/packages/pydantic-ai,111,2024-11-03,https://tallycatalog.com/c/pydantic-ai/pypi-downloads-weekly
+161,DSPy · GitHub stars,DSPy,stars,39116,2026-11-18,https://github.com/stanfordnlp/dspy,39,2023-08-25,https://tallycatalog.com/c/dspy/github-stars
+162,"DSPy · PyPI downloads, weekly",DSPy,downloads,1467956,2026-11-18,https://pypistats.org/packages/dspy,171,2016-06-05,https://tallycatalog.com/c/dspy/pypi-downloads-weekly
+163,Haystack · GitHub stars,Haystack,stars,27037,2026-11-18,https://github.com/deepset-ai/haystack,71,2020-04-11,https://tallycatalog.com/c/haystack/github-stars
+164,"Haystack · PyPI downloads, weekly",Haystack,downloads,168073,2026-11-18,https://pypistats.org/packages/haystack-ai,173,2023-08-27,https://tallycatalog.com/c/haystack/pypi-downloads-weekly
+165,Continue · GitHub stars,Continue,stars,36506,2026-11-18,https://github.com/continuedev/continue,42,2023-07-03,https://tallycatalog.com/c/continue/github-stars
+166,Cline · GitHub stars,Cline,stars,71726,2026-11-18,https://github.com/cline/cline,26,2024-11-06,https://tallycatalog.com/c/cline/github-stars
+167,Aider · GitHub stars,Aider,stars,50161,2026-11-18,https://github.com/Aider-AI/aider,28,2024-10-05,https://tallycatalog.com/c/aider/github-stars
+168,"Aider · PyPI downloads, weekly",Aider,downloads,112646,2026-11-18,https://pypistats.org/packages/aider-chat,183,2023-06-18,https://tallycatalog.com/c/aider/pypi-downloads-weekly
+169,OpenHands · GitHub stars,OpenHands,stars,93681,2026-11-18,https://github.com/OpenHands/OpenHands,19,2024-08-19,https://tallycatalog.com/c/openhands/github-stars
+170,Mem0 · GitHub stars,Mem0,stars,69137,2026-11-18,https://github.com/mem0ai/mem0,27,2024-07-13,https://tallycatalog.com/c/mem0/github-stars
 171,"Mem0 · npm downloads, weekly",Mem0,downloads,221164,2026-11-18,https://www.npmjs.com/package/mem0ai,124,2024-07-28,https://tallycatalog.com/c/mem0/npm-downloads-weekly
-172,"Mem0 · PyPI downloads, weekly",Mem0,downloads,540504,2026-11-18,https://pypistats.org/packages/mem0ai,29,2026-05-24,https://tallycatalog.com/c/mem0/pypi-downloads-weekly
-173,Unsloth · GitHub stars,Unsloth,stars,79708,2026-11-18,https://github.com/unslothai/unsloth,15,2023-11-30,https://tallycatalog.com/c/unsloth/github-stars
-174,"Unsloth · PyPI downloads, weekly",Unsloth,downloads,166256,2026-11-18,https://pypistats.org/packages/unsloth,29,2026-05-24,https://tallycatalog.com/c/unsloth/pypi-downloads-weekly
-175,ComfyUI · GitHub stars,ComfyUI,stars,147371,2026-11-18,https://github.com/Comfy-Org/ComfyUI,4,2026-11-15,https://tallycatalog.com/c/comfyui/github-stars
-176,Stagehand · GitHub stars,Stagehand,stars,26081,2026-11-18,https://github.com/browserbase/stagehand,12,2024-10-31,https://tallycatalog.com/c/stagehand/github-stars
+172,"Mem0 · PyPI downloads, weekly",Mem0,downloads,540504,2026-11-18,https://pypistats.org/packages/mem0ai,126,2024-07-21,https://tallycatalog.com/c/mem0/pypi-downloads-weekly
+173,Unsloth · GitHub stars,Unsloth,stars,79708,2026-11-18,https://github.com/unslothai/unsloth,36,2023-12-01,https://tallycatalog.com/c/unsloth/github-stars
+174,"Unsloth · PyPI downloads, weekly",Unsloth,downloads,166256,2026-11-18,https://pypistats.org/packages/unsloth,123,2024-08-11,https://tallycatalog.com/c/unsloth/pypi-downloads-weekly
+175,ComfyUI · GitHub stars,ComfyUI,stars,147371,2026-11-18,https://github.com/Comfy-Org/ComfyUI,38,2023-01-21,https://tallycatalog.com/c/comfyui/github-stars
+176,Stagehand · GitHub stars,Stagehand,stars,26081,2026-11-18,https://github.com/browserbase/stagehand,26,2024-10-31,https://tallycatalog.com/c/stagehand/github-stars
 177,"Stagehand · npm downloads, weekly",Stagehand,downloads,2579768,2026-11-18,https://www.npmjs.com/package/@browserbasehq/stagehand,106,2024-12-01,https://tallycatalog.com/c/stagehand/npm-downloads-weekly
 178,"Tavily · npm downloads, weekly",Tavily,downloads,455140,2026-11-18,https://www.npmjs.com/package/@tavily/core,114,2024-10-06,https://tallycatalog.com/c/tavily/npm-downloads-weekly
-179,"Tavily · PyPI downloads, weekly",Tavily,downloads,1625401,2026-11-18,https://pypistats.org/packages/tavily-python,29,2026-05-24,https://tallycatalog.com/c/tavily/pypi-downloads-weekly
-180,Exa · GitHub stars,Exa,stars,239,2026-11-18,https://github.com/exa-labs/exa-py,11,2024-01-26,https://tallycatalog.com/c/exa/github-stars
+179,"Tavily · PyPI downloads, weekly",Tavily,downloads,1625401,2026-11-18,https://pypistats.org/packages/tavily-python,168,2023-09-17,https://tallycatalog.com/c/tavily/pypi-downloads-weekly
+180,Exa · GitHub stars,Exa,stars,239,2026-11-18,https://github.com/exa-labs/exa-py,13,2024-01-26,https://tallycatalog.com/c/exa/github-stars
 181,"Exa · npm downloads, weekly",Exa,downloads,1353031,2026-11-18,https://www.npmjs.com/package/exa-js,150,2024-01-28,https://tallycatalog.com/c/exa/npm-downloads-weekly
-182,"Exa · PyPI downloads, weekly",Exa,downloads,1701139,2026-11-18,https://pypistats.org/packages/exa-py,29,2026-05-24,https://tallycatalog.com/c/exa/pypi-downloads-weekly
-183,Anthropic SDK · GitHub stars,Anthropic SDK,stars,4084,2026-11-18,https://github.com/anthropics/anthropic-sdk-python,18,2023-01-25,https://tallycatalog.com/c/anthropic-sdk/github-stars
+182,"Exa · PyPI downloads, weekly",Exa,downloads,1701139,2026-11-18,https://pypistats.org/packages/exa-py,150,2024-02-04,https://tallycatalog.com/c/exa/pypi-downloads-weekly
+183,Anthropic SDK · GitHub stars,Anthropic SDK,stars,4084,2026-11-18,https://github.com/anthropics/anthropic-sdk-python,39,2023-01-25,https://tallycatalog.com/c/anthropic-sdk/github-stars
 184,"Anthropic SDK · npm downloads, weekly",Anthropic SDK,downloads,71932807,2026-11-18,https://www.npmjs.com/package/@anthropic-ai/sdk,201,2023-02-05,https://tallycatalog.com/c/anthropic-sdk/npm-downloads-weekly
-185,"Anthropic SDK · PyPI downloads, weekly",Anthropic SDK,downloads,49905196,2026-11-18,https://pypistats.org/packages/anthropic,29,2026-05-24,https://tallycatalog.com/c/anthropic-sdk/pypi-downloads-weekly
-186,OpenAI SDK · GitHub stars,OpenAI SDK,stars,32183,2026-11-18,https://github.com/openai/openai-python,22,2022-02-14,https://tallycatalog.com/c/openai-sdk/github-stars
+185,"Anthropic SDK · PyPI downloads, weekly",Anthropic SDK,downloads,49905196,2026-11-18,https://pypistats.org/packages/anthropic,200,2023-02-19,https://tallycatalog.com/c/anthropic-sdk/pypi-downloads-weekly
+186,OpenAI SDK · GitHub stars,OpenAI SDK,stars,32183,2026-11-18,https://github.com/openai/openai-python,57,2020-10-31,https://tallycatalog.com/c/openai-sdk/github-stars
 187,"OpenAI SDK · npm downloads, weekly",OpenAI SDK,downloads,59774802,2026-11-18,https://www.npmjs.com/package/openai,335,2020-07-12,https://tallycatalog.com/c/openai-sdk/npm-downloads-weekly
-188,"OpenAI SDK · PyPI downloads, weekly",OpenAI SDK,downloads,91536074,2026-11-18,https://pypistats.org/packages/openai,29,2026-05-24,https://tallycatalog.com/c/openai-sdk/pypi-downloads-weekly
-189,Model Context Protocol · GitHub stars,Model Context Protocol,stars,92074,2026-11-18,https://github.com/modelcontextprotocol/servers,12,2024-11-25,https://tallycatalog.com/c/model-context-protocol/github-stars
+188,"OpenAI SDK · PyPI downloads, weekly",OpenAI SDK,downloads,91536074,2026-11-18,https://pypistats.org/packages/openai,443,2018-03-11,https://tallycatalog.com/c/openai-sdk/pypi-downloads-weekly
+189,Model Context Protocol · GitHub stars,Model Context Protocol,stars,92074,2026-11-18,https://github.com/modelcontextprotocol/servers,27,2024-11-25,https://tallycatalog.com/c/model-context-protocol/github-stars
 190,"Model Context Protocol · npm downloads, weekly",Model Context Protocol,downloads,90522817,2026-11-18,https://www.npmjs.com/package/@modelcontextprotocol/sdk,108,2024-11-17,https://tallycatalog.com/c/model-context-protocol/npm-downloads-weekly
-191,"Model Context Protocol · PyPI downloads, weekly",Model Context Protocol,downloads,80991696,2026-11-18,https://pypistats.org/packages/mcp,29,2026-05-24,https://tallycatalog.com/c/model-context-protocol/pypi-downloads-weekly
+191,"Model Context Protocol · PyPI downloads, weekly",Model Context Protocol,downloads,80991696,2026-11-18,https://pypistats.org/packages/mcp,118,2018-10-28,https://tallycatalog.com/c/model-context-protocol/pypi-downloads-weekly
 206,YC · B2B companies,YC,companies,1165,2026-11-18,https://www.ycombinator.com/companies,43,2007-01-01,https://tallycatalog.com/c/yc/b2b-companies
 207,YC · SaaS companies,YC,companies,1108,2026-11-18,https://www.ycombinator.com/companies,47,2006-01-01,https://tallycatalog.com/c/yc/saas-companies
 208,YC · Fintech companies,YC,companies,718,2026-11-18,https://www.ycombinator.com/companies,44,2007-01-01,https://tallycatalog.com/c/yc/fintech-companies
@@ -203,298 +200,290 @@ id,title,subject,unit,value,as_of,source,history_points,first_date,page
 230,YC · Productivity industry companies,YC,companies,231,2026-11-18,https://www.ycombinator.com/companies,49,2005-07-01,https://tallycatalog.com/c/yc/productivity-industry-companies
 231,YC · Marketing industry companies,YC,companies,174,2026-11-18,https://www.ycombinator.com/companies,50,2006-01-01,https://tallycatalog.com/c/yc/marketing-industry-companies
 232,YC · Manufacturing and Robotics industry companies,YC,companies,171,2026-11-18,https://www.ycombinator.com/companies,34,2007-01-01,https://tallycatalog.com/c/yc/manufacturing-and-robotics-industry-companies
-233,Tavily · latest valuation,Tavily,USD,275000000,2026-11-16,https://sacra.com/c/tavily,3,2026-02-01,https://tallycatalog.com/c/tavily/latest-valuation
+233,Tavily · latest valuation,Tavily,USD,275000000,2026-11-18,https://www.bloomberg.com/news/articles/2026-02-10/nebius-agrees-to-buy-ai-agent-search-company-tavily-for-275-million,1,2026-11-18,https://tallycatalog.com/c/tavily/latest-valuation
 234,Tavily · open sales roles,Tavily,roles,2,2026-11-18,,2,2026-11-15,https://tallycatalog.com/c/tavily/open-sales-roles
-235,Tavily · headcount,Tavily,employees,125,2026-11-16,https://www.linkedin.com/company/tavily,1,2026-11-15,https://tallycatalog.com/c/tavily/headcount
-236,"Tavily · open roles, all teams",Tavily,roles,16,2026-11-16,,1,2026-11-15,https://tallycatalog.com/c/tavily/open-roles-all-teams
-237,Tavily · latest round size,Tavily,USD,25000000,2026-11-16,https://www.tavily.com/blog/big-news-from-tavily-announcing-25m-series-a-to-power-the-internet-of-agents,3,2025-08-01,https://tallycatalog.com/c/tavily/latest-round-size
-238,"Qdrant · PyPI downloads, weekly",Qdrant,downloads,3623152,2026-11-18,https://pypistats.org/packages/qdrant-client,28,2026-05-24,https://tallycatalog.com/c/qdrant/pypi-downloads-weekly
-239,"Chroma · PyPI downloads, weekly",Chroma,downloads,1985290,2026-11-18,https://pypistats.org/packages/chromadb,29,2026-05-24,https://tallycatalog.com/c/chroma/pypi-downloads-weekly
+235,Tavily · headcount,Tavily,employees,30,2026-11-18,https://www.calcalistech.com/ctechnews/article/bj9q00tgdee,4,2025-08-06,https://tallycatalog.com/c/tavily/headcount
+236,"Tavily · open roles, all teams",Tavily,roles,16,2026-11-18,,2,2026-11-15,https://tallycatalog.com/c/tavily/open-roles-all-teams
+237,Tavily · latest round size,Tavily,USD,25000000,2026-11-18,https://www.tavily.com/blog/big-news-from-tavily-announcing-25m-series-a-to-power-the-internet-of-agents,4,2025-08-01,https://tallycatalog.com/c/tavily/latest-round-size
+238,"Qdrant · PyPI downloads, weekly",Qdrant,downloads,3623152,2026-11-18,https://pypistats.org/packages/qdrant-client,286,2021-03-21,https://tallycatalog.com/c/qdrant/pypi-downloads-weekly
+239,"Chroma · PyPI downloads, weekly",Chroma,downloads,1985290,2026-11-18,https://pypistats.org/packages/chromadb,200,2023-02-19,https://tallycatalog.com/c/chroma/pypi-downloads-weekly
 240,YC · batch size,YC,companies,236,2026-11-18,https://www.ycombinator.com/companies,52,2005-07-01,https://tallycatalog.com/c/yc/batch-size
-241,LangChain · launches this quarter,LangChain,launches,10,2026-11-16,,8,2026-11-08,https://tallycatalog.com/c/langchain/launches-this-quarter
-242,LangChain · latest round size,LangChain,USD,300000000,2026-11-16,https://www.langchain.com/blog/series-c,6,2023-04-01,https://tallycatalog.com/c/langchain/latest-round-size
-243,LangChain · total funding raised,LangChain,USD,460000000,2026-11-16,https://www.businesswire.com/news/home/20261113716429/en/LangChain-Raises-%24300M-to-Enable-Every-Company-to-Own-Their-Intelligence,6,2023-04-01,https://tallycatalog.com/c/langchain/total-funding-raised
-244,LangChain · open engineering roles,LangChain,roles,28,2026-11-16,,1,2026-11-15,https://tallycatalog.com/c/langchain/open-engineering-roles
-245,LangChain · headcount,LangChain,employees,435,2026-11-16,https://cryptobriefing.com/langchain-raises-300-million-3-billion-valuation/,3,2026-11-01,https://tallycatalog.com/c/langchain/headcount
-246,LangChain · latest valuation,LangChain,USD,3000000000,2026-11-16,https://www.langchain.com/blog/series-c,5,2023-04-01,https://tallycatalog.com/c/langchain/latest-valuation
-247,"LangChain · open roles, all teams",LangChain,roles,103,2026-11-16,,1,2026-11-15,https://tallycatalog.com/c/langchain/open-roles-all-teams
-248,LangChain · open sales roles,LangChain,roles,37,2026-11-16,,1,2026-11-15,https://tallycatalog.com/c/langchain/open-sales-roles
-249,Airtable · launches this quarter,Airtable,launches,10,2026-11-16,,8,2026-11-08,https://tallycatalog.com/c/airtable/launches-this-quarter
-250,Airtable · open engineering roles,Airtable,roles,5,2026-11-16,,27,2019-07-20,https://tallycatalog.com/c/airtable/open-engineering-roles
-251,Airtable · headcount,Airtable,employees,935,2026-11-16,https://www.saastr.com/airtable-just-sold-for-2-25b-at-2-7x-arr-it-raised-1-4b-and-was-once-worth-11-7b,5,2025-11-01,https://tallycatalog.com/c/airtable/headcount
-252,Airtable · latest valuation,Airtable,USD,2250000000,2026-11-16,https://www.saastr.com/airtable-just-sold-for-2-25b-at-2-7x-arr-it-raised-1-4b-and-was-once-worth-11-7b/,7,2018-11-01,https://tallycatalog.com/c/airtable/latest-valuation
-253,Airtable · latest round size,Airtable,USD,735000000,2026-11-16,https://www.airtable.com/newsroom/series-f,3,2015-02-01,https://tallycatalog.com/c/airtable/latest-round-size
-254,"Airtable · open roles, all teams",Airtable,roles,1,2026-11-16,,28,2019-07-20,https://tallycatalog.com/c/airtable/open-roles-all-teams
-255,Airtable · open sales roles,Airtable,roles,5,2026-11-16,,27,2019-07-20,https://tallycatalog.com/c/airtable/open-sales-roles
-256,Lovable · open sales roles,Lovable,roles,10,2026-11-16,,1,2026-11-15,https://tallycatalog.com/c/lovable/open-sales-roles
-257,Lovable · latest round size,Lovable,USD,400000000,2026-11-16,https://lovable.dev/blog/series-c,6,2025-02-01,https://tallycatalog.com/c/lovable/latest-round-size
-259,Lovable · latest valuation,Lovable,USD,13300000000,2026-11-16,https://lovable.dev/blog/series-c,5,2025-07-01,https://tallycatalog.com/c/lovable/latest-valuation
-260,Lovable · headcount,Lovable,employees,146,2026-11-16,https://getlatka.com/companies/lovable.dev,3,2026-03-01,https://tallycatalog.com/c/lovable/headcount
-261,AI agents · largest round this month,AI agents,USD,300000000,2026-11-16,,6,2026-06-30,https://tallycatalog.com/c/ai-agents/largest-round-this-month
-262,AI agents · funding rounds this month,AI agents,rounds,6,2026-11-16,,6,2026-06-30,https://tallycatalog.com/c/ai-agents/funding-rounds-this-month
-263,Anthropic · latest valuation,Anthropic,USD,965000000000,2026-11-16,https://www.anthropic.com/news/series-h,6,2021-05-01,https://tallycatalog.com/c/anthropic/latest-valuation
-264,OpenAI · total funding raised,OpenAI,USD,183700000000,2026-11-16,https://www.clay.com/dossier/openai-funding,7,2019-07-01,https://tallycatalog.com/c/openai/total-funding-raised
-265,OpenAI · latest valuation,OpenAI,USD,1.25e+12,2026-11-16,https://www.cnbctv18.com/technology/openai-gets-dollar-11-billion-funding-at-dollar-1-25-trillion-valuation-report-20029333.htm,8,2024-02-01,https://tallycatalog.com/c/openai/latest-valuation
-266,OpenAI · latest round size,OpenAI,USD,122000000000,2026-11-16,https://openai.com/index/accelerating-the-next-phase-ai/,8,2019-07-01,https://tallycatalog.com/c/openai/latest-round-size
-267,Anthropic · latest round size,Anthropic,USD,65000000000,2026-11-16,https://www.anthropic.com/news/series-h,8,2021-05-01,https://tallycatalog.com/c/anthropic/latest-round-size
-268,Anthropic · total funding raised,Anthropic,USD,134809000000,2026-11-16,https://tracxn.com/d/companies/anthropic/__SzoxXDMin-NK5tKB7ks8yHr6S9Mz68pjVCzFEcGFZ08/funding-and-investors,1,2026-11-15,https://tallycatalog.com/c/anthropic/total-funding-raised
-269,Hugging Face · latest round size,Hugging Face,USD,235000000,2026-11-16,https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia,4,2017-05-01,https://tallycatalog.com/c/hugging-face/latest-round-size
-270,Hugging Face · latest valuation,Hugging Face,USD,12900000000,2026-11-16,https://www.financierworldwide.com/nvidia-strikes-129bn-deal-for-ai-platform-hugging-face,5,2022-05-01,https://tallycatalog.com/c/hugging-face/latest-valuation
-271,Hugging Face · total funding raised,Hugging Face,USD,396000000,2026-11-16,https://sacra.com/c/hugging-face/,8,2017-03-01,https://tallycatalog.com/c/hugging-face/total-funding-raised
-272,Perplexity · total funding raised,Perplexity,USD,1700000000,2026-11-16,https://www.revenuememo.com/p/perplexity-funding,11,2022-09-01,https://tallycatalog.com/c/perplexity/total-funding-raised
-273,Perplexity · latest valuation,Perplexity,USD,20000000000,2026-11-16,https://www.revenuememo.com/p/perplexity-funding,9,2024-01-01,https://tallycatalog.com/c/perplexity/latest-valuation
-274,Perplexity · latest round size,Perplexity,USD,200000000,2026-11-16,https://valueaddvc.com/blog/perplexity-ai-valuation-revenue-2026-23b-450m-arr,9,2023-03-01,https://tallycatalog.com/c/perplexity/latest-round-size
-275,Mercor · latest round size,Mercor,USD,750000000,2026-11-16,https://www.mercor.com/blog/series-d/,6,2024-09-01,https://tallycatalog.com/c/mercor/latest-round-size
-276,Mercor · latest valuation,Mercor,USD,20000000000,2026-11-16,https://www.mercor.com/blog/series-d/,6,2024-09-01,https://tallycatalog.com/c/mercor/latest-valuation
-277,Mercor · total funding raised,Mercor,USD,1235600000,2026-11-16,https://stockanalysis.com/private/mercor/valuation/,0,2026-11-15,https://tallycatalog.com/c/mercor/total-funding-raised
-278,Scale AI · latest valuation,Scale AI,USD,29000000000,2026-11-16,https://techcrunch.com/2025/06/13/scale-ai-confirms-significant-investment-from-meta-says-ceo-alexandr-wang-is-leaving/,7,2019-08-01,https://tallycatalog.com/c/scale-ai/latest-valuation
-279,Scale AI · total funding raised,Scale AI,USD,15900000000,2026-11-16,https://www.revenuememo.com/p/scale-ai-funding,9,2017-07-01,https://tallycatalog.com/c/scale-ai/total-funding-raised
-280,Scale AI · latest round size,Scale AI,USD,14300000000,2026-11-16,https://tracxn.com/d/companies/scale-ai/__iQC-P6zm6-YIchaMdt_UtWRoQNAzQYgkyxD99e8U-cI,6,2019-08-01,https://tallycatalog.com/c/scale-ai/latest-round-size
-281,ElevenLabs · latest round size,ElevenLabs,USD,300000000,2026-11-16,https://elevenlabs.io/blog/tender-22bn,1,2026-11-15,https://tallycatalog.com/c/elevenlabs/latest-round-size
-282,ElevenLabs · latest valuation,ElevenLabs,USD,22000000000,2026-11-16,https://elevenlabs.io/blog/tender-22bn,6,2023-06-01,https://tallycatalog.com/c/elevenlabs/latest-valuation
-283,ElevenLabs · total funding raised,ElevenLabs,USD,781000000,2026-11-16,https://getlatka.com/companies/elevenlabs.io,7,2023-01-01,https://tallycatalog.com/c/elevenlabs/total-funding-raised
-284,Mistral AI · latest round size,Mistral AI,EUR,3000000000,2026-11-16,https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/,7,2023-06-01,https://tallycatalog.com/c/mistral-ai/latest-round-size
-285,Mistral AI · total funding raised,Mistral AI,USD,7500000000,2026-11-16,https://news.crunchbase.com/venture/europe-record-setting-mistral-ai-raise/,7,2023-06-01,https://tallycatalog.com/c/mistral-ai/total-funding-raised
-286,Mistral AI · latest valuation,Mistral AI,USD,24390000000,2026-11-16,https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/,6,2023-06-01,https://tallycatalog.com/c/mistral-ai/latest-valuation
-287,Stripe · total funding raised,Stripe,USD,9810000000,2026-11-16,https://stockanalysis.com/private/stripe/,0,2012-02-01,https://tallycatalog.com/c/stripe/total-funding-raised
-288,Stripe · latest valuation,Stripe,USD,159000000000,2026-11-16,https://www.reuters.com/business/stripe-valuation-jumps-159-billion-latest-share-sale-2026-02-24/,4,2012-02-01,https://tallycatalog.com/c/stripe/latest-valuation
-289,Stripe · latest round size,Stripe,USD,6500000000,2026-11-16,https://www.cnbc.com/2023/03/15/stripe-raises-series-i-billion-at-sharply-reduced-50-billion-valuation.html,16,2009-09-01,https://tallycatalog.com/c/stripe/latest-round-size
-290,Databricks · total funding raised,Databricks,USD,32257000000,2026-11-16,https://www.cbinsights.com/company/databricks/financials,1,2026-11-15,https://tallycatalog.com/c/databricks/total-funding-raised
-291,Databricks · latest valuation,Databricks,USD,190000000000,2026-11-16,https://www.databricks.com/company/newsroom/press-releases/databricks-grows-80-yoy-surpasses-7b-revenue-run-rate-scales,8,2019-02-01,https://tallycatalog.com/c/databricks/latest-valuation
-292,Databricks · latest round size,Databricks,USD,5000000000,2026-11-16,https://www.databricks.com/company/newsroom/press-releases/databricks-grows-80-yoy-surpasses-7b-revenue-run-rate-scales,9,2013-09-01,https://tallycatalog.com/c/databricks/latest-round-size
+241,LangChain · launches this quarter,LangChain,launches,11,2026-11-18,,9,2026-11-08,https://tallycatalog.com/c/langchain/launches-this-quarter
+242,LangChain · latest round size,LangChain,USD,300000000,2026-11-18,https://www.langchain.com/blog/series-c,7,2023-04-01,https://tallycatalog.com/c/langchain/latest-round-size
+244,LangChain · open engineering roles,LangChain,roles,28,2026-11-18,,2,2026-11-15,https://tallycatalog.com/c/langchain/open-engineering-roles
+245,LangChain · headcount,LangChain,employees,435,2026-11-18,https://cryptobriefing.com/langchain-raises-300-million-3-billion-valuation/,4,2026-11-01,https://tallycatalog.com/c/langchain/headcount
+246,LangChain · latest valuation,LangChain,USD,3000000000,2026-11-18,https://www.langchain.com/blog/series-c,6,2023-04-01,https://tallycatalog.com/c/langchain/latest-valuation
+247,"LangChain · open roles, all teams",LangChain,roles,103,2026-11-18,,2,2026-11-15,https://tallycatalog.com/c/langchain/open-roles-all-teams
+248,LangChain · open sales roles,LangChain,roles,39,2026-11-18,,2,2026-11-15,https://tallycatalog.com/c/langchain/open-sales-roles
+249,Airtable · launches this quarter,Airtable,launches,10,2026-11-18,,9,2026-11-08,https://tallycatalog.com/c/airtable/launches-this-quarter
+250,Airtable · open engineering roles,Airtable,roles,5,2026-11-18,,70,2019-07-20,https://tallycatalog.com/c/airtable/open-engineering-roles
+251,Airtable · headcount,Airtable,employees,900,2026-11-18,https://sqmagazine.co.uk/how-many-people-work-at-airtable,8,2020-03-01,https://tallycatalog.com/c/airtable/headcount
+252,Airtable · latest valuation,Airtable,USD,2250000000,2026-11-18,https://www.saastr.com/airtable-just-sold-for-2-25b-at-2-7x-arr-it-raised-1-4b-and-was-once-worth-11-7b/,8,2018-11-01,https://tallycatalog.com/c/airtable/latest-valuation
+253,Airtable · latest round size,Airtable,USD,735000000,2026-11-18,https://www.airtable.com/newsroom/series-f,4,2021-12-01,https://tallycatalog.com/c/airtable/latest-round-size
+254,"Airtable · open roles, all teams",Airtable,roles,1,2026-11-18,,68,2019-07-20,https://tallycatalog.com/c/airtable/open-roles-all-teams
+255,Airtable · open sales roles,Airtable,roles,5,2026-11-18,,69,2019-07-20,https://tallycatalog.com/c/airtable/open-sales-roles
+256,Lovable · open sales roles,Lovable,roles,10,2026-11-18,,2,2026-11-15,https://tallycatalog.com/c/lovable/open-sales-roles
+257,Lovable · latest round size,Lovable,USD,400000000,2026-11-18,https://lovable.dev/blog/series-c,8,2024-10-07,https://tallycatalog.com/c/lovable/latest-round-size
+258,"Lovable · open roles, all teams",Lovable,roles,5,2026-11-18,,2,2026-11-15,https://tallycatalog.com/c/lovable/open-roles-all-teams
+259,Lovable · latest valuation,Lovable,USD,13300000000,2026-11-18,https://lovable.dev/blog/series-c,6,2025-07-01,https://tallycatalog.com/c/lovable/latest-valuation
+260,Lovable · headcount,Lovable,employees,146,2026-11-18,https://www.entrepreneur.com/business-news/executive-of-a-6-billion-ai-startup-her-biggest-worry,4,2025-07-17,https://tallycatalog.com/c/lovable/headcount
+261,AI agents · largest round this month,AI agents,USD,300000000,2026-11-18,,6,2026-06-30,https://tallycatalog.com/c/ai-agents/largest-round-this-month
+262,AI agents · funding rounds this month,AI agents,rounds,7,2026-11-18,,6,2026-06-30,https://tallycatalog.com/c/ai-agents/funding-rounds-this-month
+263,Anthropic · latest valuation,Anthropic,USD,965000000000,2026-11-18,https://www.anthropic.com/news/series-h,7,2025-03-01,https://tallycatalog.com/c/anthropic/latest-valuation
+265,OpenAI · latest valuation,OpenAI,USD,1.25e+12,2026-11-18,https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5,9,2024-02-01,https://tallycatalog.com/c/openai/latest-valuation
+266,OpenAI · latest round size,OpenAI,USD,122000000000,2026-11-18,https://openai.com/index/accelerating-the-next-phase-ai/,10,2019-07-01,https://tallycatalog.com/c/openai/latest-round-size
+267,Anthropic · latest round size,Anthropic,USD,65000000000,2026-11-18,https://www.anthropic.com/news/series-h,11,2021-05-01,https://tallycatalog.com/c/anthropic/latest-round-size
+269,Hugging Face · latest round size,Hugging Face,USD,235000000,2026-11-18,https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia,6,2017-05-01,https://tallycatalog.com/c/hugging-face/latest-round-size
+270,Hugging Face · latest valuation,Hugging Face,USD,12900000000,2026-11-18,https://www.financierworldwide.com/nvidia-strikes-129bn-deal-for-ai-platform-hugging-face,6,2022-05-01,https://tallycatalog.com/c/hugging-face/latest-valuation
+271,Hugging Face · total funding raised,Hugging Face,USD,395200000,2026-11-18,https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia,7,2017-03-01,https://tallycatalog.com/c/hugging-face/total-funding-raised
+272,Perplexity · total funding raised,Perplexity,USD,1500000000,2026-11-18,https://techcrunch.com/2025/09/10/perplexity-reportedly-raised-200m-at-20b-valuation,1,2026-11-18,https://tallycatalog.com/c/perplexity/total-funding-raised
+273,Perplexity · latest valuation,Perplexity,USD,20000000000,2026-11-18,https://techfundingnews.com/perplexity-raises-200m-at-20b-valuation-ai-search,6,2024-01-01,https://tallycatalog.com/c/perplexity/latest-valuation
+274,Perplexity · latest round size,Perplexity,USD,200000000,2026-11-18,https://valueaddvc.com/blog/perplexity-ai-valuation-revenue-2026-23b-450m-arr,10,2023-03-01,https://tallycatalog.com/c/perplexity/latest-round-size
+275,Mercor · latest round size,Mercor,USD,750000000,2026-11-18,https://www.mercor.com/blog/series-d/,7,2024-09-01,https://tallycatalog.com/c/mercor/latest-round-size
+276,Mercor · latest valuation,Mercor,USD,20000000000,2026-11-18,https://www.mercor.com/blog/series-d/,7,2024-09-01,https://tallycatalog.com/c/mercor/latest-valuation
+278,Scale AI · latest valuation,Scale AI,USD,29000000000,2026-11-18,https://techcrunch.com/2025/06/13/scale-ai-confirms-significant-investment-from-meta-says-ceo-alexandr-wang-is-leaving/,10,2019-08-01,https://tallycatalog.com/c/scale-ai/latest-valuation
+280,Scale AI · latest round size,Scale AI,USD,14300000000,2026-11-18,https://www.cnbc.com/2025/06/12/scale-ai-founder-wang-announces-exit-for-meta-part-of-14-billion-deal.html,6,2018-08-07,https://tallycatalog.com/c/scale-ai/latest-round-size
+281,ElevenLabs · latest round size,ElevenLabs,USD,300000000,2026-11-16,https://elevenlabs.io/blog/tender-22bn,7,2023-06-20,https://tallycatalog.com/c/elevenlabs/latest-round-size
+282,ElevenLabs · latest valuation,ElevenLabs,USD,22000000000,2026-11-18,https://elevenlabs.io/blog/tender-22bn,7,2025-01-01,https://tallycatalog.com/c/elevenlabs/latest-valuation
+283,ElevenLabs · total funding raised,ElevenLabs,USD,781000000,2026-11-18,https://elevenlabs.io/blog/series-d,6,2023-01-01,https://tallycatalog.com/c/elevenlabs/total-funding-raised
+284,Mistral AI · latest round size,Mistral AI,EUR,3000000000,2026-11-18,https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/,8,2023-06-01,https://tallycatalog.com/c/mistral-ai/latest-round-size
+285,Mistral AI · total funding raised,Mistral AI,USD,7500000000,2026-11-18,https://news.crunchbase.com/venture/europe-record-setting-mistral-ai-raise/,10,2023-06-01,https://tallycatalog.com/c/mistral-ai/total-funding-raised
+286,Mistral AI · latest valuation,Mistral AI,USD,24390000000,2026-11-18,https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/,7,2023-06-01,https://tallycatalog.com/c/mistral-ai/latest-valuation
+287,Stripe · total funding raised,Stripe,USD,8700000000,2026-11-18,https://finovate.com/stripe-lands-6-5-billion-in-funding-at-50-billion-valuation,1,2026-11-18,https://tallycatalog.com/c/stripe/total-funding-raised
+288,Stripe · latest valuation,Stripe,USD,159000000000,2026-11-18,https://www.cnbc.com/2026/02/24/stripe-value-stock-sale-tender-offer.html,7,2021-03-01,https://tallycatalog.com/c/stripe/latest-valuation
+289,Stripe · latest round size,Stripe,USD,6500000000,2026-11-18,https://www.cnbc.com/2023/03/15/stripe-raises-series-i-billion-at-sharply-reduced-50-billion-valuation.html,4,2023-03-01,https://tallycatalog.com/c/stripe/latest-round-size
+291,Databricks · latest valuation,Databricks,USD,190000000000,2026-11-18,https://www.databricks.com/company/newsroom/press-releases/databricks-grows-80-yoy-surpasses-7b-revenue-run-rate-scales,10,2021-02-01,https://tallycatalog.com/c/databricks/latest-valuation
+292,Databricks · latest round size,Databricks,USD,5000000000,2026-11-16,https://www.databricks.com/company/newsroom/press-releases/databricks-grows-80-yoy-surpasses-7b-revenue-run-rate-scales,17,2013-09-01,https://tallycatalog.com/c/databricks/latest-round-size
 293,Tailscale · latest round size,Tailscale,USD,160000000,2026-11-16,https://tailscale.com/blog/series-c,6,2020-04-01,https://tallycatalog.com/c/tailscale/latest-round-size
-294,Tailscale · latest valuation,Tailscale,USD,1450000000,2026-11-16,https://betakit.com/corporate-vpn-startup-tailscale-secures-230-million-cad-series-c-on-back-of-surprising-growth/,3,2025-04-01,https://tallycatalog.com/c/tailscale/latest-valuation
-295,Tailscale · total funding raised,Tailscale,USD,275000000,2026-11-16,https://betakit.com/corporate-vpn-startup-tailscale-secures-230-million-cad-series-c-on-back-of-surprising-growth/,6,2020-04-01,https://tallycatalog.com/c/tailscale/total-funding-raised
-296,Cognition · total funding raised,Cognition,USD,2500000000,2026-11-16,https://www.clay.com/dossier/cognition-funding,1,2026-11-15,https://tallycatalog.com/c/cognition/total-funding-raised
-297,Cognition · latest round size,Cognition,USD,2000000000,2026-11-16,https://cognition.com/blog/series-e,5,2024-03-01,https://tallycatalog.com/c/cognition/latest-round-size
-298,Cognition · latest valuation,Cognition,USD,48000000000,2026-11-16,https://cognition.com/blog/series-e,7,2024-04-01,https://tallycatalog.com/c/cognition/latest-valuation
+294,Tailscale · latest valuation,Tailscale,USD,1450000000,2026-11-18,https://betakit.com/corporate-vpn-startup-tailscale-secures-230-million-cad-series-c-on-back-of-surprising-growth/,5,2022-05-04,https://tallycatalog.com/c/tailscale/latest-valuation
+295,Tailscale · total funding raised,Tailscale,USD,275000000,2026-11-18,https://betakit.com/corporate-vpn-startup-tailscale-secures-230-million-cad-series-c-on-back-of-surprising-growth/,7,2020-04-01,https://tallycatalog.com/c/tailscale/total-funding-raised
+297,Cognition · latest round size,Cognition,USD,1000000000,2026-11-18,https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/,5,2024-04-01,https://tallycatalog.com/c/cognition/latest-round-size
+298,Cognition · latest valuation,Cognition,USD,48000000000,2026-11-18,https://cognition.com/blog/series-e,8,2024-04-01,https://tallycatalog.com/c/cognition/latest-valuation
 299,Cohere · latest round size,Cohere,USD,5000000000,2026-11-16,https://app.fundz.net/fundings/cohere-funding-round-series-e-ee8345,10,2021-09-01,https://tallycatalog.com/c/cohere/latest-round-size
-300,Cohere · latest valuation,Cohere,USD,26000000000,2026-11-16,https://app.dealroom.co/news/feed/cohere-targets-5-1b-series-e-at-26b-valuation-led-by-schwarz-group-in-canada-s-largest-private-raise,7,2023-06-01,https://tallycatalog.com/c/cohere/latest-valuation
-301,Cohere · total funding raised,Cohere,USD,1540000000,2026-11-16,https://tracxn.com/d/companies/cohere/__o4xfwmr3XwgsGEyH41XvwBm6Xd-SjsMlSld3d4ci6G0,9,2021-09-01,https://tallycatalog.com/c/cohere/total-funding-raised
-302,Groq · latest valuation,Groq,USD,3500000000,2026-11-16,https://groq.com/newsroom/groq-closes-usd350-million-series-a-building-the-world-s-leading-ai-inference-cloud,5,2016-12-01,https://tallycatalog.com/c/groq/latest-valuation
-303,Groq · total funding raised,Groq,USD,4260000000,2026-11-16,https://www.cbinsights.com/company/groq,1,2026-11-15,https://tallycatalog.com/c/groq/total-funding-raised
-304,Groq · latest round size,Groq,USD,350000000,2026-11-16,https://groq.com/newsroom/groq-closes-usd350-million-series-a-building-the-world-s-leading-ai-inference-cloud,7,2021-04-01,https://tallycatalog.com/c/groq/latest-round-size
-305,Replit · latest round size,Replit,USD,400000000,2026-11-16,https://replit.com/blog/replit-raises-400-million-dollars,8,2018-10-01,https://tallycatalog.com/c/replit/latest-round-size
-306,Replit · total funding raised,Replit,USD,878000000,2026-11-16,https://pitchbook.com/profiles/company/113831-02,8,2018-10-01,https://tallycatalog.com/c/replit/total-funding-raised
-307,Replit · latest valuation,Replit,USD,9000000000,2026-11-16,https://replit.com/blog/replit-raises-400-million-dollars,6,2021-12-01,https://tallycatalog.com/c/replit/latest-valuation
-308,Rippling · latest round size,Rippling,USD,450000000,2026-11-16,https://www.rippling.com/blog/series-g-fundraising-tender-offer,11,2017-01-01,https://tallycatalog.com/c/rippling/latest-round-size
-309,Rippling · total funding raised,Rippling,USD,1850000000,2026-11-16,https://stockanalysis.com/private/rippling/,7,2017-03-01,https://tallycatalog.com/c/rippling/total-funding-raised
-310,Rippling · latest valuation,Rippling,USD,16800000000,2026-11-16,https://techcrunch.com/2025/05/09/rippling-raises-450m-at-a-16-8b-valuation-reveals-yc-is-a-customer/,9,2017-03-01,https://tallycatalog.com/c/rippling/latest-valuation
-311,Runway · latest valuation,Runway,USD,5300000000,2026-11-16,https://techcrunch.com/2026/02/10/ai-video-startup-runway-raises-315m-at-5-3b-valuation-eyes-more-capable-world-models/,6,2022-12-01,https://tallycatalog.com/c/runway/latest-valuation
-312,Runway · total funding raised,Runway,USD,860000000,2026-11-16,https://news.crunchbase.com/venture/gen-ai-video-startup-unicorn-runway-seriese-raise/,9,2018-06-01,https://tallycatalog.com/c/runway/total-funding-raised
-313,Runway · latest round size,Runway,USD,315000000,2026-11-16,https://runway.com/news/runway-series-e-funding,9,2018-06-01,https://tallycatalog.com/c/runway/latest-round-size
-314,Profound · employee count,Profound,employees,451,2026-11-16,https://www.linkedin.com/company/tryprofound,1,2026-11-15,https://tallycatalog.com/c/profound/employee-count
-315,"Anthropic · IPO price range, low end",Anthropic,USD/share,70,2026-11-16,https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm,3,2026-11-10,https://tallycatalog.com/c/anthropic/ipo-price-range-low-end
-316,"Anthropic · IPO price range, high end",Anthropic,USD/share,78,2026-11-16,https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm,3,2026-11-10,https://tallycatalog.com/c/anthropic/ipo-price-range-high-end
-317,Anthropic · IPO shares offered,Anthropic,shares,825000000,2026-11-16,https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm,3,2026-11-10,https://tallycatalog.com/c/anthropic/ipo-shares-offered
-318,Anthropic · IPO order book oversubscription,Anthropic,times covered,6,2026-11-16,https://stockanalysis.com/news/anthropic-ipo-six-times-oversubscribed/,1,2026-11-10,https://tallycatalog.com/c/anthropic/ipo-order-book-oversubscription
-319,Anthropic · IPO concurrent private placement,Anthropic,USD,26000000000,2026-11-16,https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm,3,2026-11-10,https://tallycatalog.com/c/anthropic/ipo-concurrent-private-placement
-320,Anthropic · IPO valuation at top of range,Anthropic,USD,1.404e+12,2026-11-16,https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/,2,2026-11-10,https://tallycatalog.com/c/anthropic/ipo-valuation-at-top-of-range
-321,Anthropic · quarterly revenue,Anthropic,USD,16956000000,2026-11-15,https://www.tokenpost.com/news/business/47403,8,2024-12-31,https://tallycatalog.com/c/anthropic/quarterly-revenue
+300,Cohere · latest valuation,Cohere,USD,20000000000,2026-11-18,https://accessipos.com/cohere-stock-ipo,4,2024-07-01,https://tallycatalog.com/c/cohere/latest-valuation
+301,Cohere · total funding raised,Cohere,USD,1600000000,2026-11-18,https://betakit.com/coheres-valuation-hits-7-billion-usd-following-100-million-round-extension,4,2023-06-08,https://tallycatalog.com/c/cohere/total-funding-raised
+302,Groq · latest valuation,Groq,USD,3500000000,2026-11-18,https://groq.com/newsroom/groq-closes-usd350-million-series-a-building-the-world-s-leading-ai-inference-cloud,6,2024-08-01,https://tallycatalog.com/c/groq/latest-valuation
+303,Groq · total funding raised,Groq,USD,1000000000,2026-11-18,https://groq.com/newsroom/groq-closes-usd350-million-series-a-building-the-world-s-leading-ai-inference-cloud,1,2026-11-18,https://tallycatalog.com/c/groq/total-funding-raised
+304,Groq · latest round size,Groq,USD,350000000,2026-11-18,https://groq.com/newsroom/groq-closes-usd350-million-series-a-building-the-world-s-leading-ai-inference-cloud,9,2018-09-05,https://tallycatalog.com/c/groq/latest-round-size
+305,Replit · latest round size,Replit,USD,400000000,2026-11-18,https://replit.com/blog/replit-raises-400-million-dollars,9,2018-10-01,https://tallycatalog.com/c/replit/latest-round-size
+307,Replit · latest valuation,Replit,USD,9000000000,2026-11-18,https://replit.com/blog/replit-raises-400-million-dollars,7,2021-12-01,https://tallycatalog.com/c/replit/latest-valuation
+308,Rippling · latest round size,Rippling,USD,450000000,2026-11-18,https://www.rippling.com/blog/series-g-fundraising-tender-offer,4,2025-05-01,https://tallycatalog.com/c/rippling/latest-round-size
+309,Rippling · total funding raised,Rippling,USD,1850000000,2026-11-18,https://techcrunch.com/2025/05/09/rippling-raises-450m-at-a-16-8b-valuation-reveals-yc-is-a-customer,8,2017-03-01,https://tallycatalog.com/c/rippling/total-funding-raised
+310,Rippling · latest valuation,Rippling,USD,16800000000,2026-11-18,https://techcrunch.com/2025/05/09/rippling-raises-450m-at-a-16-8b-valuation-reveals-yc-is-a-customer/,9,2020-08-04,https://tallycatalog.com/c/rippling/latest-valuation
+311,Runway · latest valuation,Runway,USD,5300000000,2026-11-18,https://techcrunch.com/2026/02/10/ai-video-startup-runway-raises-315m-at-5-3b-valuation-eyes-more-capable-world-models/,7,2022-12-01,https://tallycatalog.com/c/runway/latest-valuation
+312,Runway · total funding raised,Runway,USD,860000000,2026-11-18,https://news.crunchbase.com/venture/gen-ai-video-startup-unicorn-runway-seriese-raise/,11,2018-06-01,https://tallycatalog.com/c/runway/total-funding-raised
+313,Runway · latest round size,Runway,USD,315000000,2026-11-18,https://runway.com/news/runway-series-e-funding,10,2018-06-01,https://tallycatalog.com/c/runway/latest-round-size
+314,Profound · employee count,Profound,employees,120,2026-11-18,https://fortune.com/2026/02/24/exclusive-as-ai-threatens-search-profound-raises-96-million-to-help-brands-stay-visible,2,2026-11-15,https://tallycatalog.com/c/profound/employee-count
+315,"Anthropic · IPO price range, low end",Anthropic,USD/share,70,2026-11-18,https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm,4,2026-11-10,https://tallycatalog.com/c/anthropic/ipo-price-range-low-end
+316,"Anthropic · IPO price range, high end",Anthropic,USD/share,78,2026-11-18,https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm,4,2026-11-10,https://tallycatalog.com/c/anthropic/ipo-price-range-high-end
+317,Anthropic · IPO shares offered,Anthropic,shares,825000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm,4,2026-11-10,https://tallycatalog.com/c/anthropic/ipo-shares-offered
+319,Anthropic · IPO concurrent private placement,Anthropic,USD,26000000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm,4,2026-11-10,https://tallycatalog.com/c/anthropic/ipo-concurrent-private-placement
+320,Anthropic · IPO valuation at top of range,Anthropic,USD,1.404e+12,2026-11-18,https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/,3,2026-11-10,https://tallycatalog.com/c/anthropic/ipo-valuation-at-top-of-range
+321,Anthropic · quarterly revenue,Anthropic,USD,16956000000,2026-11-15,https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm,8,2024-12-31,https://tallycatalog.com/c/anthropic/quarterly-revenue
 322,Anthropic · annual revenue,Anthropic,USD,4585000000,2026-11-15,https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm,3,2023-12-31,https://tallycatalog.com/c/anthropic/annual-revenue
 323,Anthropic · run-rate revenue,Anthropic,USD,81000000000,2026-11-15,https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm,10,2025-01-01,https://tallycatalog.com/c/anthropic/run-rate-revenue
 324,Anthropic · net revenue retention,Anthropic,%,900,2026-11-15,https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm,3,2026-09-30,https://tallycatalog.com/c/anthropic/net-revenue-retention
 325,Anthropic · total indebtedness,Anthropic,USD,6200000000,2026-11-15,https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm,4,2026-06-30,https://tallycatalog.com/c/anthropic/total-indebtedness
 326,Anthropic · customers paying $100K+,Anthropic,customers,11900,2026-11-15,https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm,8,2023-12-31,https://tallycatalog.com/c/anthropic/customers-paying-100k
 327,Anthropic · top-five customer revenue share,Anthropic,% of revenue,25,2026-11-15,https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm,3,2026-09-30,https://tallycatalog.com/c/anthropic/top-five-customer-revenue-share
-328,Anthropic · customers paying $1M+,Anthropic,customers,1900,2026-11-15,https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm,3,2026-09-30,https://tallycatalog.com/c/anthropic/customers-paying-1m
-329,Anthropic · non-cancelable purchase commitments,Anthropic,USD,313819000000,2026-11-15,https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm?a=1,5,2025-12-31,https://tallycatalog.com/c/anthropic/non-cancelable-purchase-commitments
+328,Anthropic · customers paying $1M+,Anthropic,customers,1900,2026-11-15,https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm,5,2026-02-12,https://tallycatalog.com/c/anthropic/customers-paying-1m
+329,Anthropic · non-cancelable purchase commitments,Anthropic,USD,313819000000,2026-11-15,https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm?a=1,4,2025-12-31,https://tallycatalog.com/c/anthropic/non-cancelable-purchase-commitments
 330,Anthropic · revenue per dollar of compute,Anthropic,USD,1.72,2026-11-15,https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/,8,2025-03-31,https://tallycatalog.com/c/anthropic/revenue-per-dollar-of-compute
 331,Claude Fable (latest) · API input price,Anthropic,USD/MTok,8,2026-11-15,https://platform.claude.com/docs/en/models/fable-5-2/overview.md,4,2026-06-09,https://tallycatalog.com/c/anthropic/claude-fable-latest-api-input-price
-332,Claude Fable (latest) · API output price,Anthropic,USD/MTok,40,2026-11-15,https://platform.claude.com/docs/en/models/fable-5-2/overview,4,2026-06-09,https://tallycatalog.com/c/anthropic/claude-fable-latest-api-output-price
-333,Claude Opus (latest) · API input price,Anthropic,USD/MTok,4,2026-11-15,https://platform.claude.com/docs/en/models/opus-5-5/overview,10,2024-03-04,https://tallycatalog.com/c/anthropic/claude-opus-latest-api-input-price
+332,Claude Fable (latest) · API output price,Anthropic,USD/MTok,40,2026-11-15,https://platform.claude.com/docs/en/models/fable-5-2/overview,5,2026-06-09,https://tallycatalog.com/c/anthropic/claude-fable-latest-api-output-price
+333,Claude Opus (latest) · API input price,Anthropic,USD/MTok,4,2026-11-15,https://platform.claude.com/docs/en/models/opus-5-5/overview,12,2024-03-04,https://tallycatalog.com/c/anthropic/claude-opus-latest-api-input-price
 334,Anthropic · compute capacity contracted,Anthropic,GW,14.8,2026-11-15,https://www.datacenterdynamics.com/en/news/anthropic-signed-517bn-in-compute-agreements-in-past-11-months/,1,2026-11-15,https://tallycatalog.com/c/anthropic/compute-capacity-contracted
-335,Claude Opus (latest) · API output price,Anthropic,USD/MTok,20,2026-11-15,https://www.anthropic.com/claude-opus-5-5,10,2024-03-04,https://tallycatalog.com/c/anthropic/claude-opus-latest-api-output-price
+335,Claude Opus (latest) · API output price,Anthropic,USD/MTok,20,2026-11-15,https://www.anthropic.com/claude-opus-5-5,12,2024-03-04,https://tallycatalog.com/c/anthropic/claude-opus-latest-api-output-price
 336,Claude Sonnet (latest) · API input price,Anthropic,USD/MTok,2,2026-11-15,https://docs.claude.com/en/docs/models/sonnet-5-5/overview,9,2024-03-04,https://tallycatalog.com/c/anthropic/claude-sonnet-latest-api-input-price
 337,Claude Sonnet (latest) · API output price,Anthropic,USD/MTok,10,2026-11-15,https://docs.claude.com/en/docs/models/sonnet-5-5/overview,9,2024-03-04,https://tallycatalog.com/c/anthropic/claude-sonnet-latest-api-output-price
-338,Claude Haiku (latest) · API output price,Anthropic,USD/MTok,0.5,2026-11-15,https://platform.claude.com/docs/en/models/haiku-5-5/overview,6,2024-03-13,https://tallycatalog.com/c/anthropic/claude-haiku-latest-api-output-price
-339,Claude Max · monthly price,Anthropic,USD/mo,100,2026-11-15,https://claude.com/pricing,2,2025-04-09,https://tallycatalog.com/c/anthropic/claude-max-monthly-price
+338,Claude Haiku (latest) · API output price,Anthropic,USD/MTok,0.5,2026-11-15,https://platform.claude.com/docs/en/models/haiku-5-5/overview,7,2024-03-13,https://tallycatalog.com/c/anthropic/claude-haiku-latest-api-output-price
+339,Claude Max · monthly price,Anthropic,USD/mo,100,2026-11-15,https://claude.com/pricing,9,2025-04-09,https://tallycatalog.com/c/anthropic/claude-max-monthly-price
 340,Claude Haiku (latest) · API input price,Anthropic,USD/MTok,0.1,2026-11-15,https://docs.claude.com/en/docs/models/haiku-5-5/overview,6,2024-03-13,https://tallycatalog.com/c/anthropic/claude-haiku-latest-api-input-price
-341,Claude Pro · monthly price,Anthropic,USD/mo,20,2026-11-15,https://claude.com/pricing,4,2023-09-07,https://tallycatalog.com/c/anthropic/claude-pro-monthly-price
-342,Claude Team · standard seat price,Anthropic,USD/seat/mo,25,2026-11-15,https://claude.com/pricing,6,2024-05-01,https://tallycatalog.com/c/anthropic/claude-team-standard-seat-price
-343,Claude API · lowest-tier rate limit,Anthropic,requests/min,1000,2026-11-15,https://docs.anthropic.com/en/api/rate-limits,5,2024-04-15,https://tallycatalog.com/c/anthropic/claude-api-lowest-tier-rate-limit
-344,Claude API · lowest-tier monthly spend cap,Anthropic,USD/mo,500,2026-11-15,https://docs.claude.com/en/api/rate-limits,10,2024-05-26,https://tallycatalog.com/c/anthropic/claude-api-lowest-tier-monthly-spend-cap
+341,Claude Pro · monthly price,Anthropic,USD/mo,20,2026-11-15,https://claude.com/pricing,10,2023-09-07,https://tallycatalog.com/c/anthropic/claude-pro-monthly-price
+342,Claude Team · standard seat price,Anthropic,USD/seat/mo,25,2026-11-15,https://claude.com/pricing,12,2024-05-01,https://tallycatalog.com/c/anthropic/claude-team-standard-seat-price
+343,Claude API · lowest-tier rate limit,Anthropic,requests/min,1000,2026-11-15,https://docs.anthropic.com/en/api/rate-limits,10,2024-04-15,https://tallycatalog.com/c/anthropic/claude-api-lowest-tier-rate-limit
+344,Claude API · lowest-tier monthly spend cap,Anthropic,USD/mo,500,2026-11-15,https://docs.claude.com/en/api/rate-limits,13,2024-05-26,https://tallycatalog.com/c/anthropic/claude-api-lowest-tier-monthly-spend-cap
 345,"Claude Code · npm downloads, weekly",Anthropic,downloads,17622461,2026-11-15,https://api.npmjs.org/downloads/point/last-week/@anthropic-ai/claude-code,22,2025-03-01,https://tallycatalog.com/c/anthropic/claude-code-npm-downloads-weekly
 346,Claude Code · GitHub stars,Anthropic,stars,155785,2026-11-15,https://api.github.com/repos/anthropics/claude-code,6,2025-08-21,https://tallycatalog.com/c/anthropic/claude-code-github-stars
-347,Anthropic · open job postings,Anthropic,postings,677,2026-11-15,https://job-boards.greenhouse.io/anthropic,7,2025-07-02,https://tallycatalog.com/c/anthropic/open-job-postings
+347,Anthropic · open job postings,Anthropic,postings,677,2026-11-15,https://job-boards.greenhouse.io/anthropic,13,2025-07-02,https://tallycatalog.com/c/anthropic/open-job-postings
 348,Anthropic · quarterly operating income (loss),Anthropic,USD,-567000000,2026-11-15,https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm,7,2025-03-31,https://tallycatalog.com/c/anthropic/quarterly-operating-income-loss
 349,Anthropic · aggregate committed spend,Anthropic,USD,900900000000,2026-11-15,https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm,3,2026-11-02,https://tallycatalog.com/c/anthropic/aggregate-committed-spend
-350,Canva · latest round size,Canva,USD,25000000,2026-11-16,https://www.cbinsights.com/company/canva/financials,8,2018-01-01,https://tallycatalog.com/c/canva/latest-round-size
-351,Canva · latest valuation,Canva,USD,31000000000,2026-11-16,https://pedrumshokouhi.com/investing/private/canva,9,2019-05-01,https://tallycatalog.com/c/canva/latest-valuation
+350,Canva · latest round size,Canva,USD,200000000,2026-11-18,https://www.canva.com/newsroom/news/canva-announces-usd-40-billion-valuation-fueled-global-demand-visual-communication,9,2013-03-20,https://tallycatalog.com/c/canva/latest-round-size
+351,Canva · latest valuation,Canva,USD,31000000000,2026-11-16,https://pedrumshokouhi.com/investing/private/canva,13,2018-01-09,https://tallycatalog.com/c/canva/latest-valuation
 352,Cursor · latest valuation,Cursor,USD,29300000000,2026-11-16,https://cursor.com/blog/series-d,6,2024-08-01,https://tallycatalog.com/c/cursor/latest-valuation
 353,Cursor · latest round size,Cursor,USD,2300000000,2026-11-16,https://cursor.com/blog/series-d,7,2023-10-01,https://tallycatalog.com/c/cursor/latest-round-size
-354,Figma · latest round size,Figma,USD,1220000000,2026-11-16,https://www.reuters.com/technology/figma-raises-12-billion-us-ipo-signaling-thaw-tech-listings-2025-07-30/,8,2013-06-01,https://tallycatalog.com/c/figma/latest-round-size
-355,Figma · latest valuation,Figma,USD,10418087936,2026-11-16,https://finance.yahoo.com/quote/FIG/,7,2020-04-01,https://tallycatalog.com/c/figma/latest-valuation
-356,OpenAI · annual revenue,OpenAI,USD,13070000000,2026-11-16,https://fortune.com/2026/06/17/openai-balance-sheet-mysterious-business/,3,2022-12-31,https://tallycatalog.com/c/openai/annual-revenue
+354,Figma · latest round size,Figma,USD,1200000000,2026-11-18,https://www.cnbc.com/2025/07/30/figma-prices-ipo-at-33-above-expected-range.html,11,2013-06-01,https://tallycatalog.com/c/figma/latest-round-size
+355,Figma · latest valuation,Figma,USD,19300000000,2026-11-18,https://www.cnbc.com/2025/07/30/figma-prices-ipo-at-33-above-expected-range.html,6,2020-04-01,https://tallycatalog.com/c/figma/latest-valuation
+356,OpenAI · annual revenue,OpenAI,USD,13070000000,2026-11-16,https://fortune.com/2026/06/17/openai-balance-sheet-mysterious-business/,2,2024-12-31,https://tallycatalog.com/c/openai/annual-revenue
 357,OpenAI · run-rate revenue,OpenAI,USD,50000000000,2026-11-16,https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/,8,2023-12-31,https://tallycatalog.com/c/openai/run-rate-revenue
-358,OpenAI · employee count,OpenAI,employees,4500,2026-11-16,https://en.wikipedia.org/wiki/OpenAI,8,2022-02-06,https://tallycatalog.com/c/openai/employee-count
-359,OpenAI · aggregate committed spend,OpenAI,USD,1.4e+12,2026-11-16,https://x.com/sama/status/1986514377470845007,3,2025-10-07,https://tallycatalog.com/c/openai/aggregate-committed-spend
-360,OpenAI · open job postings,OpenAI,postings,790,2026-11-16,https://openai.com/careers/search/,10,2025-09-06,https://tallycatalog.com/c/openai/open-job-postings
+358,OpenAI · employee count,OpenAI,employees,4500,2026-11-16,https://en.wikipedia.org/wiki/OpenAI,11,2017-01-30,https://tallycatalog.com/c/openai/employee-count
+359,OpenAI · aggregate committed spend,OpenAI,USD,1.4e+12,2026-11-18,https://techcrunch.com/2025/11/06/sam-altman-says-openai-has-20b-arr-and-about-1-4-trillion-in-data-center-commitments,4,2025-10-07,https://tallycatalog.com/c/openai/aggregate-committed-spend
+360,OpenAI · open job postings,OpenAI,postings,790,2026-11-16,https://openai.com/careers/search/,14,2024-06-12,https://tallycatalog.com/c/openai/open-job-postings
 361,OpenAI · compute capacity contracted,OpenAI,GW,30,2026-11-16,https://www.pymnts.com/news/artificial-intelligence/2025/openai-aims-to-add-1-gigawatt-of-compute-per-week/,3,2025-01-21,https://tallycatalog.com/c/openai/compute-capacity-contracted
-362,ChatGPT · weekly active users,OpenAI,users,1200000000,2026-11-16,https://openai.com/index/devday-2026-recap/,10,2023-11-06,https://tallycatalog.com/c/openai/chatgpt-weekly-active-users
+362,ChatGPT · weekly active users,OpenAI,users,1200000000,2026-11-16,https://openai.com/index/devday-2026-recap/,12,2023-11-06,https://tallycatalog.com/c/openai/chatgpt-weekly-active-users
 363,OpenAI · business customers,OpenAI,customers,1000000,2026-11-16,https://openai.com/index/1-million-businesses-putting-ai-to-work/,3,2025-11-05,https://tallycatalog.com/c/openai/business-customers
 364,OpenAI · annual cash burn,OpenAI,USD,8000000000,2026-11-16,https://the-decoder.com/openai-adds-111-billion-to-its-cash-burn-forecast-as-ai-costs-spiral-beyond-projections/,2,2024-12-31,https://tallycatalog.com/c/openai/annual-cash-burn
-365,GPT flagship (latest) · API input price,OpenAI,USD/MTok,10,2026-11-16,https://developers.openai.com/api/docs/pricing.md,13,2023-03-14,https://tallycatalog.com/c/openai/gpt-flagship-latest-api-input-price
-366,GPT flagship (latest) · API output price,OpenAI,USD/MTok,50,2026-11-16,https://developers.openai.com/api/docs/pricing.md,13,2023-03-14,https://tallycatalog.com/c/openai/gpt-flagship-latest-api-output-price
+365,GPT flagship (latest) · API input price,OpenAI,USD/MTok,10,2026-11-16,https://developers.openai.com/api/docs/pricing.md,16,2023-03-14,https://tallycatalog.com/c/openai/gpt-flagship-latest-api-input-price
+366,GPT flagship (latest) · API output price,OpenAI,USD/MTok,50,2026-11-16,https://developers.openai.com/api/docs/pricing.md,14,2023-03-14,https://tallycatalog.com/c/openai/gpt-flagship-latest-api-output-price
 367,GPT mini (latest) · API input price,OpenAI,USD/MTok,1,2026-11-16,https://developers.openai.com/api/docs/pricing.md,8,2024-07-18,https://tallycatalog.com/c/openai/gpt-mini-latest-api-input-price
 368,GPT mini (latest) · API output price,OpenAI,USD/MTok,4.5,2026-11-16,https://developers.openai.com/api/docs/pricing.md,4,2025-04-14,https://tallycatalog.com/c/openai/gpt-mini-latest-api-output-price
 369,GPT nano (latest) · API input price,OpenAI,USD/MTok,0.2,2026-11-16,https://developers.openai.com/api/docs/pricing.md,4,2025-04-14,https://tallycatalog.com/c/openai/gpt-nano-latest-api-input-price
 370,GPT nano (latest) · API output price,OpenAI,USD/MTok,0.5,2026-11-16,https://developers.openai.com/api/docs/models/gpt-6-luna.md,7,2025-04-14,https://tallycatalog.com/c/openai/gpt-nano-latest-api-output-price
-371,ChatGPT Plus · monthly price,OpenAI,USD/mo,20,2026-11-16,https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus,5,2023-02-01,https://tallycatalog.com/c/openai/chatgpt-plus-monthly-price
-372,ChatGPT Pro · monthly price,OpenAI,USD/mo,100,2026-11-16,https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers,3,2024-12-05,https://tallycatalog.com/c/openai/chatgpt-pro-monthly-price
-373,OpenAI API · lowest-tier rate limit,OpenAI,requests/min,5000,2026-11-16,https://developers.openai.com/api/docs/models/gpt-6-astra.md,6,2026-01-31,https://tallycatalog.com/c/openai/openai-api-lowest-tier-rate-limit
-374,ChatGPT Business · standard seat price,OpenAI,USD/seat/mo,25,2026-11-16,https://help.openai.com/en/articles/8792536-managing-billing-and-seats-in-chatgpt-business,5,2024-01-10,https://tallycatalog.com/c/openai/chatgpt-business-standard-seat-price
-375,"Codex · npm downloads, weekly",OpenAI,downloads,26539823,2026-11-16,https://api.npmjs.org/downloads/point/last-week/@openai/codex,13,2025-04-26,https://tallycatalog.com/c/openai/codex-npm-downloads-weekly
-376,OpenAI API · lowest-tier monthly spend cap,OpenAI,USD/mo,500,2026-11-16,https://developers.openai.com/api/docs/guides/rate-limits.md,6,2025-12-10,https://tallycatalog.com/c/openai/openai-api-lowest-tier-monthly-spend-cap
-377,Codex · GitHub stars,OpenAI,stars,135732,2026-11-18,https://api.github.com/repos/openai/codex,6,2025-05-01,https://tallycatalog.com/c/openai/codex-github-stars
+371,ChatGPT Plus · monthly price,OpenAI,USD/mo,20,2026-11-16,https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus,20,2023-02-01,https://tallycatalog.com/c/openai/chatgpt-plus-monthly-price
+372,ChatGPT Pro · monthly price,OpenAI,USD/mo,100,2026-11-16,https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers,6,2024-12-05,https://tallycatalog.com/c/openai/chatgpt-pro-monthly-price
+373,OpenAI API · lowest-tier rate limit,OpenAI,requests/min,5000,2026-11-16,https://developers.openai.com/api/docs/models/gpt-6-astra.md,8,2026-01-31,https://tallycatalog.com/c/openai/openai-api-lowest-tier-rate-limit
+374,ChatGPT Business · standard seat price,OpenAI,USD/seat/mo,25,2026-11-16,https://help.openai.com/en/articles/8792536-managing-billing-and-seats-in-chatgpt-business,9,2024-01-10,https://tallycatalog.com/c/openai/chatgpt-business-standard-seat-price
+375,"Codex · npm downloads, weekly",OpenAI,downloads,26539823,2026-11-16,https://api.npmjs.org/downloads/point/last-week/@openai/codex,14,2025-04-26,https://tallycatalog.com/c/openai/codex-npm-downloads-weekly
+376,OpenAI API · lowest-tier monthly spend cap,OpenAI,USD/mo,500,2026-11-16,https://developers.openai.com/api/docs/guides/rate-limits.md,7,2024-03-11,https://tallycatalog.com/c/openai/openai-api-lowest-tier-monthly-spend-cap
+377,Codex · GitHub stars,OpenAI,stars,135732,2026-11-18,https://api.github.com/repos/openai/codex,9,2025-05-01,https://tallycatalog.com/c/openai/codex-github-stars
 378,Capital One · employees,Capital One,employees,76300,2026-11-16,https://www.sec.gov/Archives/edgar/data/927628/000092762826000024/cof-20251231.htm,13,2014-12-31,https://tallycatalog.com/c/capital-one/employees
-379,Nvidia · quarterly revenue,Nvidia,USD,96221000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/,71,2008-07-27,https://tallycatalog.com/c/nvidia/quarterly-revenue
-380,Nvidia · annual revenue,Nvidia,USD,215938000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/,19,2008-01-27,https://tallycatalog.com/c/nvidia/annual-revenue
-381,Nvidia · quarterly net income,Nvidia,USD,59688000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/,72,2008-07-27,https://tallycatalog.com/c/nvidia/quarterly-net-income
-382,Nvidia · quarterly operating income (loss),Nvidia,USD,63734000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/,72,2008-07-27,https://tallycatalog.com/c/nvidia/quarterly-operating-income-loss
-383,Nvidia · shares outstanding,Nvidia,shares,24100000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/,64,2009-08-17,https://tallycatalog.com/c/nvidia/shares-outstanding
-384,Microsoft · quarterly revenue,Microsoft,USD,92279000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/,77,2007-09-30,https://tallycatalog.com/c/microsoft/quarterly-revenue
-385,Microsoft · annual revenue,Microsoft,USD,331839000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/,19,2008-06-30,https://tallycatalog.com/c/microsoft/annual-revenue
-386,Microsoft · quarterly net income,Microsoft,USD,36629000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/,77,2007-09-30,https://tallycatalog.com/c/microsoft/quarterly-net-income
-387,Microsoft · quarterly operating income (loss),Microsoft,USD,45915000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/,73,2008-09-30,https://tallycatalog.com/c/microsoft/quarterly-operating-income-loss
-388,Microsoft · shares outstanding,Microsoft,shares,7426194552,2026-11-17,https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/,72,2009-10-19,https://tallycatalog.com/c/microsoft/shares-outstanding
-389,Apple · quarterly revenue,Apple,USD,114477000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/,73,2008-06-28,https://tallycatalog.com/c/apple/quarterly-revenue
-390,Apple · annual revenue,Apple,USD,478834000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/,20,2007-09-29,https://tallycatalog.com/c/apple/annual-revenue
-391,Apple · quarterly net income,Apple,USD,30711000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/,73,2008-06-28,https://tallycatalog.com/c/apple/quarterly-net-income
-392,Apple · quarterly operating income (loss),Apple,USD,35631000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/,73,2008-06-28,https://tallycatalog.com/c/apple/quarterly-operating-income-loss
-393,Apple · shares outstanding,Apple,shares,14532182000,2026-11-17,https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/,73,2009-06-27,https://tallycatalog.com/c/apple/shares-outstanding
-394,Alphabet · quarterly revenue,Alphabet,USD,127577000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/,48,2014-09-30,https://tallycatalog.com/c/alphabet/quarterly-revenue
-395,Alphabet · annual revenue,Alphabet,USD,402836000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/,13,2013-12-31,https://tallycatalog.com/c/alphabet/annual-revenue
-396,Alphabet · quarterly net income,Alphabet,USD,26468000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/,48,2014-09-30,https://tallycatalog.com/c/alphabet/quarterly-net-income
-397,Alphabet · quarterly operating income (loss),Alphabet,USD,40576000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/,48,2014-09-30,https://tallycatalog.com/c/alphabet/quarterly-operating-income-loss
-398,Amazon · quarterly revenue,Amazon,USD,201944000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/,73,2008-06-30,https://tallycatalog.com/c/amazon/quarterly-revenue
-399,Amazon · annual revenue,Amazon,USD,716924000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/,19,2007-12-31,https://tallycatalog.com/c/amazon/annual-revenue
-400,Amazon · quarterly net income,Amazon,USD,20685000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/,73,2008-06-30,https://tallycatalog.com/c/amazon/quarterly-net-income
-401,Amazon · quarterly operating income (loss),Amazon,USD,28076000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/,73,2008-06-30,https://tallycatalog.com/c/amazon/quarterly-operating-income-loss
-402,Amazon · shares outstanding,Amazon,shares,10813138306,2026-11-17,https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/,73,2009-07-17,https://tallycatalog.com/c/amazon/shares-outstanding
-403,Meta · quarterly revenue,Meta,USD,64601000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1326801/000162828026066773/,61,2011-06-30,https://tallycatalog.com/c/meta/quarterly-revenue
-404,Meta · annual revenue,Meta,USD,200966000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/,16,2010-12-31,https://tallycatalog.com/c/meta/annual-revenue
-405,Meta · quarterly net income,Meta,USD,9860000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1326801/000162828026066773/,61,2011-06-30,https://tallycatalog.com/c/meta/quarterly-net-income
-406,Meta · quarterly operating income (loss),Meta,USD,12988000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1326801/000162828026066773/,61,2011-06-30,https://tallycatalog.com/c/meta/quarterly-operating-income-loss
-407,Broadcom · quarterly revenue,Broadcom,USD,29591000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1730168/000173016826000080/,39,2017-01-29,https://tallycatalog.com/c/broadcom/quarterly-revenue
-408,Broadcom · annual revenue,Broadcom,USD,63887000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1730168/000173016825000121/,10,2016-10-30,https://tallycatalog.com/c/broadcom/annual-revenue
-409,Broadcom · quarterly net income,Broadcom,USD,715000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1730168/000173016819000118/,11,2017-01-29,https://tallycatalog.com/c/broadcom/quarterly-net-income
-410,Broadcom · quarterly operating income (loss),Broadcom,USD,15955000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1730168/000173016826000080/,39,2017-01-29,https://tallycatalog.com/c/broadcom/quarterly-operating-income-loss
-411,Broadcom · shares outstanding,Broadcom,shares,4773629865,2026-11-17,https://www.sec.gov/Archives/edgar/data/1730168/000173016826000080/,37,2018-06-01,https://tallycatalog.com/c/broadcom/shares-outstanding
-412,Tesla · quarterly revenue,Tesla,USD,28046000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1318605/000162828026066775/,67,2010-03-31,https://tallycatalog.com/c/tesla/quarterly-revenue
-413,Tesla · annual revenue,Tesla,USD,94827000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/,17,2009-12-31,https://tallycatalog.com/c/tesla/annual-revenue
-414,Tesla · quarterly net income,Tesla,USD,787000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1318605/000162828026066775/,67,2010-03-31,https://tallycatalog.com/c/tesla/quarterly-net-income
-415,Tesla · quarterly operating income (loss),Tesla,USD,718000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1318605/000162828026066775/,65,2010-06-30,https://tallycatalog.com/c/tesla/quarterly-operating-income-loss
-416,Tesla · shares outstanding,Tesla,shares,3952757946,2026-11-17,https://www.sec.gov/Archives/edgar/data/1318605/000162828026066775/,65,2011-07-31,https://tallycatalog.com/c/tesla/shares-outstanding
-417,Berkshire Hathaway · quarterly revenue,Berkshire Hathaway,USD,105647000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1067983/000119312526452412/,72,2008-09-30,https://tallycatalog.com/c/berkshire-hathaway/quarterly-revenue
-418,Berkshire Hathaway · annual revenue,Berkshire Hathaway,USD,371444000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1067983/000119312526083899/,19,2007-12-31,https://tallycatalog.com/c/berkshire-hathaway/annual-revenue
-419,Berkshire Hathaway · quarterly net income,Berkshire Hathaway,USD,22112000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1067983/000119312526452412/,72,2008-09-30,https://tallycatalog.com/c/berkshire-hathaway/quarterly-net-income
-420,Berkshire Hathaway · quarterly operating income (loss),Berkshire Hathaway,USD,5885000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1067983/000119312513199397/,13,2010-03-31,https://tallycatalog.com/c/berkshire-hathaway/quarterly-operating-income-loss
-421,Berkshire Hathaway · shares outstanding,Berkshire Hathaway,shares,941481,2026-11-17,https://www.sec.gov/Archives/edgar/data/1067983/000115752311002891/,8,2009-10-29,https://tallycatalog.com/c/berkshire-hathaway/shares-outstanding
-422,Eli Lilly · quarterly revenue,Eli Lilly,USD,24397000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/59478/000005947826000108/,73,2008-06-30,https://tallycatalog.com/c/eli-lilly/quarterly-revenue
-423,Eli Lilly · annual revenue,Eli Lilly,USD,65179000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/,19,2007-12-31,https://tallycatalog.com/c/eli-lilly/annual-revenue
-424,Eli Lilly · quarterly net income,Eli Lilly,USD,6451000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/59478/000005947826000108/,73,2008-06-30,https://tallycatalog.com/c/eli-lilly/quarterly-net-income
-425,Eli Lilly · shares outstanding,Eli Lilly,shares,940745031,2026-11-17,https://www.sec.gov/Archives/edgar/data/59478/000005947826000108/,67,2009-07-20,https://tallycatalog.com/c/eli-lilly/shares-outstanding
-426,JPMorgan Chase · quarterly revenue,JPMorgan Chase,USD,50172000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/19617/000162828026069523/,73,2008-06-30,https://tallycatalog.com/c/jpmorgan-chase/quarterly-revenue
-427,JPMorgan Chase · annual revenue,JPMorgan Chase,USD,182447000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/,19,2007-12-31,https://tallycatalog.com/c/jpmorgan-chase/annual-revenue
-428,JPMorgan Chase · quarterly net income,JPMorgan Chase,USD,15305000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/19617/000162828026069523/,73,2008-06-30,https://tallycatalog.com/c/jpmorgan-chase/quarterly-net-income
-429,JPMorgan Chase · shares outstanding,JPMorgan Chase,shares,2655609509,2026-11-17,https://www.sec.gov/Archives/edgar/data/19617/000162828026069523/,73,2009-07-31,https://tallycatalog.com/c/jpmorgan-chase/shares-outstanding
-430,Walmart · quarterly revenue,Walmart,USD,187937000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/104169/000010416926000154/,72,2008-07-31,https://tallycatalog.com/c/walmart/quarterly-revenue
-431,Walmart · annual revenue,Walmart,USD,713163000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/,19,2008-01-31,https://tallycatalog.com/c/walmart/annual-revenue
-432,Walmart · quarterly net income,Walmart,USD,6366000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/104169/000010416926000154/,72,2008-07-31,https://tallycatalog.com/c/walmart/quarterly-net-income
-433,Walmart · quarterly operating income (loss),Walmart,USD,9383000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/104169/000010416926000154/,72,2008-07-31,https://tallycatalog.com/c/walmart/quarterly-operating-income-loss
-434,Walmart · shares outstanding,Walmart,shares,7933746241,2026-11-17,https://www.sec.gov/Archives/edgar/data/104169/000010416926000154/,72,2009-09-04,https://tallycatalog.com/c/walmart/shares-outstanding
-435,Visa · quarterly revenue,Visa,USD,12139000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1403161/000140316126000134/,73,2008-06-30,https://tallycatalog.com/c/visa/quarterly-revenue
-436,Visa · annual revenue,Visa,USD,45903000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1403161/000140316126000134/,20,2007-09-30,https://tallycatalog.com/c/visa/annual-revenue
-437,Visa · quarterly net income,Visa,USD,6002000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1403161/000140316126000134/,72,2008-06-30,https://tallycatalog.com/c/visa/quarterly-net-income
-438,Visa · quarterly operating income (loss),Visa,USD,7262000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1403161/000140316126000134/,73,2008-06-30,https://tallycatalog.com/c/visa/quarterly-operating-income-loss
-439,Visa · shares outstanding,Visa,shares,469280842,2026-11-17,https://www.sec.gov/Archives/edgar/data/1403161/000119312510020834/,5,2009-11-13,https://tallycatalog.com/c/visa/shares-outstanding
-440,Oracle · quarterly revenue,Oracle,USD,19345000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1341439/000119312526389274/,73,2008-08-31,https://tallycatalog.com/c/oracle/quarterly-revenue
-441,Oracle · annual revenue,Oracle,USD,67357000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/,19,2008-05-31,https://tallycatalog.com/c/oracle/annual-revenue
-442,Oracle · quarterly net income,Oracle,USD,4760000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1341439/000119312526389274/,61,2011-08-31,https://tallycatalog.com/c/oracle/quarterly-net-income
-443,Oracle · quarterly operating income (loss),Oracle,USD,6728000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1341439/000119312526389274/,73,2008-08-31,https://tallycatalog.com/c/oracle/quarterly-operating-income-loss
-444,Oracle · shares outstanding,Oracle,shares,3023736000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1341439/000119312526389274/,72,2009-09-16,https://tallycatalog.com/c/oracle/shares-outstanding
-445,Mastercard · quarterly revenue,Mastercard,USD,9807000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1141391/000114139126000124/,73,2008-06-30,https://tallycatalog.com/c/mastercard/quarterly-revenue
-446,Mastercard · annual revenue,Mastercard,USD,32791000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1141391/000114139126000013/,19,2007-12-31,https://tallycatalog.com/c/mastercard/annual-revenue
-447,Mastercard · quarterly net income,Mastercard,USD,870000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1141391/000114139114000017/,23,2008-06-30,https://tallycatalog.com/c/mastercard/quarterly-net-income
-448,Mastercard · quarterly operating income (loss),Mastercard,USD,5862000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1141391/000114139126000124/,73,2008-06-30,https://tallycatalog.com/c/mastercard/quarterly-operating-income-loss
-449,Mastercard · shares outstanding,Mastercard,shares,122530193,2026-11-17,https://www.sec.gov/Archives/edgar/data/1141391/000119312510243917/,7,2009-10-28,https://tallycatalog.com/c/mastercard/shares-outstanding
-450,ExxonMobil · quarterly revenue,ExxonMobil,USD,113164000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/2115436/000211543626000020/,4,2025-06-30,https://tallycatalog.com/c/exxonmobil/quarterly-revenue
-451,ExxonMobil · quarterly net income,ExxonMobil,USD,15413000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/2115436/000211543626000020/,4,2025-06-30,https://tallycatalog.com/c/exxonmobil/quarterly-net-income
-452,ExxonMobil · shares outstanding,ExxonMobil,shares,4079222444,2026-11-17,https://www.sec.gov/Archives/edgar/data/2115436/000211543626000020/,5,2026-06-30,https://tallycatalog.com/c/exxonmobil/shares-outstanding
-453,Netflix · quarterly revenue,Netflix,USD,12874176000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1065280/000106528026000291/,73,2008-06-30,https://tallycatalog.com/c/netflix/quarterly-revenue
-454,Netflix · annual revenue,Netflix,USD,45183036000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/,19,2007-12-31,https://tallycatalog.com/c/netflix/annual-revenue
-455,Netflix · quarterly net income,Netflix,USD,3663927000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1065280/000106528026000291/,73,2008-06-30,https://tallycatalog.com/c/netflix/quarterly-net-income
-456,Netflix · quarterly operating income (loss),Netflix,USD,4458600000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1065280/000106528026000291/,73,2008-06-30,https://tallycatalog.com/c/netflix/quarterly-operating-income-loss
-457,Netflix · shares outstanding,Netflix,shares,4106325903,2026-11-17,https://www.sec.gov/Archives/edgar/data/1065280/000106528026000291/,73,2009-06-30,https://tallycatalog.com/c/netflix/shares-outstanding
-458,Costco · quarterly revenue,Costco,USD,95723000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/,51,2008-11-23,https://tallycatalog.com/c/costco/quarterly-revenue
-459,Costco · annual revenue,Costco,USD,303154000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/,19,2008-08-31,https://tallycatalog.com/c/costco/annual-revenue
-460,Costco · quarterly net income,Costco,USD,2192000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/909832/000090983226000051/,48,2008-11-23,https://tallycatalog.com/c/costco/quarterly-net-income
-461,Costco · quarterly operating income (loss),Costco,USD,2815000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/909832/000090983226000051/,48,2008-11-23,https://tallycatalog.com/c/costco/quarterly-operating-income-loss
-462,Costco · shares outstanding,Costco,shares,443129349,2026-11-17,https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/,71,2009-12-11,https://tallycatalog.com/c/costco/shares-outstanding
-463,Johnson & Johnson · quarterly revenue,Johnson & Johnson,USD,25399000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/200406/000020040626000197/,47,2012-07-01,https://tallycatalog.com/c/johnson-johnson/quarterly-revenue
-464,Johnson & Johnson · annual revenue,Johnson & Johnson,USD,94193000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/200406/000020040626000016/,10,2017-01-01,https://tallycatalog.com/c/johnson-johnson/annual-revenue
-465,Johnson & Johnson · quarterly net income,Johnson & Johnson,USD,210000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/200406/000020040626000197/,71,2009-03-29,https://tallycatalog.com/c/johnson-johnson/quarterly-net-income
-466,Johnson & Johnson · quarterly operating income (loss),Johnson & Johnson,USD,5827000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/200406/000020040615000019/,19,2010-07-04,https://tallycatalog.com/c/johnson-johnson/quarterly-operating-income-loss
-467,Johnson & Johnson · shares outstanding,Johnson & Johnson,shares,2407310266,2026-11-17,https://www.sec.gov/Archives/edgar/data/200406/000020040626000197/,63,2009-07-26,https://tallycatalog.com/c/johnson-johnson/shares-outstanding
-468,Home Depot · quarterly revenue,Home Depot,USD,47861000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/354950/000162828026058715/,72,2008-08-03,https://tallycatalog.com/c/home-depot/quarterly-revenue
-469,Home Depot · annual revenue,Home Depot,USD,164683000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/,19,2008-02-03,https://tallycatalog.com/c/home-depot/annual-revenue
-470,Home Depot · quarterly net income,Home Depot,USD,4766000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/354950/000162828026058715/,72,2008-08-03,https://tallycatalog.com/c/home-depot/quarterly-net-income
-471,Home Depot · quarterly operating income (loss),Home Depot,USD,6839000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/354950/000162828026058715/,72,2008-08-03,https://tallycatalog.com/c/home-depot/quarterly-operating-income-loss
-472,Home Depot · shares outstanding,Home Depot,shares,997689626,2026-11-17,https://www.sec.gov/Archives/edgar/data/354950/000162828026058715/,67,2009-08-28,https://tallycatalog.com/c/home-depot/shares-outstanding
-473,Palantir · quarterly revenue,Palantir,USD,2313411000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1321655/000132165526000048/,28,2019-09-30,https://tallycatalog.com/c/palantir/quarterly-revenue
-474,Palantir · annual revenue,Palantir,USD,4475446000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1321655/000132165526000011/,8,2018-12-31,https://tallycatalog.com/c/palantir/annual-revenue
-475,Palantir · quarterly net income,Palantir,USD,1128012000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1321655/000132165526000048/,28,2019-09-30,https://tallycatalog.com/c/palantir/quarterly-net-income
-476,Palantir · quarterly operating income (loss),Palantir,USD,1084845000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1321655/000132165526000048/,28,2019-09-30,https://tallycatalog.com/c/palantir/quarterly-operating-income-loss
-477,AMD · quarterly revenue,AMD,USD,13377000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/2488/000000248826000191/,59,2012-03-31,https://tallycatalog.com/c/amd/quarterly-revenue
-478,AMD · annual revenue,AMD,USD,34639000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/,16,2010-12-25,https://tallycatalog.com/c/amd/annual-revenue
-479,AMD · quarterly net income,AMD,USD,2428000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/2488/000000248826000191/,63,2011-04-02,https://tallycatalog.com/c/amd/quarterly-net-income
-480,AMD · quarterly operating income (loss),AMD,USD,2832000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/2488/000000248826000191/,67,2009-06-27,https://tallycatalog.com/c/amd/quarterly-operating-income-loss
-481,AMD · shares outstanding,AMD,shares,1640087251,2026-11-17,https://www.sec.gov/Archives/edgar/data/2488/000000248826000191/,65,2010-07-30,https://tallycatalog.com/c/amd/shares-outstanding
-482,Salesforce · quarterly revenue,Salesforce,USD,11345000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1108524/000110852426000190/,72,2008-07-31,https://tallycatalog.com/c/salesforce/quarterly-revenue
-483,Salesforce · annual revenue,Salesforce,USD,41525000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1108524/000110852426000060/,19,2008-01-31,https://tallycatalog.com/c/salesforce/annual-revenue
-484,Salesforce · quarterly net income,Salesforce,USD,3526000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1108524/000110852426000190/,72,2008-07-31,https://tallycatalog.com/c/salesforce/quarterly-net-income
-485,Salesforce · quarterly operating income (loss),Salesforce,USD,2331000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1108524/000110852426000190/,72,2008-07-31,https://tallycatalog.com/c/salesforce/quarterly-operating-income-loss
-486,Salesforce · shares outstanding,Salesforce,shares,823000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1108524/000110852426000190/,71,2009-07-31,https://tallycatalog.com/c/salesforce/shares-outstanding
-487,Adobe · quarterly revenue,Adobe,USD,6760000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/796343/000079634326000156/,73,2008-05-30,https://tallycatalog.com/c/adobe/quarterly-revenue
-488,Adobe · annual revenue,Adobe,USD,23769000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/796343/000079634326000003/,19,2007-11-30,https://tallycatalog.com/c/adobe/annual-revenue
-489,Adobe · quarterly net income,Adobe,USD,1827000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/796343/000079634326000156/,73,2008-05-30,https://tallycatalog.com/c/adobe/quarterly-net-income
-490,Adobe · quarterly operating income (loss),Adobe,USD,2354000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/796343/000079634326000156/,73,2008-05-30,https://tallycatalog.com/c/adobe/quarterly-operating-income-loss
-491,Adobe · shares outstanding,Adobe,shares,389200000,2026-11-17,https://www.sec.gov/Archives/edgar/data/796343/000079634326000156/,72,2009-06-19,https://tallycatalog.com/c/adobe/shares-outstanding
-492,Intel · quarterly revenue,Intel,USD,16513000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/50863/000005086326000191/,73,2008-06-28,https://tallycatalog.com/c/intel/quarterly-revenue
-493,Intel · annual revenue,Intel,USD,52853000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/,19,2007-12-29,https://tallycatalog.com/c/intel/annual-revenue
-494,Intel · quarterly net income,Intel,USD,3320000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/50863/000005086326000191/,73,2008-06-28,https://tallycatalog.com/c/intel/quarterly-net-income
-495,Intel · quarterly operating income (loss),Intel,USD,2522000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/50863/000005086326000191/,73,2008-06-28,https://tallycatalog.com/c/intel/quarterly-operating-income-loss
-496,Intel · shares outstanding,Intel,shares,5315000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/50863/000005086326000191/,73,2009-07-24,https://tallycatalog.com/c/intel/shares-outstanding
-497,Cisco · quarterly revenue,Cisco,USD,18517000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/858877/000085887726000185/,73,2008-10-25,https://tallycatalog.com/c/cisco/quarterly-revenue
-498,Cisco · annual revenue,Cisco,USD,63325000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/858877/000085887726000132/,19,2008-07-26,https://tallycatalog.com/c/cisco/annual-revenue
-499,Cisco · quarterly net income,Cisco,USD,4552000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/858877/000085887726000185/,73,2008-10-25,https://tallycatalog.com/c/cisco/quarterly-net-income
-500,Cisco · quarterly operating income (loss),Cisco,USD,5598000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/858877/000085887726000185/,73,2008-10-25,https://tallycatalog.com/c/cisco/quarterly-operating-income-loss
-501,Cisco · shares outstanding,Cisco,shares,3942586873,2026-11-17,https://www.sec.gov/Archives/edgar/data/858877/000085887726000132/,61,2009-11-12,https://tallycatalog.com/c/cisco/shares-outstanding
-502,IBM · quarterly revenue,IBM,USD,17103000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/51143/000005114326000095/,73,2008-06-30,https://tallycatalog.com/c/ibm/quarterly-revenue
-503,IBM · annual revenue,IBM,USD,67535000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/51143/000005114326000010/,19,2007-12-31,https://tallycatalog.com/c/ibm/annual-revenue
-504,IBM · quarterly net income,IBM,USD,2190000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/51143/000005114326000095/,43,2016-03-31,https://tallycatalog.com/c/ibm/quarterly-net-income
-505,IBM · shares outstanding,IBM,shares,945120805,2026-11-17,https://www.sec.gov/Archives/edgar/data/51143/000005114326000095/,72,2009-06-30,https://tallycatalog.com/c/ibm/shares-outstanding
-506,Uber · quarterly revenue,Uber,USD,14766000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1543151/000154315126000041/,35,2018-03-31,https://tallycatalog.com/c/uber/quarterly-revenue
-507,Uber · annual revenue,Uber,USD,52017000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1543151/000154315126000015/,9,2017-12-31,https://tallycatalog.com/c/uber/annual-revenue
-508,Uber · quarterly net income,Uber,USD,512000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1543151/000154315126000041/,35,2018-03-31,https://tallycatalog.com/c/uber/quarterly-net-income
-509,Uber · quarterly operating income (loss),Uber,USD,1447000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1543151/000154315126000041/,35,2018-03-31,https://tallycatalog.com/c/uber/quarterly-operating-income-loss
-510,Uber · shares outstanding,Uber,shares,2041898070,2026-11-17,https://www.sec.gov/Archives/edgar/data/1543151/000154315126000041/,29,2019-07-30,https://tallycatalog.com/c/uber/shares-outstanding
-511,Qualcomm · quarterly revenue,Qualcomm,USD,10322000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/804328/000080432826000128/,73,2008-06-29,https://tallycatalog.com/c/qualcomm/quarterly-revenue
-512,Qualcomm · annual revenue,Qualcomm,USD,43120000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/804328/000080432826000128/,20,2007-09-30,https://tallycatalog.com/c/qualcomm/annual-revenue
-513,Qualcomm · quarterly net income,Qualcomm,USD,1252000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/804328/000080432826000128/,70,2008-12-28,https://tallycatalog.com/c/qualcomm/quarterly-net-income
-514,Qualcomm · quarterly operating income (loss),Qualcomm,USD,1357000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/804328/000080432826000128/,73,2008-06-29,https://tallycatalog.com/c/qualcomm/quarterly-operating-income-loss
-515,Qualcomm · shares outstanding,Qualcomm,shares,1070000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/804328/000080432826000128/,73,2009-07-20,https://tallycatalog.com/c/qualcomm/shares-outstanding
-516,Micron · quarterly revenue,Micron,USD,54229000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/723125/000072312526000023/,69,2008-12-04,https://tallycatalog.com/c/micron/quarterly-revenue
-517,Micron · annual revenue,Micron,USD,133188000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/723125/000072312526000023/,18,2009-09-03,https://tallycatalog.com/c/micron/annual-revenue
-518,Micron · quarterly net income,Micron,USD,37701000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/723125/000072312526000023/,69,2008-12-04,https://tallycatalog.com/c/micron/quarterly-net-income
-519,Micron · quarterly operating income (loss),Micron,USD,43751000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/723125/000072312526000023/,69,2008-12-04,https://tallycatalog.com/c/micron/quarterly-operating-income-loss
-520,Micron · shares outstanding,Micron,shares,1131423212,2026-11-17,https://www.sec.gov/Archives/edgar/data/723125/000072312526000023/,68,2009-12-03,https://tallycatalog.com/c/micron/shares-outstanding
-521,ServiceNow · quarterly revenue,ServiceNow,USD,4106000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1373715/000137371526000096/,61,2011-06-30,https://tallycatalog.com/c/servicenow/quarterly-revenue
-522,ServiceNow · annual revenue,ServiceNow,USD,13278000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1373715/000137371526000007/,16,2010-06-30,https://tallycatalog.com/c/servicenow/annual-revenue
-523,ServiceNow · quarterly net income,ServiceNow,USD,277000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1373715/000137371526000096/,60,2011-06-30,https://tallycatalog.com/c/servicenow/quarterly-net-income
-524,ServiceNow · quarterly operating income (loss),ServiceNow,USD,385000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1373715/000137371526000096/,61,2011-06-30,https://tallycatalog.com/c/servicenow/quarterly-operating-income-loss
-525,ServiceNow · shares outstanding,ServiceNow,shares,1038000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1373715/000137371526000096/,60,2012-08-06,https://tallycatalog.com/c/servicenow/shares-outstanding
+379,Nvidia · quarterly revenue,Nvidia,USD,96221000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/,71,2008-07-27,https://tallycatalog.com/c/nvidia/quarterly-revenue
+380,Nvidia · annual revenue,Nvidia,USD,215938000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/,19,2008-01-27,https://tallycatalog.com/c/nvidia/annual-revenue
+381,Nvidia · quarterly net income,Nvidia,USD,59688000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/,72,2008-07-27,https://tallycatalog.com/c/nvidia/quarterly-net-income
+382,Nvidia · quarterly operating income (loss),Nvidia,USD,63734000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/,72,2008-07-27,https://tallycatalog.com/c/nvidia/quarterly-operating-income-loss
+383,Nvidia · shares outstanding,Nvidia,shares,24100000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/,65,2009-08-17,https://tallycatalog.com/c/nvidia/shares-outstanding
+384,Microsoft · quarterly revenue,Microsoft,USD,92279000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/,77,2007-09-30,https://tallycatalog.com/c/microsoft/quarterly-revenue
+385,Microsoft · annual revenue,Microsoft,USD,331839000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/,19,2008-06-30,https://tallycatalog.com/c/microsoft/annual-revenue
+386,Microsoft · quarterly net income,Microsoft,USD,36629000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/,77,2007-09-30,https://tallycatalog.com/c/microsoft/quarterly-net-income
+387,Microsoft · quarterly operating income (loss),Microsoft,USD,45915000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/,73,2008-09-30,https://tallycatalog.com/c/microsoft/quarterly-operating-income-loss
+388,Microsoft · shares outstanding,Microsoft,shares,7426194552,2026-11-18,https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/,73,2009-10-19,https://tallycatalog.com/c/microsoft/shares-outstanding
+389,Apple · quarterly revenue,Apple,USD,114477000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/,73,2008-06-28,https://tallycatalog.com/c/apple/quarterly-revenue
+390,Apple · annual revenue,Apple,USD,478834000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/,20,2007-09-29,https://tallycatalog.com/c/apple/annual-revenue
+391,Apple · quarterly net income,Apple,USD,30711000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/,73,2008-06-28,https://tallycatalog.com/c/apple/quarterly-net-income
+392,Apple · quarterly operating income (loss),Apple,USD,35631000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/,73,2008-06-28,https://tallycatalog.com/c/apple/quarterly-operating-income-loss
+393,Apple · shares outstanding,Apple,shares,14532182000,2026-11-18,https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/,74,2009-06-27,https://tallycatalog.com/c/apple/shares-outstanding
+394,Alphabet · quarterly revenue,Alphabet,USD,127577000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/,48,2014-09-30,https://tallycatalog.com/c/alphabet/quarterly-revenue
+395,Alphabet · annual revenue,Alphabet,USD,402836000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/,13,2013-12-31,https://tallycatalog.com/c/alphabet/annual-revenue
+396,Alphabet · quarterly net income,Alphabet,USD,26468000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/,48,2014-09-30,https://tallycatalog.com/c/alphabet/quarterly-net-income
+397,Alphabet · quarterly operating income (loss),Alphabet,USD,40576000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/,48,2014-09-30,https://tallycatalog.com/c/alphabet/quarterly-operating-income-loss
+398,Amazon · quarterly revenue,Amazon,USD,201944000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/,73,2008-06-30,https://tallycatalog.com/c/amazon/quarterly-revenue
+399,Amazon · annual revenue,Amazon,USD,716924000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/,19,2007-12-31,https://tallycatalog.com/c/amazon/annual-revenue
+400,Amazon · quarterly net income,Amazon,USD,20685000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/,73,2008-06-30,https://tallycatalog.com/c/amazon/quarterly-net-income
+401,Amazon · quarterly operating income (loss),Amazon,USD,28076000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/,73,2008-06-30,https://tallycatalog.com/c/amazon/quarterly-operating-income-loss
+402,Amazon · shares outstanding,Amazon,shares,10813138306,2026-11-18,https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/,74,2009-07-17,https://tallycatalog.com/c/amazon/shares-outstanding
+403,Meta · quarterly revenue,Meta,USD,64601000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1326801/000162828026066773/,61,2011-06-30,https://tallycatalog.com/c/meta/quarterly-revenue
+404,Meta · annual revenue,Meta,USD,200966000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/,16,2010-12-31,https://tallycatalog.com/c/meta/annual-revenue
+405,Meta · quarterly net income,Meta,USD,9860000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1326801/000162828026066773/,61,2011-06-30,https://tallycatalog.com/c/meta/quarterly-net-income
+406,Meta · quarterly operating income (loss),Meta,USD,12988000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1326801/000162828026066773/,61,2011-06-30,https://tallycatalog.com/c/meta/quarterly-operating-income-loss
+407,Broadcom · quarterly revenue,Broadcom,USD,29591000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1730168/000173016826000080/,39,2017-01-29,https://tallycatalog.com/c/broadcom/quarterly-revenue
+408,Broadcom · annual revenue,Broadcom,USD,63887000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1730168/000173016825000121/,10,2016-10-30,https://tallycatalog.com/c/broadcom/annual-revenue
+409,Broadcom · quarterly net income,Broadcom,USD,715000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1730168/000173016819000118/,11,2017-01-29,https://tallycatalog.com/c/broadcom/quarterly-net-income
+410,Broadcom · quarterly operating income (loss),Broadcom,USD,15955000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1730168/000173016826000080/,39,2017-01-29,https://tallycatalog.com/c/broadcom/quarterly-operating-income-loss
+411,Broadcom · shares outstanding,Broadcom,shares,4773629865,2026-11-18,https://www.sec.gov/Archives/edgar/data/1730168/000173016826000080/,38,2018-06-01,https://tallycatalog.com/c/broadcom/shares-outstanding
+412,Tesla · quarterly revenue,Tesla,USD,28046000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1318605/000162828026066775/,67,2010-03-31,https://tallycatalog.com/c/tesla/quarterly-revenue
+413,Tesla · annual revenue,Tesla,USD,94827000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/,17,2009-12-31,https://tallycatalog.com/c/tesla/annual-revenue
+414,Tesla · quarterly net income,Tesla,USD,787000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1318605/000162828026066775/,67,2010-03-31,https://tallycatalog.com/c/tesla/quarterly-net-income
+415,Tesla · quarterly operating income (loss),Tesla,USD,718000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1318605/000162828026066775/,65,2010-06-30,https://tallycatalog.com/c/tesla/quarterly-operating-income-loss
+416,Tesla · shares outstanding,Tesla,shares,3952757946,2026-11-18,https://www.sec.gov/Archives/edgar/data/1318605/000162828026066775/,66,2011-07-31,https://tallycatalog.com/c/tesla/shares-outstanding
+417,Berkshire Hathaway · quarterly revenue,Berkshire Hathaway,USD,105647000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1067983/000119312526452412/,72,2008-09-30,https://tallycatalog.com/c/berkshire-hathaway/quarterly-revenue
+418,Berkshire Hathaway · annual revenue,Berkshire Hathaway,USD,371444000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1067983/000119312526083899/,19,2007-12-31,https://tallycatalog.com/c/berkshire-hathaway/annual-revenue
+419,Berkshire Hathaway · quarterly net income,Berkshire Hathaway,USD,22112000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1067983/000119312526452412/,72,2008-09-30,https://tallycatalog.com/c/berkshire-hathaway/quarterly-net-income
+420,Berkshire Hathaway · quarterly operating income (loss),Berkshire Hathaway,USD,5885000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1067983/000119312513199397/,13,2010-03-31,https://tallycatalog.com/c/berkshire-hathaway/quarterly-operating-income-loss
+421,Berkshire Hathaway · shares outstanding,Berkshire Hathaway,shares,941481,2026-11-18,https://www.sec.gov/Archives/edgar/data/1067983/000115752311002891/,9,2009-10-29,https://tallycatalog.com/c/berkshire-hathaway/shares-outstanding
+422,Eli Lilly · quarterly revenue,Eli Lilly,USD,24397000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/59478/000005947826000108/,73,2008-06-30,https://tallycatalog.com/c/eli-lilly/quarterly-revenue
+423,Eli Lilly · annual revenue,Eli Lilly,USD,65179000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/,19,2007-12-31,https://tallycatalog.com/c/eli-lilly/annual-revenue
+424,Eli Lilly · quarterly net income,Eli Lilly,USD,6451000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/59478/000005947826000108/,73,2008-06-30,https://tallycatalog.com/c/eli-lilly/quarterly-net-income
+425,Eli Lilly · shares outstanding,Eli Lilly,shares,940745031,2026-11-18,https://www.sec.gov/Archives/edgar/data/59478/000005947826000108/,68,2009-07-20,https://tallycatalog.com/c/eli-lilly/shares-outstanding
+426,JPMorgan Chase · quarterly revenue,JPMorgan Chase,USD,50172000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/19617/000162828026069523/,73,2008-06-30,https://tallycatalog.com/c/jpmorgan-chase/quarterly-revenue
+427,JPMorgan Chase · annual revenue,JPMorgan Chase,USD,182447000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/,19,2007-12-31,https://tallycatalog.com/c/jpmorgan-chase/annual-revenue
+428,JPMorgan Chase · quarterly net income,JPMorgan Chase,USD,15305000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/19617/000162828026069523/,73,2008-06-30,https://tallycatalog.com/c/jpmorgan-chase/quarterly-net-income
+429,JPMorgan Chase · shares outstanding,JPMorgan Chase,shares,2655609509,2026-11-18,https://www.sec.gov/Archives/edgar/data/19617/000162828026069523/,74,2009-07-31,https://tallycatalog.com/c/jpmorgan-chase/shares-outstanding
+430,Walmart · quarterly revenue,Walmart,USD,187937000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/104169/000010416926000154/,72,2008-07-31,https://tallycatalog.com/c/walmart/quarterly-revenue
+431,Walmart · annual revenue,Walmart,USD,713163000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/,19,2008-01-31,https://tallycatalog.com/c/walmart/annual-revenue
+432,Walmart · quarterly net income,Walmart,USD,6366000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/104169/000010416926000154/,72,2008-07-31,https://tallycatalog.com/c/walmart/quarterly-net-income
+433,Walmart · quarterly operating income (loss),Walmart,USD,9383000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/104169/000010416926000154/,72,2008-07-31,https://tallycatalog.com/c/walmart/quarterly-operating-income-loss
+434,Walmart · shares outstanding,Walmart,shares,7933746241,2026-11-18,https://www.sec.gov/Archives/edgar/data/104169/000010416926000154/,73,2009-09-04,https://tallycatalog.com/c/walmart/shares-outstanding
+435,Visa · quarterly revenue,Visa,USD,12139000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1403161/000140316126000134/,73,2008-06-30,https://tallycatalog.com/c/visa/quarterly-revenue
+436,Visa · annual revenue,Visa,USD,45903000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1403161/000140316126000134/,20,2007-09-30,https://tallycatalog.com/c/visa/annual-revenue
+437,Visa · quarterly net income,Visa,USD,6002000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1403161/000140316126000134/,72,2008-06-30,https://tallycatalog.com/c/visa/quarterly-net-income
+438,Visa · quarterly operating income (loss),Visa,USD,7262000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1403161/000140316126000134/,73,2008-06-30,https://tallycatalog.com/c/visa/quarterly-operating-income-loss
+439,Visa · shares outstanding,Visa,shares,469280842,2026-11-18,https://www.sec.gov/Archives/edgar/data/1403161/000119312510020834/,6,2009-11-13,https://tallycatalog.com/c/visa/shares-outstanding
+440,Oracle · quarterly revenue,Oracle,USD,19345000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1341439/000119312526389274/,73,2008-08-31,https://tallycatalog.com/c/oracle/quarterly-revenue
+441,Oracle · annual revenue,Oracle,USD,67357000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/,19,2008-05-31,https://tallycatalog.com/c/oracle/annual-revenue
+442,Oracle · quarterly net income,Oracle,USD,4760000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1341439/000119312526389274/,61,2011-08-31,https://tallycatalog.com/c/oracle/quarterly-net-income
+443,Oracle · quarterly operating income (loss),Oracle,USD,6728000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1341439/000119312526389274/,73,2008-08-31,https://tallycatalog.com/c/oracle/quarterly-operating-income-loss
+444,Oracle · shares outstanding,Oracle,shares,3023736000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1341439/000119312526389274/,73,2009-09-16,https://tallycatalog.com/c/oracle/shares-outstanding
+445,Mastercard · quarterly revenue,Mastercard,USD,9807000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1141391/000114139126000124/,73,2008-06-30,https://tallycatalog.com/c/mastercard/quarterly-revenue
+446,Mastercard · annual revenue,Mastercard,USD,32791000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1141391/000114139126000013/,19,2007-12-31,https://tallycatalog.com/c/mastercard/annual-revenue
+447,Mastercard · quarterly net income,Mastercard,USD,870000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1141391/000114139114000017/,23,2008-06-30,https://tallycatalog.com/c/mastercard/quarterly-net-income
+448,Mastercard · quarterly operating income (loss),Mastercard,USD,5862000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1141391/000114139126000124/,73,2008-06-30,https://tallycatalog.com/c/mastercard/quarterly-operating-income-loss
+449,Mastercard · shares outstanding,Mastercard,shares,122530193,2026-11-18,https://www.sec.gov/Archives/edgar/data/1141391/000119312510243917/,8,2009-10-28,https://tallycatalog.com/c/mastercard/shares-outstanding
+450,ExxonMobil · quarterly revenue,ExxonMobil,USD,113164000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/2115436/000211543626000020/,4,2025-06-30,https://tallycatalog.com/c/exxonmobil/quarterly-revenue
+451,ExxonMobil · quarterly net income,ExxonMobil,USD,15413000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/2115436/000211543626000020/,4,2025-06-30,https://tallycatalog.com/c/exxonmobil/quarterly-net-income
+452,ExxonMobil · shares outstanding,ExxonMobil,shares,4079222444,2026-11-18,https://www.sec.gov/Archives/edgar/data/2115436/000211543626000020/,6,2026-06-30,https://tallycatalog.com/c/exxonmobil/shares-outstanding
+453,Netflix · quarterly revenue,Netflix,USD,12874176000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1065280/000106528026000291/,73,2008-06-30,https://tallycatalog.com/c/netflix/quarterly-revenue
+454,Netflix · annual revenue,Netflix,USD,45183036000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/,19,2007-12-31,https://tallycatalog.com/c/netflix/annual-revenue
+455,Netflix · quarterly net income,Netflix,USD,3663927000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1065280/000106528026000291/,73,2008-06-30,https://tallycatalog.com/c/netflix/quarterly-net-income
+456,Netflix · quarterly operating income (loss),Netflix,USD,4458600000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1065280/000106528026000291/,73,2008-06-30,https://tallycatalog.com/c/netflix/quarterly-operating-income-loss
+457,Netflix · shares outstanding,Netflix,shares,4106325903,2026-11-18,https://www.sec.gov/Archives/edgar/data/1065280/000106528026000291/,74,2009-06-30,https://tallycatalog.com/c/netflix/shares-outstanding
+458,Costco · quarterly revenue,Costco,USD,95723000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/,51,2008-11-23,https://tallycatalog.com/c/costco/quarterly-revenue
+459,Costco · annual revenue,Costco,USD,303154000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/,19,2008-08-31,https://tallycatalog.com/c/costco/annual-revenue
+460,Costco · quarterly net income,Costco,USD,2192000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/909832/000090983226000051/,48,2008-11-23,https://tallycatalog.com/c/costco/quarterly-net-income
+461,Costco · quarterly operating income (loss),Costco,USD,2815000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/909832/000090983226000051/,48,2008-11-23,https://tallycatalog.com/c/costco/quarterly-operating-income-loss
+462,Costco · shares outstanding,Costco,shares,443129349,2026-11-18,https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/,72,2009-12-11,https://tallycatalog.com/c/costco/shares-outstanding
+463,Johnson & Johnson · quarterly revenue,Johnson & Johnson,USD,25399000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/200406/000020040626000197/,47,2012-07-01,https://tallycatalog.com/c/johnson-johnson/quarterly-revenue
+464,Johnson & Johnson · annual revenue,Johnson & Johnson,USD,94193000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/200406/000020040626000016/,10,2017-01-01,https://tallycatalog.com/c/johnson-johnson/annual-revenue
+465,Johnson & Johnson · quarterly net income,Johnson & Johnson,USD,210000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/200406/000020040626000197/,71,2009-03-29,https://tallycatalog.com/c/johnson-johnson/quarterly-net-income
+466,Johnson & Johnson · quarterly operating income (loss),Johnson & Johnson,USD,5827000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/200406/000020040615000019/,19,2010-07-04,https://tallycatalog.com/c/johnson-johnson/quarterly-operating-income-loss
+467,Johnson & Johnson · shares outstanding,Johnson & Johnson,shares,2407310266,2026-11-18,https://www.sec.gov/Archives/edgar/data/200406/000020040626000197/,64,2009-07-26,https://tallycatalog.com/c/johnson-johnson/shares-outstanding
+468,Home Depot · quarterly revenue,Home Depot,USD,47861000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/354950/000162828026058715/,72,2008-08-03,https://tallycatalog.com/c/home-depot/quarterly-revenue
+469,Home Depot · annual revenue,Home Depot,USD,164683000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/,19,2008-02-03,https://tallycatalog.com/c/home-depot/annual-revenue
+470,Home Depot · quarterly net income,Home Depot,USD,4766000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/354950/000162828026058715/,72,2008-08-03,https://tallycatalog.com/c/home-depot/quarterly-net-income
+471,Home Depot · quarterly operating income (loss),Home Depot,USD,6839000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/354950/000162828026058715/,72,2008-08-03,https://tallycatalog.com/c/home-depot/quarterly-operating-income-loss
+472,Home Depot · shares outstanding,Home Depot,shares,997689626,2026-11-18,https://www.sec.gov/Archives/edgar/data/354950/000162828026058715/,68,2009-08-28,https://tallycatalog.com/c/home-depot/shares-outstanding
+473,Palantir · quarterly revenue,Palantir,USD,2313411000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1321655/000132165526000048/,28,2019-09-30,https://tallycatalog.com/c/palantir/quarterly-revenue
+474,Palantir · annual revenue,Palantir,USD,4475446000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1321655/000132165526000011/,8,2018-12-31,https://tallycatalog.com/c/palantir/annual-revenue
+475,Palantir · quarterly net income,Palantir,USD,1128012000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1321655/000132165526000048/,28,2019-09-30,https://tallycatalog.com/c/palantir/quarterly-net-income
+476,Palantir · quarterly operating income (loss),Palantir,USD,1084845000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1321655/000132165526000048/,28,2019-09-30,https://tallycatalog.com/c/palantir/quarterly-operating-income-loss
+477,AMD · quarterly revenue,AMD,USD,13377000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/2488/000000248826000191/,59,2012-03-31,https://tallycatalog.com/c/amd/quarterly-revenue
+478,AMD · annual revenue,AMD,USD,34639000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/,16,2010-12-25,https://tallycatalog.com/c/amd/annual-revenue
+479,AMD · quarterly net income,AMD,USD,2428000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/2488/000000248826000191/,63,2011-04-02,https://tallycatalog.com/c/amd/quarterly-net-income
+480,AMD · quarterly operating income (loss),AMD,USD,2832000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/2488/000000248826000191/,67,2009-06-27,https://tallycatalog.com/c/amd/quarterly-operating-income-loss
+481,AMD · shares outstanding,AMD,shares,1640087251,2026-11-18,https://www.sec.gov/Archives/edgar/data/2488/000000248826000191/,66,2010-07-30,https://tallycatalog.com/c/amd/shares-outstanding
+482,Salesforce · quarterly revenue,Salesforce,USD,11345000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1108524/000110852426000190/,72,2008-07-31,https://tallycatalog.com/c/salesforce/quarterly-revenue
+483,Salesforce · annual revenue,Salesforce,USD,41525000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1108524/000110852426000060/,19,2008-01-31,https://tallycatalog.com/c/salesforce/annual-revenue
+484,Salesforce · quarterly net income,Salesforce,USD,3526000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1108524/000110852426000190/,72,2008-07-31,https://tallycatalog.com/c/salesforce/quarterly-net-income
+485,Salesforce · quarterly operating income (loss),Salesforce,USD,2331000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1108524/000110852426000190/,72,2008-07-31,https://tallycatalog.com/c/salesforce/quarterly-operating-income-loss
+486,Salesforce · shares outstanding,Salesforce,shares,823000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1108524/000110852426000190/,72,2009-07-31,https://tallycatalog.com/c/salesforce/shares-outstanding
+487,Adobe · quarterly revenue,Adobe,USD,6760000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/796343/000079634326000156/,73,2008-05-30,https://tallycatalog.com/c/adobe/quarterly-revenue
+488,Adobe · annual revenue,Adobe,USD,23769000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/796343/000079634326000003/,19,2007-11-30,https://tallycatalog.com/c/adobe/annual-revenue
+489,Adobe · quarterly net income,Adobe,USD,1827000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/796343/000079634326000156/,73,2008-05-30,https://tallycatalog.com/c/adobe/quarterly-net-income
+490,Adobe · quarterly operating income (loss),Adobe,USD,2354000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/796343/000079634326000156/,73,2008-05-30,https://tallycatalog.com/c/adobe/quarterly-operating-income-loss
+491,Adobe · shares outstanding,Adobe,shares,389200000,2026-11-18,https://www.sec.gov/Archives/edgar/data/796343/000079634326000156/,73,2009-06-19,https://tallycatalog.com/c/adobe/shares-outstanding
+492,Intel · quarterly revenue,Intel,USD,16513000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/50863/000005086326000191/,73,2008-06-28,https://tallycatalog.com/c/intel/quarterly-revenue
+493,Intel · annual revenue,Intel,USD,52853000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/,19,2007-12-29,https://tallycatalog.com/c/intel/annual-revenue
+494,Intel · quarterly net income,Intel,USD,3320000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/50863/000005086326000191/,73,2008-06-28,https://tallycatalog.com/c/intel/quarterly-net-income
+495,Intel · quarterly operating income (loss),Intel,USD,2522000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/50863/000005086326000191/,73,2008-06-28,https://tallycatalog.com/c/intel/quarterly-operating-income-loss
+496,Intel · shares outstanding,Intel,shares,5315000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/50863/000005086326000191/,74,2009-07-24,https://tallycatalog.com/c/intel/shares-outstanding
+497,Cisco · quarterly revenue,Cisco,USD,18517000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/858877/000085887726000185/,73,2008-10-25,https://tallycatalog.com/c/cisco/quarterly-revenue
+498,Cisco · annual revenue,Cisco,USD,63325000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/858877/000085887726000132/,19,2008-07-26,https://tallycatalog.com/c/cisco/annual-revenue
+499,Cisco · quarterly net income,Cisco,USD,4552000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/858877/000085887726000185/,73,2008-10-25,https://tallycatalog.com/c/cisco/quarterly-net-income
+500,Cisco · quarterly operating income (loss),Cisco,USD,5598000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/858877/000085887726000185/,73,2008-10-25,https://tallycatalog.com/c/cisco/quarterly-operating-income-loss
+501,Cisco · shares outstanding,Cisco,shares,3942586873,2026-11-18,https://www.sec.gov/Archives/edgar/data/858877/000085887726000132/,62,2009-11-12,https://tallycatalog.com/c/cisco/shares-outstanding
+502,IBM · quarterly revenue,IBM,USD,17103000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/51143/000005114326000095/,73,2008-06-30,https://tallycatalog.com/c/ibm/quarterly-revenue
+503,IBM · annual revenue,IBM,USD,67535000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/51143/000005114326000010/,19,2007-12-31,https://tallycatalog.com/c/ibm/annual-revenue
+504,IBM · quarterly net income,IBM,USD,2190000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/51143/000005114326000095/,43,2016-03-31,https://tallycatalog.com/c/ibm/quarterly-net-income
+505,IBM · shares outstanding,IBM,shares,945120805,2026-11-18,https://www.sec.gov/Archives/edgar/data/51143/000005114326000095/,73,2009-06-30,https://tallycatalog.com/c/ibm/shares-outstanding
+506,Uber · quarterly revenue,Uber,USD,14766000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1543151/000154315126000041/,35,2018-03-31,https://tallycatalog.com/c/uber/quarterly-revenue
+507,Uber · annual revenue,Uber,USD,52017000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1543151/000154315126000015/,9,2017-12-31,https://tallycatalog.com/c/uber/annual-revenue
+508,Uber · quarterly net income,Uber,USD,512000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1543151/000154315126000041/,35,2018-03-31,https://tallycatalog.com/c/uber/quarterly-net-income
+509,Uber · quarterly operating income (loss),Uber,USD,1447000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1543151/000154315126000041/,35,2018-03-31,https://tallycatalog.com/c/uber/quarterly-operating-income-loss
+510,Uber · shares outstanding,Uber,shares,2041898070,2026-11-18,https://www.sec.gov/Archives/edgar/data/1543151/000154315126000041/,30,2019-07-30,https://tallycatalog.com/c/uber/shares-outstanding
+511,Qualcomm · quarterly revenue,Qualcomm,USD,10322000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/804328/000080432826000128/,73,2008-06-29,https://tallycatalog.com/c/qualcomm/quarterly-revenue
+512,Qualcomm · annual revenue,Qualcomm,USD,43120000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/804328/000080432826000128/,20,2007-09-30,https://tallycatalog.com/c/qualcomm/annual-revenue
+513,Qualcomm · quarterly net income,Qualcomm,USD,1252000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/804328/000080432826000128/,70,2008-12-28,https://tallycatalog.com/c/qualcomm/quarterly-net-income
+514,Qualcomm · quarterly operating income (loss),Qualcomm,USD,1357000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/804328/000080432826000128/,73,2008-06-29,https://tallycatalog.com/c/qualcomm/quarterly-operating-income-loss
+515,Qualcomm · shares outstanding,Qualcomm,shares,1070000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/804328/000080432826000128/,74,2009-07-20,https://tallycatalog.com/c/qualcomm/shares-outstanding
+516,Micron · quarterly revenue,Micron,USD,54229000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/723125/000072312526000023/,69,2008-12-04,https://tallycatalog.com/c/micron/quarterly-revenue
+517,Micron · annual revenue,Micron,USD,133188000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/723125/000072312526000023/,18,2009-09-03,https://tallycatalog.com/c/micron/annual-revenue
+518,Micron · quarterly net income,Micron,USD,37701000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/723125/000072312526000023/,69,2008-12-04,https://tallycatalog.com/c/micron/quarterly-net-income
+519,Micron · quarterly operating income (loss),Micron,USD,43751000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/723125/000072312526000023/,69,2008-12-04,https://tallycatalog.com/c/micron/quarterly-operating-income-loss
+520,Micron · shares outstanding,Micron,shares,1131423212,2026-11-18,https://www.sec.gov/Archives/edgar/data/723125/000072312526000023/,69,2009-12-03,https://tallycatalog.com/c/micron/shares-outstanding
+521,ServiceNow · quarterly revenue,ServiceNow,USD,4106000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1373715/000137371526000096/,61,2011-06-30,https://tallycatalog.com/c/servicenow/quarterly-revenue
+522,ServiceNow · annual revenue,ServiceNow,USD,13278000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1373715/000137371526000007/,16,2010-06-30,https://tallycatalog.com/c/servicenow/annual-revenue
+523,ServiceNow · quarterly net income,ServiceNow,USD,277000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1373715/000137371526000096/,60,2011-06-30,https://tallycatalog.com/c/servicenow/quarterly-net-income
+524,ServiceNow · quarterly operating income (loss),ServiceNow,USD,385000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1373715/000137371526000096/,61,2011-06-30,https://tallycatalog.com/c/servicenow/quarterly-operating-income-loss
+525,ServiceNow · shares outstanding,ServiceNow,shares,1038000000,2026-11-18,https://www.sec.gov/Archives/edgar/data/1373715/000137371526000096/,61,2012-08-06,https://tallycatalog.com/c/servicenow/shares-outstanding
 526,Snowflake · quarterly revenue,Snowflake,USD,1546793000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1640147/000164014726000037/,27,2019-10-31,https://tallycatalog.com/c/snowflake/quarterly-revenue
 527,Snowflake · annual revenue,Snowflake,USD,4683946000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1640147/000164014726000008/,8,2019-01-31,https://tallycatalog.com/c/snowflake/annual-revenue
 528,Snowflake · quarterly net income,Snowflake,USD,-191720000,2026-11-17,https://www.sec.gov/Archives/edgar/data/1640147/000164014726000037/,27,2019-10-31,https://tallycatalog.com/c/snowflake/quarterly-net-income
@@ -535,4 +524,12 @@ id,title,subject,unit,value,as_of,source,history_points,first_date,page
 563,Coca-Cola · quarterly net income,Coca-Cola,USD,4009000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/21344/000162828026067844/,73,2008-06-27,https://tallycatalog.com/c/coca-cola/quarterly-net-income
 564,Coca-Cola · quarterly operating income (loss),Coca-Cola,USD,4465000000,2026-11-17,https://www.sec.gov/Archives/edgar/data/21344/000162828026067844/,73,2008-06-27,https://tallycatalog.com/c/coca-cola/quarterly-operating-income-loss
 565,Coca-Cola · shares outstanding,Coca-Cola,shares,4301902335,2026-11-17,https://www.sec.gov/Archives/edgar/data/21344/000162828026067844/,56,2009-07-24,https://tallycatalog.com/c/coca-cola/shares-outstanding
+566,Vercel · latest round size,Vercel,USD,102000000,2026-11-18,https://www.alexanderjarvis.com/vercel-pitch-deck-to-raise-40m-series-b-round,1,2026-11-18,https://tallycatalog.com/c/vercel/latest-round-size
+567,Vercel · latest valuation,Vercel,USD,9300000000,2026-11-18,https://en.wikipedia.org/wiki/Vercel,1,2026-11-18,https://tallycatalog.com/c/vercel/latest-valuation
+568,N8N · latest valuation,N8N,USD,5200000000,2026-11-18,https://www.ayautomate.com/blog/n8n-enterprise-valuation-2026,1,2026-11-18,https://tallycatalog.com/c/n8n/latest-valuation
+569,N8N · latest round size,N8N,USD,180000000,2026-11-18,https://blog.n8n.io/series-c,1,2026-11-18,https://tallycatalog.com/c/n8n/latest-round-size
+570,Physical Intelligence · total funding raised,Physical Intelligence,USD,1100000000,2026-11-18,https://multiples.vc/private-comps/physical-intelligence,1,2026-11-18,https://tallycatalog.com/c/physical-intelligence/total-funding-raised
+571,Physical Intelligence · latest round size,Physical Intelligence,USD,600000000,2026-11-18,https://www.bloomberg.com/news/articles/2025-11-20/robotics-startup-physical-intelligence-valued-at-5-6-billion-in-new-funding,1,2026-11-18,https://tallycatalog.com/c/physical-intelligence/latest-round-size
+572,Physical Intelligence · latest valuation,Physical Intelligence,USD,5600000000,2026-11-18,https://multiples.vc/private-comps/physical-intelligence,1,2026-11-18,https://tallycatalog.com/c/physical-intelligence/latest-valuation
 582,OpenAI · paying business users,OpenAI,users,9000000,2026-11-18,https://openai.com/index/scaling-ai-for-everyone,8,2024-04-01,https://tallycatalog.com/c/openai/paying-business-users
+583,US · international students (Open Doors),US,students,1146163,2026-11-18,https://opendoorsdata.org/annual-release/international-students,19,2010-06-30,https://tallycatalog.com/c/us/international-students-open-doors
