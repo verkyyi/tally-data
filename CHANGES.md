@@ -1,5 +1,18 @@
 # Changes
 
+## 2026-11-19 (third release)
+
+- The histories of twelve of the most-read companies (Anthropic, OpenAI, Cursor, Perplexity, Mistral AI, Cohere, Databricks, Figma,
+  Canva, Stripe, Hugging Face, Lovable) were checked point by point against the pages they cite: 317 values.
+- About 140 values now carry the exact day and the page that first reported them, in place of a month and a second-hand page.
+- 34 values were removed: running totals computed by adding rounds that no page states, reports of talks that had not closed,
+  third parties' estimates, and duplicates. Five totals were corrected to the figure their own source states.
+- A listed or acquired company no longer has a "latest valuation": Figma's is its valuation at IPO, and Cursor's and Hugging Face's are
+  the price of the agreed acquisition.
+- Two numbers left the record because nothing but a third party's estimate stood behind them.
+- Every removal and change is listed with its reason at https://tallycatalog.com/corrections
+- 538 numbers, 26,194 dated values.
+
 ## 2026-11-18 (second release)
 
 - History is deeper: PyPI weekly downloads back to 2016 from the public download log, monthly archived counts for GitHub stars and
