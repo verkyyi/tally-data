@@ -1,5 +1,9 @@
 # Changes
 
+## 2026-11-21 (release 6)
+
+- Snapshot of the live record: 788 numbers about 229 companies and open-source projects, 50,354 dated values.
+
 ## 2026-11-21 (fifth release)
 
 - 22 listed software and AI companies from their filings with the US Securities and Exchange Commission, every reported quarter and

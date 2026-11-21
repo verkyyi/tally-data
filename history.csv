@@ -47,6 +47,7 @@ number_id,title,date,value,unit,kind,source
 5,Notion · App Store rating,2026-11-14,4.77,rating /5,read by Tally,https://itunes.apple.com/lookup?id=1232780281&country=us
 5,Notion · App Store rating,2026-11-15,4.77,rating /5,read by Tally,https://itunes.apple.com/lookup?id=1232780281&country=us
 5,Notion · App Store rating,2026-11-18,4.77,rating /5,read by Tally,https://itunes.apple.com/lookup?id=1232780281&country=us
+5,Notion · App Store rating,2026-11-21,4.8,rating /5,read by Tally,https://apps.apple.com/us/app/notion-notes-tasks-ai/id1232780281
 6,Notion · total funding raised,2013-06-01,2000000,USD,from the source's records,https://www.firstround.com/companies/notion
 6,Notion · total funding raised,2020-04-01,52000000,USD,from the source's records,https://en.wikipedia.org/wiki/Notion_(productivity_software)
 6,Notion · total funding raised,2021-10-01,327000000,USD,from the source's records,https://en.wikipedia.org/wiki/Notion_(productivity_software)
@@ -1168,6 +1169,7 @@ number_id,title,date,value,unit,kind,source
 62,Santa Clara · hackathons,2026-11-18,21,hackathons,read by Tally,
 62,Santa Clara · hackathons,2026-11-19,22,hackathons,read by Tally,
 62,Santa Clara · hackathons,2026-11-20,22,hackathons,read by Tally,
+62,Santa Clara · hackathons,2026-11-21,22,hackathons,read by Tally,
 64,Tavily · launches this quarter,2026-11-07,5,launches,computed from entry dates,
 64,Tavily · launches this quarter,2026-11-08,5,launches,computed from entry dates,
 64,Tavily · launches this quarter,2026-11-09,6,launches,computed from entry dates,
@@ -1256,6 +1258,7 @@ number_id,title,date,value,unit,kind,source
 75,Lovable · launches this quarter,2026-11-18,7,launches,read by Tally,
 75,Lovable · launches this quarter,2026-11-19,7,launches,read by Tally,
 75,Lovable · launches this quarter,2026-11-20,9,launches,read by Tally,
+75,Lovable · launches this quarter,2026-11-21,9,launches,read by Tally,
 77,Cursor · entry plan price,2023-11-07,20,USD/mo,from the source's records,https://web.archive.org/web/20231101000000/https://cursor.sh/pricing
 77,Cursor · entry plan price,2024-06-05,20,USD/mo,from the source's records,https://web.archive.org/web/20240605162025/https://cursor.com/pricing
 77,Cursor · entry plan price,2024-07-01,20,USD/mo,from the source's records,https://web.archive.org/web/20240701003908/https://cursor.com/pricing
@@ -1341,11 +1344,13 @@ number_id,title,date,value,unit,kind,source
 82,Linear · launches this quarter,2026-11-18,5,launches,read by Tally,https://linear.app/changelog
 82,Linear · launches this quarter,2026-11-19,5,launches,read by Tally,https://linear.app/changelog
 82,Linear · launches this quarter,2026-11-20,5,launches,read by Tally,https://linear.app/changelog
+82,Linear · launches this quarter,2026-11-21,5,launches,read by Tally,https://linear.app/changelog
 83,Linear · open engineering roles,2026-11-14,7,roles,read by Tally,
 83,Linear · open engineering roles,2026-11-15,9,roles,read by Tally,
 83,Linear · open engineering roles,2026-11-18,10,roles,read by Tally,
 83,Linear · open engineering roles,2026-11-19,10,roles,read by Tally,
 83,Linear · open engineering roles,2026-11-20,11,roles,read by Tally,
+83,Linear · open engineering roles,2026-11-21,11,roles,read by Tally,
 84,Linear · entry plan price,2020-07-01,8,USD/mo,from the source's records,https://web.archive.org/web/20200701053740/https://linear.app/pricing
 84,Linear · entry plan price,2020-10-25,8,USD/mo,from the source's records,https://web.archive.org/web/20201025184041/https://linear.app/pricing
 84,Linear · entry plan price,2021-01-11,8,USD/mo,from the source's records,https://web.archive.org/web/20210111152002/https://linear.app/pricing
@@ -1500,7 +1505,11 @@ number_id,title,date,value,unit,kind,source
 104,Tavily MCP · GitHub stars,2026-11-15,2476,stars,read by Tally,https://api.github.com/repos/tavily-ai/tavily-mcp
 104,Tavily MCP · GitHub stars,2026-11-18,2496,stars,read by Tally,https://api.github.com/repos/tavily-ai/tavily-mcp
 104,Tavily MCP · GitHub stars,2026-11-19,2497,stars,read by Tally,https://api.github.com/repos/tavily-ai/tavily-mcp
+105,Anthropic · employee count,2023-07-11,160,employees,from the source's records,https://web.archive.org/web/20230712/https://www.nytimes.com/2023/07/11/technology/anthropic-ai-claude-chatbot.html
+105,Anthropic · employee count,2024-05-30,500,employees,from the source's records,https://web.archive.org/web/20240708/https://time.com/6980000/anthropic/
 105,Anthropic · employee count,2024-12-31,940,employees,from the source's records,https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm
+105,Anthropic · employee count,2025-03-28,1000,employees,from the source's records,https://www.wired.com/story/anthropic-benevolent-artificial-intelligence/
+105,Anthropic · employee count,2025-05-23,1300,employees,from the source's records,https://www.wired.com/story/anthropic-first-developer-conference/
 105,Anthropic · employee count,2026-09-30,5300,employees,from the source's records,https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm
 105,Anthropic · employee count,2026-11-15,5300,employees,read by Tally,https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm
 106,"LangChain · npm downloads, weekly",2023-03-19,4265,downloads,from the source's records,https://www.npmjs.com/package/langchain
@@ -1701,6 +1710,7 @@ number_id,title,date,value,unit,kind,source
 106,"LangChain · npm downloads, weekly",2026-11-18,4119772,downloads,read by Tally,https://www.npmjs.com/package/langchain
 106,"LangChain · npm downloads, weekly",2026-11-19,4216519,downloads,read by Tally,https://www.npmjs.com/package/langchain
 106,"LangChain · npm downloads, weekly",2026-11-20,4264339,downloads,read by Tally,https://www.npmjs.com/package/langchain
+106,"LangChain · npm downloads, weekly",2026-11-21,4264339,downloads,read by Tally,https://www.npmjs.com/package/langchain
 107,"LangChain · PyPI downloads, weekly",2022-11-06,330,downloads,from the source's records,https://clickpy.clickhouse.com/dashboard/langchain
 107,"LangChain · PyPI downloads, weekly",2022-11-13,618,downloads,from the source's records,https://clickpy.clickhouse.com/dashboard/langchain
 107,"LangChain · PyPI downloads, weekly",2022-11-20,616,downloads,from the source's records,https://clickpy.clickhouse.com/dashboard/langchain
@@ -1919,6 +1929,7 @@ number_id,title,date,value,unit,kind,source
 107,"LangChain · PyPI downloads, weekly",2026-11-18,36956177,downloads,read by Tally,https://pypistats.org/packages/langchain
 107,"LangChain · PyPI downloads, weekly",2026-11-19,37331348,downloads,read by Tally,https://pypistats.org/packages/langchain
 107,"LangChain · PyPI downloads, weekly",2026-11-20,37557485,downloads,read by Tally,https://pypistats.org/packages/langchain
+107,"LangChain · PyPI downloads, weekly",2026-11-21,37599083,downloads,read by Tally,https://pypistats.org/packages/langchain
 108,LlamaIndex · GitHub stars,2023-10-03,22006,stars,from the source's records,https://web.archive.org/web/20231003023455/https://github.com/run-llama/llama_index
 108,LlamaIndex · GitHub stars,2023-11-01,23084,stars,from the source's records,https://web.archive.org/web/20231101012457/https://github.com/run-llama/llama_index
 108,LlamaIndex · GitHub stars,2023-12-02,24540,stars,from the source's records,https://web.archive.org/web/20231202163031/https://github.com/run-llama/llama_index
@@ -1959,6 +1970,7 @@ number_id,title,date,value,unit,kind,source
 108,LlamaIndex · GitHub stars,2026-11-18,52946,stars,read by Tally,https://github.com/run-llama/llama_index
 108,LlamaIndex · GitHub stars,2026-11-19,52963,stars,read by Tally,https://github.com/run-llama/llama_index
 108,LlamaIndex · GitHub stars,2026-11-20,52967,stars,read by Tally,https://github.com/run-llama/llama_index
+108,LlamaIndex · GitHub stars,2026-11-21,52973,stars,read by Tally,https://github.com/run-llama/llama_index
 109,"LlamaIndex · npm downloads, weekly",2023-07-23,193,downloads,from the source's records,https://www.npmjs.com/package/llamaindex
 109,"LlamaIndex · npm downloads, weekly",2023-07-30,795,downloads,from the source's records,https://www.npmjs.com/package/llamaindex
 109,"LlamaIndex · npm downloads, weekly",2023-08-06,559,downloads,from the source's records,https://www.npmjs.com/package/llamaindex
@@ -2139,6 +2151,7 @@ number_id,title,date,value,unit,kind,source
 109,"LlamaIndex · npm downloads, weekly",2026-11-18,200044,downloads,read by Tally,https://www.npmjs.com/package/llamaindex
 109,"LlamaIndex · npm downloads, weekly",2026-11-19,199986,downloads,read by Tally,https://www.npmjs.com/package/llamaindex
 109,"LlamaIndex · npm downloads, weekly",2026-11-20,202267,downloads,read by Tally,https://www.npmjs.com/package/llamaindex
+109,"LlamaIndex · npm downloads, weekly",2026-11-21,202267,downloads,read by Tally,https://www.npmjs.com/package/llamaindex
 110,"LlamaIndex · PyPI downloads, weekly",2023-02-26,3402,downloads,from the source's records,https://clickpy.clickhouse.com/dashboard/llama-index
 110,"LlamaIndex · PyPI downloads, weekly",2023-03-05,6394,downloads,from the source's records,https://clickpy.clickhouse.com/dashboard/llama-index
 110,"LlamaIndex · PyPI downloads, weekly",2023-03-12,10607,downloads,from the source's records,https://clickpy.clickhouse.com/dashboard/llama-index
@@ -2341,6 +2354,7 @@ number_id,title,date,value,unit,kind,source
 110,"LlamaIndex · PyPI downloads, weekly",2026-11-18,405364,downloads,read by Tally,https://pypistats.org/packages/llama-index
 110,"LlamaIndex · PyPI downloads, weekly",2026-11-19,413581,downloads,read by Tally,https://pypistats.org/packages/llama-index
 110,"LlamaIndex · PyPI downloads, weekly",2026-11-20,412829,downloads,read by Tally,https://pypistats.org/packages/llama-index
+110,"LlamaIndex · PyPI downloads, weekly",2026-11-21,408174,downloads,read by Tally,https://pypistats.org/packages/llama-index
 111,"Ollama · npm downloads, weekly",2023-09-17,205,downloads,from the source's records,https://www.npmjs.com/package/ollama
 111,"Ollama · npm downloads, weekly",2023-09-24,83,downloads,from the source's records,https://www.npmjs.com/package/ollama
 111,"Ollama · npm downloads, weekly",2023-10-01,17,downloads,from the source's records,https://www.npmjs.com/package/ollama
@@ -2513,6 +2527,7 @@ number_id,title,date,value,unit,kind,source
 111,"Ollama · npm downloads, weekly",2026-11-18,1193025,downloads,read by Tally,https://www.npmjs.com/package/ollama
 111,"Ollama · npm downloads, weekly",2026-11-19,1230585,downloads,read by Tally,https://www.npmjs.com/package/ollama
 111,"Ollama · npm downloads, weekly",2026-11-20,1246248,downloads,read by Tally,https://www.npmjs.com/package/ollama
+111,"Ollama · npm downloads, weekly",2026-11-21,1246248,downloads,read by Tally,https://www.npmjs.com/package/ollama
 112,"Ollama · PyPI downloads, weekly",2023-07-09,228,downloads,from the source's records,https://clickpy.clickhouse.com/dashboard/ollama
 112,"Ollama · PyPI downloads, weekly",2023-07-16,103,downloads,from the source's records,https://clickpy.clickhouse.com/dashboard/ollama
 112,"Ollama · PyPI downloads, weekly",2023-07-23,67,downloads,from the source's records,https://clickpy.clickhouse.com/dashboard/ollama
@@ -2676,6 +2691,7 @@ number_id,title,date,value,unit,kind,source
 112,"Ollama · PyPI downloads, weekly",2026-11-18,2774787,downloads,read by Tally,https://pypistats.org/packages/ollama
 112,"Ollama · PyPI downloads, weekly",2026-11-19,2849960,downloads,read by Tally,https://pypistats.org/packages/ollama
 112,"Ollama · PyPI downloads, weekly",2026-11-20,2837013,downloads,read by Tally,https://pypistats.org/packages/ollama
+112,"Ollama · PyPI downloads, weekly",2026-11-21,2737373,downloads,read by Tally,https://pypistats.org/packages/ollama
 113,"n8n · npm downloads, weekly",2019-04-28,20,downloads,from the source's records,https://www.npmjs.com/package/n8n
 113,"n8n · npm downloads, weekly",2019-05-05,1,downloads,from the source's records,https://www.npmjs.com/package/n8n
 113,"n8n · npm downloads, weekly",2019-05-12,1,downloads,from the source's records,https://www.npmjs.com/package/n8n
@@ -3077,6 +3093,7 @@ number_id,title,date,value,unit,kind,source
 113,"n8n · npm downloads, weekly",2026-11-18,106895,downloads,read by Tally,https://www.npmjs.com/package/n8n
 113,"n8n · npm downloads, weekly",2026-11-19,107677,downloads,read by Tally,https://www.npmjs.com/package/n8n
 113,"n8n · npm downloads, weekly",2026-11-20,108055,downloads,read by Tally,https://www.npmjs.com/package/n8n
+113,"n8n · npm downloads, weekly",2026-11-21,108055,downloads,read by Tally,https://www.npmjs.com/package/n8n
 114,Dify · GitHub stars,2023-05-15,1014,stars,from the source's records,https://web.archive.org/web/20230515035552/https://github.com/langgenius/dify
 114,Dify · GitHub stars,2023-06-15,4615,stars,from the source's records,https://web.archive.org/web/20230615072022/https://github.com/langgenius/dify
 114,Dify · GitHub stars,2023-07-30,6095,stars,from the source's records,https://web.archive.org/web/20230730190859/https://github.com/langgenius/dify
@@ -3122,6 +3139,7 @@ number_id,title,date,value,unit,kind,source
 114,Dify · GitHub stars,2026-11-18,161439,stars,read by Tally,https://github.com/langgenius/dify
 114,Dify · GitHub stars,2026-11-19,161511,stars,read by Tally,https://github.com/langgenius/dify
 114,Dify · GitHub stars,2026-11-20,161563,stars,read by Tally,https://github.com/langgenius/dify
+114,Dify · GitHub stars,2026-11-21,161605,stars,read by Tally,https://github.com/langgenius/dify
 115,Open WebUI · GitHub stars,2024-02-17,5209,stars,from the source's records,https://web.archive.org/web/20240217092506/https://github.com/open-webui/open-webui
 115,Open WebUI · GitHub stars,2024-04-01,11406,stars,from the source's records,https://web.archive.org/web/20240401005759/https://github.com/open-webui/open-webui
 115,Open WebUI · GitHub stars,2024-05-01,17636,stars,from the source's records,https://web.archive.org/web/20240501161432/https://github.com/open-webui/open-webui
@@ -3160,6 +3178,7 @@ number_id,title,date,value,unit,kind,source
 115,Open WebUI · GitHub stars,2026-11-18,159037,stars,read by Tally,https://github.com/open-webui/open-webui
 115,Open WebUI · GitHub stars,2026-11-19,159087,stars,read by Tally,https://github.com/open-webui/open-webui
 115,Open WebUI · GitHub stars,2026-11-20,159138,stars,read by Tally,https://github.com/open-webui/open-webui
+115,Open WebUI · GitHub stars,2026-11-21,159191,stars,read by Tally,https://github.com/open-webui/open-webui
 116,"Open WebUI · PyPI downloads, weekly",2024-05-26,1172,downloads,from the source's records,https://clickpy.clickhouse.com/dashboard/open-webui
 116,"Open WebUI · PyPI downloads, weekly",2024-06-02,3282,downloads,from the source's records,https://clickpy.clickhouse.com/dashboard/open-webui
 116,"Open WebUI · PyPI downloads, weekly",2024-06-09,3899,downloads,from the source's records,https://clickpy.clickhouse.com/dashboard/open-webui
@@ -3297,6 +3316,7 @@ number_id,title,date,value,unit,kind,source
 116,"Open WebUI · PyPI downloads, weekly",2026-11-18,249535,downloads,read by Tally,https://pypistats.org/packages/open-webui
 116,"Open WebUI · PyPI downloads, weekly",2026-11-19,250845,downloads,read by Tally,https://pypistats.org/packages/open-webui
 116,"Open WebUI · PyPI downloads, weekly",2026-11-20,258240,downloads,read by Tally,https://pypistats.org/packages/open-webui
+116,"Open WebUI · PyPI downloads, weekly",2026-11-21,258671,downloads,read by Tally,https://pypistats.org/packages/open-webui
 117,AutoGPT · GitHub stars,2023-09-26,149326,stars,from the source's records,https://web.archive.org/web/20230926012434/https://github.com/Significant-Gravitas/AutoGPT
 117,AutoGPT · GitHub stars,2023-10-02,149763,stars,from the source's records,https://web.archive.org/web/20231002175226/https://github.com/Significant-Gravitas/AutoGPT
 117,AutoGPT · GitHub stars,2023-11-01,152221,stars,from the source's records,https://web.archive.org/web/20231101234109/https://github.com/Significant-Gravitas/AutoGPT
@@ -3340,6 +3360,7 @@ number_id,title,date,value,unit,kind,source
 117,AutoGPT · GitHub stars,2026-11-18,188089,stars,read by Tally,https://github.com/Significant-Gravitas/AutoGPT
 117,AutoGPT · GitHub stars,2026-11-19,188102,stars,read by Tally,https://github.com/Significant-Gravitas/AutoGPT
 117,AutoGPT · GitHub stars,2026-11-20,188119,stars,read by Tally,https://github.com/Significant-Gravitas/AutoGPT
+117,AutoGPT · GitHub stars,2026-11-21,188122,stars,read by Tally,https://github.com/Significant-Gravitas/AutoGPT
 118,CrewAI · GitHub stars,2024-07-14,17216,stars,from the source's records,https://web.archive.org/web/20240714070544/https://github.com/crewAIInc/crewAI
 118,CrewAI · GitHub stars,2024-08-15,18259,stars,from the source's records,https://web.archive.org/web/20240815080305/https://github.com/crewAIInc/crewAI
 118,CrewAI · GitHub stars,2024-09-02,18795,stars,from the source's records,https://web.archive.org/web/20240902202332/https://github.com/crewAIInc/crewAI
@@ -3373,6 +3394,7 @@ number_id,title,date,value,unit,kind,source
 118,CrewAI · GitHub stars,2026-11-18,61081,stars,read by Tally,https://github.com/crewAIInc/crewAI
 118,CrewAI · GitHub stars,2026-11-19,61104,stars,read by Tally,https://github.com/crewAIInc/crewAI
 118,CrewAI · GitHub stars,2026-11-20,61126,stars,read by Tally,https://github.com/crewAIInc/crewAI
+118,CrewAI · GitHub stars,2026-11-21,61138,stars,read by Tally,https://github.com/crewAIInc/crewAI
 119,"CrewAI · PyPI downloads, weekly",2023-12-10,355,downloads,from the source's records,https://clickpy.clickhouse.com/dashboard/crewai
 119,"CrewAI · PyPI downloads, weekly",2023-12-17,33,downloads,from the source's records,https://clickpy.clickhouse.com/dashboard/crewai
 119,"CrewAI · PyPI downloads, weekly",2023-12-24,357,downloads,from the source's records,https://clickpy.clickhouse.com/dashboard/crewai
@@ -3534,6 +3556,7 @@ number_id,title,date,value,unit,kind,source
 119,"CrewAI · PyPI downloads, weekly",2026-11-18,593620,downloads,read by Tally,https://pypistats.org/packages/crewai
 119,"CrewAI · PyPI downloads, weekly",2026-11-19,594011,downloads,read by Tally,https://pypistats.org/packages/crewai
 119,"CrewAI · PyPI downloads, weekly",2026-11-20,590177,downloads,read by Tally,https://pypistats.org/packages/crewai
+119,"CrewAI · PyPI downloads, weekly",2026-11-21,588858,downloads,read by Tally,https://pypistats.org/packages/crewai
 120,LangGraph · GitHub stars,2024-01-09,177,stars,from the source's records,https://web.archive.org/web/20240109031709/https://github.com/langchain-ai/langgraph
 120,LangGraph · GitHub stars,2024-04-22,2501,stars,from the source's records,https://web.archive.org/web/20240422001551/https://github.com/langchain-ai/langgraph
 120,LangGraph · GitHub stars,2024-07-02,4134,stars,from the source's records,https://web.archive.org/web/20240702204353/https://github.com/langchain-ai/langgraph
@@ -17594,6 +17617,7 @@ number_id,title,date,value,unit,kind,source
 358,OpenAI · employee count,2017-01-30,45,employees,from the source's records,https://openai.com/index/team-update-january
 358,OpenAI · employee count,2020-01-01,120,employees,from the source's records,https://web.archive.org/web/20220206175311/https://en.wikipedia.org/wiki/OpenAI
 358,OpenAI · employee count,2023-02-03,375,employees,from the source's records,https://web.archive.org/web/20230802010150/https://en.wikipedia.org/wiki/OpenAI
+358,OpenAI · employee count,2023-10-05,500,employees,from the source's records,https://fortune.com/longform/openai-mira-murati-chatgpt-dalle-3-generative-ai-agi/amp/.
 358,OpenAI · employee count,2023-11-20,770,employees,from the source's records,https://www.cnbc.com/2023/11/20/hundreds-of-openai-employees-threaten-to-follow-altman-to-microsoft-unless-board-resigns-reports-say.html
 358,OpenAI · employee count,2024-04-04,1200,employees,from the source's records,https://web.archive.org/web/20240701195120/https://en.wikipedia.org/wiki/OpenAI
 358,OpenAI · employee count,2024-10-01,1700,employees,from the source's records,https://www.bloomberg.com/features/2024-openai-executives
@@ -24241,6 +24265,7 @@ number_id,title,date,value,unit,kind,source
 501,Cisco · shares outstanding,2026-11-18,3942586873,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/858877/000085887726000132/
 501,Cisco · shares outstanding,2026-11-19,3942586873,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/858877/000085887726000132/
 501,Cisco · shares outstanding,2026-11-20,3942586873,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/858877/000085887726000132/
+501,Cisco · shares outstanding,2026-11-21,3942586873,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/858877/000085887726000132/
 502,IBM · quarterly revenue,2008-06-30,26820000000,USD,from the source's records,https://www.sec.gov/Archives/edgar/data/51143/000110465909045198/
 502,IBM · quarterly revenue,2008-09-30,25302000000,USD,from the source's records,https://www.sec.gov/Archives/edgar/data/51143/000110465909060554/
 502,IBM · quarterly revenue,2009-03-31,21711000000,USD,from the source's records,https://www.sec.gov/Archives/edgar/data/51143/000110465910022064/
@@ -24451,6 +24476,7 @@ number_id,title,date,value,unit,kind,source
 505,IBM · shares outstanding,2026-11-18,945120805,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/51143/000005114326000095/
 505,IBM · shares outstanding,2026-11-19,945120805,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/51143/000005114326000095/
 505,IBM · shares outstanding,2026-11-20,945120805,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/51143/000005114326000095/
+505,IBM · shares outstanding,2026-11-21,945120805,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/51143/000005114326000095/
 506,Uber · quarterly revenue,2018-03-31,2584000000,USD,from the source's records,https://www.sec.gov/Archives/edgar/data/1543151/000162828019007524/
 506,Uber · quarterly revenue,2018-06-30,2768000000,USD,from the source's records,https://www.sec.gov/Archives/edgar/data/1543151/000154315119000009/
 506,Uber · quarterly revenue,2018-09-30,2944000000,USD,from the source's records,https://www.sec.gov/Archives/edgar/data/1543151/000154315119000017/
@@ -24597,6 +24623,7 @@ number_id,title,date,value,unit,kind,source
 510,Uber · shares outstanding,2026-11-18,2041898070,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/1543151/000154315126000041/
 510,Uber · shares outstanding,2026-11-19,2041898070,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/1543151/000154315126000041/
 510,Uber · shares outstanding,2026-11-20,2041898070,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/1543151/000154315126000041/
+510,Uber · shares outstanding,2026-11-21,2041898070,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/1543151/000154315126000041/
 511,Qualcomm · quarterly revenue,2008-06-29,2762000000,USD,from the source's records,https://www.sec.gov/Archives/edgar/data/804328/000095012309024369/
 511,Qualcomm · quarterly revenue,2008-12-28,2517000000,USD,from the source's records,https://www.sec.gov/Archives/edgar/data/804328/000095012310100207/
 511,Qualcomm · quarterly revenue,2009-03-29,2455000000,USD,from the source's records,https://www.sec.gov/Archives/edgar/data/804328/000095012310100207/
@@ -24909,6 +24936,7 @@ number_id,title,date,value,unit,kind,source
 515,Qualcomm · shares outstanding,2026-11-18,1070000000,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/804328/000080432826000128/
 515,Qualcomm · shares outstanding,2026-11-19,1070000000,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/804328/000080432826000128/
 515,Qualcomm · shares outstanding,2026-11-20,1070000000,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/804328/000080432826000128/
+515,Qualcomm · shares outstanding,2026-11-21,1070000000,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/804328/000080432826000128/
 516,Micron · quarterly revenue,2008-12-04,1402000000,USD,from the source's records,https://www.sec.gov/Archives/edgar/data/723125/000072312510000019/
 516,Micron · quarterly revenue,2009-12-03,1740000000,USD,from the source's records,https://www.sec.gov/Archives/edgar/data/723125/000072312511000189/
 516,Micron · quarterly revenue,2010-03-04,1961000000,USD,from the source's records,https://www.sec.gov/Archives/edgar/data/723125/000072312511000189/
@@ -25205,6 +25233,7 @@ number_id,title,date,value,unit,kind,source
 520,Micron · shares outstanding,2026-11-18,1131423212,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/723125/000072312526000023/
 520,Micron · shares outstanding,2026-11-19,1131423212,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/723125/000072312526000023/
 520,Micron · shares outstanding,2026-11-20,1131423212,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/723125/000072312526000023/
+520,Micron · shares outstanding,2026-11-21,1131423212,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/723125/000072312526000023/
 521,ServiceNow · quarterly revenue,2011-06-30,29485000,USD,from the source's records,https://www.sec.gov/Archives/edgar/data/1373715/000119312512349586/
 521,ServiceNow · quarterly revenue,2011-09-30,34197000,USD,from the source's records,https://www.sec.gov/Archives/edgar/data/1373715/000119312512443921/
 521,ServiceNow · quarterly revenue,2012-03-31,47431000,USD,from the source's records,https://www.sec.gov/Archives/edgar/data/1373715/000137371513000013/
@@ -25466,6 +25495,7 @@ number_id,title,date,value,unit,kind,source
 525,ServiceNow · shares outstanding,2026-11-18,1038000000,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/1373715/000137371526000096/
 525,ServiceNow · shares outstanding,2026-11-19,1038000000,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/1373715/000137371526000096/
 525,ServiceNow · shares outstanding,2026-11-20,1038000000,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/1373715/000137371526000096/
+525,ServiceNow · shares outstanding,2026-11-21,1038000000,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/1373715/000137371526000096/
 526,Snowflake · quarterly revenue,2019-10-31,73012000,USD,from the source's records,https://www.sec.gov/Archives/edgar/data/1640147/000164014720000023/
 526,Snowflake · quarterly revenue,2020-04-30,108815000,USD,from the source's records,https://www.sec.gov/Archives/edgar/data/1640147/000164014721000122/
 526,Snowflake · quarterly revenue,2020-07-31,133145000,USD,from the source's records,https://www.sec.gov/Archives/edgar/data/1640147/000164014721000212/
@@ -25578,6 +25608,7 @@ number_id,title,date,value,unit,kind,source
 530,Snowflake · shares outstanding,2026-11-18,352800000,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/1640147/000164014726000037/
 530,Snowflake · shares outstanding,2026-11-19,352800000,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/1640147/000164014726000037/
 530,Snowflake · shares outstanding,2026-11-20,352800000,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/1640147/000164014726000037/
+530,Snowflake · shares outstanding,2026-11-21,352800000,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/1640147/000164014726000037/
 531,Datadog · quarterly revenue,2018-09-30,51074000,USD,from the source's records,https://www.sec.gov/Archives/edgar/data/1561550/000156459019043256/
 531,Datadog · quarterly revenue,2019-03-31,70050000,USD,from the source's records,https://www.sec.gov/Archives/edgar/data/1561550/000156459020024662/
 531,Datadog · quarterly revenue,2019-06-30,83222000,USD,from the source's records,https://www.sec.gov/Archives/edgar/data/1561550/000156459020038405/
@@ -25910,6 +25941,7 @@ number_id,title,date,value,unit,kind,source
 543,CrowdStrike · shares outstanding,2026-11-18,1023934842,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/1535527/000153552726000031/
 543,CrowdStrike · shares outstanding,2026-11-19,1023934842,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/1535527/000153552726000031/
 543,CrowdStrike · shares outstanding,2026-11-20,1023934842,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/1535527/000153552726000031/
+543,CrowdStrike · shares outstanding,2026-11-21,1023934842,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/1535527/000153552726000031/
 544,Shopify · quarterly revenue,2024-03-31,1861000000,USD,from the source's records,https://www.sec.gov/Archives/edgar/data/1594805/000159480525000046/
 544,Shopify · quarterly revenue,2024-06-30,2045000000,USD,from the source's records,https://www.sec.gov/Archives/edgar/data/1594805/000159480525000073/
 544,Shopify · quarterly revenue,2024-09-30,2162000000,USD,from the source's records,https://www.sec.gov/Archives/edgar/data/1594805/000159480525000089/
@@ -26291,6 +26323,7 @@ number_id,title,date,value,unit,kind,source
 560,Disney · shares outstanding,2026-11-18,1708029668,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/1744489/000174448926000066/
 560,Disney · shares outstanding,2026-11-19,1708029668,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/1744489/000174448926000066/
 560,Disney · shares outstanding,2026-11-20,1708029668,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/1744489/000174448926000066/
+560,Disney · shares outstanding,2026-11-21,1708029668,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/1744489/000174448926000066/
 561,Coca-Cola · quarterly revenue,2017-09-29,9078000000,USD,from the source's records,https://www.sec.gov/Archives/edgar/data/21344/000002134418000042/
 561,Coca-Cola · quarterly revenue,2018-03-30,7626000000,USD,from the source's records,https://www.sec.gov/Archives/edgar/data/21344/000002134419000028/
 561,Coca-Cola · quarterly revenue,2018-06-29,9421000000,USD,from the source's records,https://www.sec.gov/Archives/edgar/data/21344/000002134419000034/
@@ -26541,6 +26574,7 @@ number_id,title,date,value,unit,kind,source
 565,Coca-Cola · shares outstanding,2026-11-18,4301902335,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/21344/000162828026067844/
 565,Coca-Cola · shares outstanding,2026-11-19,4301902335,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/21344/000162828026067844/
 565,Coca-Cola · shares outstanding,2026-11-20,4301902335,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/21344/000162828026067844/
+565,Coca-Cola · shares outstanding,2026-11-21,4301902335,shares,read by Tally,https://www.sec.gov/Archives/edgar/data/21344/000162828026067844/
 566,Vercel · latest round size,2026-11-18,102000000,USD,read by Tally,https://www.alexanderjarvis.com/vercel-pitch-deck-to-raise-40m-series-b-round
 567,Vercel · latest valuation,2026-11-18,9300000000,USD,read by Tally,https://en.wikipedia.org/wiki/Vercel
 568,N8N · latest valuation,2026-11-18,5200000000,USD,read by Tally,https://www.ayautomate.com/blog/n8n-enterprise-valuation-2026
@@ -43223,8 +43257,150 @@ number_id,title,date,value,unit,kind,source
 792,"MLflow · PyPI downloads, weekly",2026-11-08,4978922,downloads,from the source's records,https://pypistats.org/packages/mlflow
 792,"MLflow · PyPI downloads, weekly",2026-11-15,5366760,downloads,from the source's records,https://pypistats.org/packages/mlflow
 792,"MLflow · PyPI downloads, weekly",2026-11-21,5796513,downloads,read by Tally,https://pypistats.org/packages/mlflow
+793,Airflow · GitHub stars,2019-01-06,10452,stars,from the source's records,https://web.archive.org/web/20190106050036/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2019-02-03,10899,stars,from the source's records,https://web.archive.org/web/20190203113717/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2019-03-14,11430,stars,from the source's records,https://web.archive.org/web/20190314105620/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2019-04-03,11691,stars,from the source's records,https://web.archive.org/web/20190403051337/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2019-05-02,12068,stars,from the source's records,https://web.archive.org/web/20190502172158/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2019-06-20,12686,stars,from the source's records,https://web.archive.org/web/20190620081212/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2019-07-13,13014,stars,from the source's records,https://web.archive.org/web/20190713150524/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2019-08-22,13579,stars,from the source's records,https://web.archive.org/web/20190822180513/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2019-09-05,13763,stars,from the source's records,https://web.archive.org/web/20190905215824/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2019-10-03,14112,stars,from the source's records,https://web.archive.org/web/20191003004508/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2019-12-03,14778,stars,from the source's records,https://web.archive.org/web/20191203123735/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2020-02-29,15839,stars,from the source's records,https://web.archive.org/web/20200229093358/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2020-04-08,16248,stars,from the source's records,https://web.archive.org/web/20200408234655/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2020-05-03,16565,stars,from the source's records,https://web.archive.org/web/20200503222143/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2020-06-23,17167,stars,from the source's records,https://web.archive.org/web/20200623121017/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2020-07-05,17311,stars,from the source's records,https://web.archive.org/web/20200705094111/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2020-08-02,17638,stars,from the source's records,https://web.archive.org/web/20200802041431/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2020-09-10,18173,stars,from the source's records,https://web.archive.org/web/20200910094942/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2020-10-02,18414,stars,from the source's records,https://web.archive.org/web/20201002031614/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2020-11-07,18859,stars,from the source's records,https://web.archive.org/web/20201107072449/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2020-12-01,19415,stars,from the source's records,https://web.archive.org/web/20201201010911/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2021-01-01,19810,stars,from the source's records,https://web.archive.org/web/20210101215336/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2021-02-03,20339,stars,from the source's records,https://web.archive.org/web/20210203072805/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2021-03-05,20665,stars,from the source's records,https://web.archive.org/web/20210305121739/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2021-04-09,21089,stars,from the source's records,https://web.archive.org/web/20210409075255/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2021-05-02,21337,stars,from the source's records,https://web.archive.org/web/20210502133220/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2021-06-03,21668,stars,from the source's records,https://web.archive.org/web/20210603003032/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2021-07-02,22219,stars,from the source's records,https://web.archive.org/web/20210702012310/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2021-08-01,22610,stars,from the source's records,https://web.archive.org/web/20210801022257/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2021-09-02,22968,stars,from the source's records,https://web.archive.org/web/20210902012640/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2021-10-05,23266,stars,from the source's records,https://web.archive.org/web/20211005051652/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2021-12-01,23920,stars,from the source's records,https://web.archive.org/web/20211201061844/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2022-01-01,24223,stars,from the source's records,https://web.archive.org/web/20220101161434/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2022-02-01,24582,stars,from the source's records,https://web.archive.org/web/20220201000021/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2022-03-01,24972,stars,from the source's records,https://web.archive.org/web/20220301232953/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2022-04-02,25341,stars,from the source's records,https://web.archive.org/web/20220402205833/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2022-05-01,25670,stars,from the source's records,https://web.archive.org/web/20220501144513/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2022-06-01,26164,stars,from the source's records,https://web.archive.org/web/20220601045804/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2022-07-09,26619,stars,from the source's records,https://web.archive.org/web/20220709074727/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2022-08-02,26865,stars,from the source's records,https://web.archive.org/web/20220802081414/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2022-09-01,27222,stars,from the source's records,https://web.archive.org/web/20220901150755/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2022-10-13,27813,stars,from the source's records,https://web.archive.org/web/20221013153356/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2022-11-01,28031,stars,from the source's records,https://web.archive.org/web/20221101155820/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2022-12-02,28332,stars,from the source's records,https://web.archive.org/web/20221202153401/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2023-01-02,28617,stars,from the source's records,https://web.archive.org/web/20230102212352/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2023-02-03,29023,stars,from the source's records,https://web.archive.org/web/20230203172620/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2023-03-05,29358,stars,from the source's records,https://web.archive.org/web/20230305234403/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2023-04-01,29660,stars,from the source's records,https://web.archive.org/web/20230401190030/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2023-05-01,30017,stars,from the source's records,https://web.archive.org/web/20230501161709/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2023-06-02,30438,stars,from the source's records,https://web.archive.org/web/20230602165716/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2023-07-31,31131,stars,from the source's records,https://web.archive.org/web/20230731101613/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2023-09-10,31618,stars,from the source's records,https://web.archive.org/web/20230910232340/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2023-10-02,31889,stars,from the source's records,https://web.archive.org/web/20231002100313/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2023-11-09,32329,stars,from the source's records,https://web.archive.org/web/20231109025303/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2023-12-07,32634,stars,from the source's records,https://web.archive.org/web/20231207042957/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2024-01-10,33019,stars,from the source's records,https://web.archive.org/web/20240110165842/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2024-02-05,33359,stars,from the source's records,https://web.archive.org/web/20240205214805/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2024-03-03,33720,stars,from the source's records,https://web.archive.org/web/20240303100951/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2024-04-06,34250,stars,from the source's records,https://web.archive.org/web/20240406224657/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2024-05-19,34731,stars,from the source's records,https://web.archive.org/web/20240519175643/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2024-06-04,34924,stars,from the source's records,https://web.archive.org/web/20240604022027/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2024-07-01,35236,stars,from the source's records,https://web.archive.org/web/20240701114646/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2024-08-14,35841,stars,from the source's records,https://web.archive.org/web/20240814120209/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2024-09-10,36202,stars,from the source's records,https://web.archive.org/web/20240910224257/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2024-10-01,36509,stars,from the source's records,https://web.archive.org/web/20241001043101/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2024-11-02,36946,stars,from the source's records,https://web.archive.org/web/20241102142054/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2024-12-04,37461,stars,from the source's records,https://web.archive.org/web/20241204131849/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2025-01-05,38158,stars,from the source's records,https://web.archive.org/web/20250105114302/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2025-02-01,38519,stars,from the source's records,https://web.archive.org/web/20250201004834/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2025-03-02,38970,stars,from the source's records,https://web.archive.org/web/20250302075230/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2025-04-02,39437,stars,from the source's records,https://web.archive.org/web/20250402072457/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2025-06-04,40384,stars,from the source's records,https://web.archive.org/web/20250604031608/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2025-07-11,40965,stars,from the source's records,https://web.archive.org/web/20250711183709/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2025-08-02,41340,stars,from the source's records,https://web.archive.org/web/20250802193300/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2025-09-07,42196,stars,from the source's records,https://web.archive.org/web/20250907155353/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2025-10-03,42658,stars,from the source's records,https://web.archive.org/web/20251003225634/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2025-11-01,43018,stars,from the source's records,https://web.archive.org/web/20251101031825/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2025-12-01,43380,stars,from the source's records,https://web.archive.org/web/20251201092303/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2026-01-02,43708,stars,from the source's records,https://web.archive.org/web/20260102070149/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2026-02-02,44110,stars,from the source's records,https://web.archive.org/web/20260202183328/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2026-03-05,44486,stars,from the source's records,https://web.archive.org/web/20260305012003/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2026-04-01,44846,stars,from the source's records,https://web.archive.org/web/20260401084117/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2026-05-12,45368,stars,from the source's records,https://web.archive.org/web/20260512030631/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2026-06-03,45677,stars,from the source's records,https://web.archive.org/web/20260603090517/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2026-07-12,46099,stars,from the source's records,https://web.archive.org/web/20260712223806/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2026-08-19,46531,stars,from the source's records,https://web.archive.org/web/20260819082122/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2026-09-10,46796,stars,from the source's records,https://web.archive.org/web/20260910005022/https://github.com/apache/airflow
+793,Airflow · GitHub stars,2026-10-02,47032,stars,from the source's records,https://web.archive.org/web/20261002094538/https://github.com/apache/airflow
 793,Airflow · GitHub stars,2026-11-21,47583,stars,read by Tally,https://github.com/apache/airflow
 794,"Airflow · PyPI downloads, weekly",2026-11-21,1403721,downloads,read by Tally,https://pypistats.org/packages/apache-airflow
+795,dbt · GitHub stars,2021-10-18,3621,stars,from the source's records,https://web.archive.org/web/20211018202253/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2021-11-10,3731,stars,from the source's records,https://web.archive.org/web/20211110043249/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2021-12-01,3820,stars,from the source's records,https://web.archive.org/web/20211201014719/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2022-01-08,4021,stars,from the source's records,https://web.archive.org/web/20220108153244/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2022-03-04,4302,stars,from the source's records,https://web.archive.org/web/20220304012112/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2022-04-01,4442,stars,from the source's records,https://web.archive.org/web/20220401024918/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2022-05-04,4665,stars,from the source's records,https://web.archive.org/web/20220504165924/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2022-07-02,5106,stars,from the source's records,https://web.archive.org/web/20220702084849/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2022-08-24,5379,stars,from the source's records,https://web.archive.org/web/20220824105759/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2022-09-07,5433,stars,from the source's records,https://web.archive.org/web/20220907074412/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2022-10-09,5805,stars,from the source's records,https://web.archive.org/web/20221009080514/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2022-11-29,6097,stars,from the source's records,https://web.archive.org/web/20221129173411/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2022-12-20,6211,stars,from the source's records,https://web.archive.org/web/20221220022625/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2023-01-04,6270,stars,from the source's records,https://web.archive.org/web/20230104224949/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2023-02-06,6456,stars,from the source's records,https://web.archive.org/web/20230206003342/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2023-03-08,6637,stars,from the source's records,https://web.archive.org/web/20230308124107/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2023-04-06,6770,stars,from the source's records,https://web.archive.org/web/20230406213045/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2023-05-05,6929,stars,from the source's records,https://web.archive.org/web/20230505213839/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2023-06-03,7047,stars,from the source's records,https://web.archive.org/web/20230603203141/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2023-07-28,7295,stars,from the source's records,https://web.archive.org/web/20230728054739/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2023-08-22,7409,stars,from the source's records,https://web.archive.org/web/20230822100202/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2023-09-20,7523,stars,from the source's records,https://web.archive.org/web/20230920152450/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2023-11-28,7842,stars,from the source's records,https://web.archive.org/web/20231128141325/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2023-12-07,7892,stars,from the source's records,https://web.archive.org/web/20231207034449/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2024-02-07,8230,stars,from the source's records,https://web.archive.org/web/20240207034147/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2024-03-03,8603,stars,from the source's records,https://web.archive.org/web/20240303100918/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2024-04-15,8840,stars,from the source's records,https://web.archive.org/web/20240415064032/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2024-05-15,8966,stars,from the source's records,https://web.archive.org/web/20240515193853/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2024-06-03,9071,stars,from the source's records,https://web.archive.org/web/20240603203434/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2024-07-19,9345,stars,from the source's records,https://web.archive.org/web/20240719002708/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2024-08-05,9424,stars,from the source's records,https://web.archive.org/web/20240805181147/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2024-09-19,9644,stars,from the source's records,https://web.archive.org/web/20240919211340/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2024-10-01,9690,stars,from the source's records,https://web.archive.org/web/20241001121950/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2024-11-09,9918,stars,from the source's records,https://web.archive.org/web/20241109001444/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2024-12-07,10042,stars,from the source's records,https://web.archive.org/web/20241207072522/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2025-01-03,10158,stars,from the source's records,https://web.archive.org/web/20250103203151/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2025-02-06,10327,stars,from the source's records,https://web.archive.org/web/20250206190416/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2025-03-04,10450,stars,from the source's records,https://web.archive.org/web/20250304003014/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2025-04-15,10653,stars,from the source's records,https://web.archive.org/web/20250415094519/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2025-05-01,10740,stars,from the source's records,https://web.archive.org/web/20250501021443/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2025-06-04,10924,stars,from the source's records,https://web.archive.org/web/20250604074518/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2025-07-19,11114,stars,from the source's records,https://web.archive.org/web/20250719030310/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2025-08-02,11189,stars,from the source's records,https://web.archive.org/web/20250802173651/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2025-09-01,11313,stars,from the source's records,https://web.archive.org/web/20250901002611/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2025-11-07,11808,stars,from the source's records,https://web.archive.org/web/20251107072837/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2025-12-18,11992,stars,from the source's records,https://web.archive.org/web/20251218003202/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2026-01-04,12049,stars,from the source's records,https://web.archive.org/web/20260104081739/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2026-02-07,12211,stars,from the source's records,https://web.archive.org/web/20260207090611/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2026-03-06,12342,stars,from the source's records,https://web.archive.org/web/20260306101502/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2026-04-13,12617,stars,from the source's records,https://web.archive.org/web/20260413181417/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2026-05-20,12819,stars,from the source's records,https://web.archive.org/web/20260520134351/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2026-06-09,12962,stars,from the source's records,https://web.archive.org/web/20260609232322/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2026-07-03,13344,stars,from the source's records,https://web.archive.org/web/20260703002859/https://github.com/dbt-labs/dbt-core
+795,dbt · GitHub stars,2026-08-09,13606,stars,from the source's records,https://web.archive.org/web/20260809061237/https://github.com/dbt-labs/dbt-core
 795,dbt · GitHub stars,2026-11-21,14195,stars,read by Tally,https://github.com/dbt-labs/dbt
 796,"dbt · PyPI downloads, weekly",2019-02-24,75,downloads,from the source's records,https://clickpy.clickhouse.com/dashboard/dbt-core
 796,"dbt · PyPI downloads, weekly",2019-03-03,15,downloads,from the source's records,https://clickpy.clickhouse.com/dashboard/dbt-core
@@ -43630,6 +43806,69 @@ number_id,title,date,value,unit,kind,source
 796,"dbt · PyPI downloads, weekly",2026-11-08,5813183,downloads,from the source's records,https://pypistats.org/packages/dbt-core
 796,"dbt · PyPI downloads, weekly",2026-11-15,5798194,downloads,from the source's records,https://pypistats.org/packages/dbt-core
 796,"dbt · PyPI downloads, weekly",2026-11-21,5908291,downloads,read by Tally,https://pypistats.org/packages/dbt-core
+797,Prisma · GitHub stars,2019-03-22,13252,stars,from the source's records,https://web.archive.org/web/20190322172454/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2019-05-29,14362,stars,from the source's records,https://web.archive.org/web/20190529083924/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2019-06-02,14413,stars,from the source's records,https://web.archive.org/web/20190602155912/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2019-07-24,15042,stars,from the source's records,https://web.archive.org/web/20190724021535/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2019-10-03,15747,stars,from the source's records,https://web.archive.org/web/20191003013100/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2019-12-22,16356,stars,from the source's records,https://web.archive.org/web/20191222002254/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2021-08-11,15426,stars,from the source's records,https://web.archive.org/web/20210811094447/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2021-09-06,15929,stars,from the source's records,https://web.archive.org/web/20210906133241/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2021-10-03,16563,stars,from the source's records,https://web.archive.org/web/20211003230100/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2021-11-15,17504,stars,from the source's records,https://web.archive.org/web/20211115130540/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2021-12-14,18077,stars,from the source's records,https://web.archive.org/web/20211214073949/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2022-01-05,19317,stars,from the source's records,https://web.archive.org/web/20220105174956/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2022-02-06,20461,stars,from the source's records,https://web.archive.org/web/20220206060502/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2022-03-21,21312,stars,from the source's records,https://web.archive.org/web/20220321223800/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2022-04-02,21616,stars,from the source's records,https://web.archive.org/web/20220402093454/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2022-05-02,22377,stars,from the source's records,https://web.archive.org/web/20220502150343/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2022-07-22,24340,stars,from the source's records,https://web.archive.org/web/20220722105744/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2022-08-18,24936,stars,from the source's records,https://web.archive.org/web/20220818012214/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2022-09-03,25303,stars,from the source's records,https://web.archive.org/web/20220903125419/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2022-10-01,25976,stars,from the source's records,https://web.archive.org/web/20221001145750/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2022-11-09,26777,stars,from the source's records,https://web.archive.org/web/20221109154653/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2022-12-06,27412,stars,from the source's records,https://web.archive.org/web/20221206144734/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2023-01-09,28186,stars,from the source's records,https://web.archive.org/web/20230109205718/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2023-02-01,28783,stars,from the source's records,https://web.archive.org/web/20230201064324/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2023-03-07,29602,stars,from the source's records,https://web.archive.org/web/20230307082858/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2023-04-06,30345,stars,from the source's records,https://web.archive.org/web/20230406105130/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2023-05-02,31019,stars,from the source's records,https://web.archive.org/web/20230502111122/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2023-06-02,31750,stars,from the source's records,https://web.archive.org/web/20230602012538/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2023-07-05,32483,stars,from the source's records,https://web.archive.org/web/20230705203416/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2023-08-01,33062,stars,from the source's records,https://web.archive.org/web/20230801221648/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2023-09-12,33739,stars,from the source's records,https://web.archive.org/web/20230912091019/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2023-10-04,34054,stars,from the source's records,https://web.archive.org/web/20231004033913/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2023-11-04,34554,stars,from the source's records,https://web.archive.org/web/20231104093943/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2023-12-02,34963,stars,from the source's records,https://web.archive.org/web/20231202012412/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2024-01-24,35896,stars,from the source's records,https://web.archive.org/web/20240124072756/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2024-02-21,36292,stars,from the source's records,https://web.archive.org/web/20240221113720/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2024-05-30,37654,stars,from the source's records,https://web.archive.org/web/20240530010159/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2024-06-06,37730,stars,from the source's records,https://web.archive.org/web/20240606083153/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2024-07-12,38100,stars,from the source's records,https://web.archive.org/web/20240712160408/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2024-08-13,38491,stars,from the source's records,https://web.archive.org/web/20240813181624/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2024-09-05,38761,stars,from the source's records,https://web.archive.org/web/20240905105540/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2024-10-01,39083,stars,from the source's records,https://web.archive.org/web/20241001151517/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2024-11-10,39642,stars,from the source's records,https://web.archive.org/web/20241110122504/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2024-12-02,39920,stars,from the source's records,https://web.archive.org/web/20241202185744/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2025-01-04,40453,stars,from the source's records,https://web.archive.org/web/20250104133835/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2025-02-11,41090,stars,from the source's records,https://web.archive.org/web/20250211094415/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2025-03-01,41336,stars,from the source's records,https://web.archive.org/web/20250301225111/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2025-04-17,41915,stars,from the source's records,https://web.archive.org/web/20250417230316/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2025-05-01,42082,stars,from the source's records,https://web.archive.org/web/20250501065508/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2025-06-05,42472,stars,from the source's records,https://web.archive.org/web/20250605125309/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2025-07-05,42770,stars,from the source's records,https://web.archive.org/web/20250705142110/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2025-08-02,42998,stars,from the source's records,https://web.archive.org/web/20250802182427/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2025-09-11,43740,stars,from the source's records,https://web.archive.org/web/20250911065601/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2025-10-04,43937,stars,from the source's records,https://web.archive.org/web/20251004051359/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2025-11-03,44212,stars,from the source's records,https://web.archive.org/web/20251103190155/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2025-12-02,44638,stars,from the source's records,https://web.archive.org/web/20251202222207/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2026-02-13,45296,stars,from the source's records,https://web.archive.org/web/20260213043225/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2026-03-03,45439,stars,from the source's records,https://web.archive.org/web/20260303131904/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2026-04-01,45630,stars,from the source's records,https://web.archive.org/web/20260401015417/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2026-05-15,45965,stars,from the source's records,https://web.archive.org/web/20260515041117/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2026-06-07,46212,stars,from the source's records,https://web.archive.org/web/20260607113643/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2026-07-09,46737,stars,from the source's records,https://web.archive.org/web/20260709110428/https://github.com/prisma/prisma
+797,Prisma · GitHub stars,2026-08-03,47519,stars,from the source's records,https://web.archive.org/web/20260803115941/https://github.com/prisma/prisma
 797,Prisma · GitHub stars,2026-11-21,47692,stars,read by Tally,https://github.com/prisma/orm
 798,"Prisma · npm downloads, weekly",2016-06-05,159,downloads,from the source's records,https://www.npmjs.com/package/prisma
 798,"Prisma · npm downloads, weekly",2016-06-12,96,downloads,from the source's records,https://www.npmjs.com/package/prisma
@@ -44178,6 +44417,48 @@ number_id,title,date,value,unit,kind,source
 798,"Prisma · npm downloads, weekly",2026-11-08,26024923,downloads,from the source's records,https://www.npmjs.com/package/prisma
 798,"Prisma · npm downloads, weekly",2026-11-15,26315058,downloads,from the source's records,https://www.npmjs.com/package/prisma
 798,"Prisma · npm downloads, weekly",2026-11-21,26543733,downloads,read by Tally,https://www.npmjs.com/package/prisma
+799,Drizzle · GitHub stars,2022-11-11,28,stars,from the source's records,https://web.archive.org/web/20221111105751/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2022-12-25,88,stars,from the source's records,https://web.archive.org/web/20221225093047/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2023-01-28,150,stars,from the source's records,https://web.archive.org/web/20230128163842/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2023-02-02,170,stars,from the source's records,https://web.archive.org/web/20230202050906/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2023-03-06,430,stars,from the source's records,https://web.archive.org/web/20230306220522/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2023-04-01,3379,stars,from the source's records,https://web.archive.org/web/20230401190133/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2023-05-04,5149,stars,from the source's records,https://web.archive.org/web/20230504113427/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2023-06-01,8800,stars,from the source's records,https://web.archive.org/web/20230601164703/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2023-07-01,10739,stars,from the source's records,https://web.archive.org/web/20230701200734/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2023-08-06,11907,stars,from the source's records,https://web.archive.org/web/20230806161846/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2023-09-21,13350,stars,from the source's records,https://web.archive.org/web/20230921044009/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2023-10-10,13930,stars,from the source's records,https://web.archive.org/web/20231010104201/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2023-12-03,15259,stars,from the source's records,https://web.archive.org/web/20231203063606/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2024-01-05,15936,stars,from the source's records,https://web.archive.org/web/20240105125917/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2024-02-02,16910,stars,from the source's records,https://web.archive.org/web/20240202143110/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2024-03-27,18827,stars,from the source's records,https://web.archive.org/web/20240327113142/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2024-04-23,19631,stars,from the source's records,https://web.archive.org/web/20240423140909/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2024-05-28,20494,stars,from the source's records,https://web.archive.org/web/20240528012259/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2024-06-02,20714,stars,from the source's records,https://web.archive.org/web/20240602143015/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2024-07-01,21465,stars,from the source's records,https://web.archive.org/web/20240701134043/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2024-08-01,22184,stars,from the source's records,https://web.archive.org/web/20240801005523/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2024-09-01,22848,stars,from the source's records,https://web.archive.org/web/20240901023825/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2024-10-01,23531,stars,from the source's records,https://web.archive.org/web/20241001151533/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2024-11-05,24242,stars,from the source's records,https://web.archive.org/web/20241105110413/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2025-01-18,25745,stars,from the source's records,https://web.archive.org/web/20250118051708/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2025-02-01,26004,stars,from the source's records,https://web.archive.org/web/20250201213537/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2025-03-01,26591,stars,from the source's records,https://web.archive.org/web/20250301122540/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2025-04-09,27386,stars,from the source's records,https://web.archive.org/web/20250409070118/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2025-05-02,27850,stars,from the source's records,https://web.archive.org/web/20250502220020/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2025-07-24,29405,stars,from the source's records,https://web.archive.org/web/20250724201659/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2025-08-05,29581,stars,from the source's records,https://web.archive.org/web/20250805022529/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2025-09-07,30166,stars,from the source's records,https://web.archive.org/web/20250907184232/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2025-11-12,31217,stars,from the source's records,https://web.archive.org/web/20251112231518/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2025-12-04,31581,stars,from the source's records,https://web.archive.org/web/20251204154359/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2026-01-13,32288,stars,from the source's records,https://web.archive.org/web/20260113102246/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2026-02-10,32734,stars,from the source's records,https://web.archive.org/web/20260210130320/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2026-03-04,33082,stars,from the source's records,https://web.archive.org/web/20260304082324/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2026-04-07,33710,stars,from the source's records,https://web.archive.org/web/20260407142310/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2026-05-11,34323,stars,from the source's records,https://web.archive.org/web/20260511111746/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2026-06-01,34624,stars,from the source's records,https://web.archive.org/web/20260601233716/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2026-07-23,35225,stars,from the source's records,https://web.archive.org/web/20260723010335/https://github.com/drizzle-team/drizzle-orm
+799,Drizzle · GitHub stars,2026-09-07,35705,stars,from the source's records,https://web.archive.org/web/20260907112259/https://github.com/drizzle-team/drizzle-orm
 799,Drizzle · GitHub stars,2026-11-21,36330,stars,read by Tally,https://github.com/drizzle-team/drizzle-orm
 800,"Drizzle · npm downloads, weekly",2021-09-12,35,downloads,from the source's records,https://www.npmjs.com/package/drizzle-orm
 800,"Drizzle · npm downloads, weekly",2021-09-19,4,downloads,from the source's records,https://www.npmjs.com/package/drizzle-orm
@@ -44451,6 +44732,63 @@ number_id,title,date,value,unit,kind,source
 800,"Drizzle · npm downloads, weekly",2026-11-08,48462425,downloads,from the source's records,https://www.npmjs.com/package/drizzle-orm
 800,"Drizzle · npm downloads, weekly",2026-11-15,49940527,downloads,from the source's records,https://www.npmjs.com/package/drizzle-orm
 800,"Drizzle · npm downloads, weekly",2026-11-21,50729060,downloads,read by Tally,https://www.npmjs.com/package/drizzle-orm
+801,tRPC · GitHub stars,2021-01-30,51,stars,from the source's records,https://web.archive.org/web/20210130050334/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2021-02-06,54,stars,from the source's records,https://web.archive.org/web/20210206134657/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2021-03-03,128,stars,from the source's records,https://web.archive.org/web/20210303104324/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2021-04-19,466,stars,from the source's records,https://web.archive.org/web/20210419010946/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2021-05-03,517,stars,from the source's records,https://web.archive.org/web/20210503140654/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2021-06-21,913,stars,from the source's records,https://web.archive.org/web/20210621132822/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2021-07-14,998,stars,from the source's records,https://web.archive.org/web/20210714142253/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2021-09-05,1459,stars,from the source's records,https://web.archive.org/web/20210905144550/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2021-10-02,1686,stars,from the source's records,https://web.archive.org/web/20211002234417/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2022-02-12,3098,stars,from the source's records,https://web.archive.org/web/20220212041513/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2022-03-03,3405,stars,from the source's records,https://web.archive.org/web/20220303142408/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2022-04-01,4663,stars,from the source's records,https://web.archive.org/web/20220401203600/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2022-05-14,5692,stars,from the source's records,https://web.archive.org/web/20220514074303/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2022-06-10,6170,stars,from the source's records,https://web.archive.org/web/20220610110929/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2022-07-01,7402,stars,from the source's records,https://web.archive.org/web/20220701180219/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2022-08-03,10515,stars,from the source's records,https://web.archive.org/web/20220803221502/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2022-09-02,12002,stars,from the source's records,https://web.archive.org/web/20220902113407/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2022-10-01,13509,stars,from the source's records,https://web.archive.org/web/20221001203630/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2022-11-03,14746,stars,from the source's records,https://web.archive.org/web/20221103032223/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2022-12-02,16241,stars,from the source's records,https://web.archive.org/web/20221202043212/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2023-01-09,18417,stars,from the source's records,https://web.archive.org/web/20230109005710/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2023-02-06,20801,stars,from the source's records,https://web.archive.org/web/20230206121117/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2023-03-07,22431,stars,from the source's records,https://web.archive.org/web/20230307074150/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2023-04-06,23899,stars,from the source's records,https://web.archive.org/web/20230406213227/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2023-05-03,25170,stars,from the source's records,https://web.archive.org/web/20230503113107/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2023-06-02,26064,stars,from the source's records,https://web.archive.org/web/20230602170944/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2023-07-17,27179,stars,from the source's records,https://web.archive.org/web/20230717052434/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2023-09-11,28589,stars,from the source's records,https://web.archive.org/web/20230911181204/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2023-10-26,29399,stars,from the source's records,https://web.archive.org/web/20231026194427/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2023-11-04,29556,stars,from the source's records,https://web.archive.org/web/20231104054123/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2023-12-01,30123,stars,from the source's records,https://web.archive.org/web/20231201220928/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2024-01-11,30878,stars,from the source's records,https://web.archive.org/web/20240111155608/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2024-02-15,31628,stars,from the source's records,https://web.archive.org/web/20240215124705/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2024-03-20,32177,stars,from the source's records,https://web.archive.org/web/20240320030702/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2024-07-18,33668,stars,from the source's records,https://web.archive.org/web/20240718074931/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2024-08-17,34021,stars,from the source's records,https://web.archive.org/web/20240817214424/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2024-10-01,34532,stars,from the source's records,https://web.archive.org/web/20241001223003/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2024-11-14,34984,stars,from the source's records,https://web.archive.org/web/20241114210208/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2024-12-02,35156,stars,from the source's records,https://web.archive.org/web/20241202124525/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2025-01-12,35524,stars,from the source's records,https://web.archive.org/web/20250112200559/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2025-02-28,36189,stars,from the source's records,https://web.archive.org/web/20250228011415/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2025-03-11,36335,stars,from the source's records,https://web.archive.org/web/20250311165856/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2025-04-08,36836,stars,from the source's records,https://web.archive.org/web/20250408071505/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2025-05-02,37130,stars,from the source's records,https://web.archive.org/web/20250502034546/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2025-07-04,37757,stars,from the source's records,https://web.archive.org/web/20250704035722/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2025-08-02,38088,stars,from the source's records,https://web.archive.org/web/20250802193628/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2025-09-13,38452,stars,from the source's records,https://web.archive.org/web/20250913131250/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2025-11-06,38823,stars,from the source's records,https://web.archive.org/web/20251106135058/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2025-12-13,39108,stars,from the source's records,https://web.archive.org/web/20251213053726/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2026-01-02,39242,stars,from the source's records,https://web.archive.org/web/20260102113046/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2026-02-02,39475,stars,from the source's records,https://web.archive.org/web/20260202222705/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2026-03-05,39661,stars,from the source's records,https://web.archive.org/web/20260305022713/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2026-04-26,40101,stars,from the source's records,https://web.archive.org/web/20260426044454/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2026-05-09,40164,stars,from the source's records,https://web.archive.org/web/20260509061730/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2026-06-15,40342,stars,from the source's records,https://web.archive.org/web/20260615171257/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2026-07-27,40469,stars,from the source's records,https://web.archive.org/web/20260727200547/https://github.com/trpc/trpc
+801,tRPC · GitHub stars,2026-08-07,40497,stars,from the source's records,https://web.archive.org/web/20260807193939/https://github.com/trpc/trpc
 801,tRPC · GitHub stars,2026-11-21,40845,stars,read by Tally,https://github.com/trpc/trpc
 802,"tRPC · npm downloads, weekly",2021-01-31,219,downloads,from the source's records,https://www.npmjs.com/package/@trpc/server
 802,"tRPC · npm downloads, weekly",2021-02-07,298,downloads,from the source's records,https://www.npmjs.com/package/@trpc/server
@@ -44756,6 +45094,67 @@ number_id,title,date,value,unit,kind,source
 802,"tRPC · npm downloads, weekly",2026-11-08,7946962,downloads,from the source's records,https://www.npmjs.com/package/@trpc/server
 802,"tRPC · npm downloads, weekly",2026-11-15,8093857,downloads,from the source's records,https://www.npmjs.com/package/@trpc/server
 802,"tRPC · npm downloads, weekly",2026-11-21,8553900,downloads,read by Tally,https://www.npmjs.com/package/@trpc/server
+803,Zod · GitHub stars,2020-11-18,1710,stars,from the source's records,https://web.archive.org/web/20201118222550/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2020-12-02,1786,stars,from the source's records,https://web.archive.org/web/20201202160250/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2021-03-19,2430,stars,from the source's records,https://web.archive.org/web/20210319053347/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2021-05-06,2783,stars,from the source's records,https://web.archive.org/web/20210506103034/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2021-07-19,3451,stars,from the source's records,https://web.archive.org/web/20210719143356/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2021-08-03,3588,stars,from the source's records,https://web.archive.org/web/20210803114122/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2021-09-17,4073,stars,from the source's records,https://web.archive.org/web/20210917230208/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2021-11-01,4447,stars,from the source's records,https://web.archive.org/web/20211101014012/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2021-12-10,4998,stars,from the source's records,https://web.archive.org/web/20211210044808/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2022-01-10,5634,stars,from the source's records,https://web.archive.org/web/20220110222112/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2022-02-05,6044,stars,from the source's records,https://web.archive.org/web/20220205223518/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2022-03-01,6456,stars,from the source's records,https://web.archive.org/web/20220301234253/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2022-04-08,6985,stars,from the source's records,https://web.archive.org/web/20220408231948/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2022-05-13,7523,stars,from the source's records,https://web.archive.org/web/20220513230047/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2022-06-16,8122,stars,from the source's records,https://web.archive.org/web/20220616204919/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2022-07-03,8748,stars,from the source's records,https://web.archive.org/web/20220703020958/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2022-08-01,9783,stars,from the source's records,https://web.archive.org/web/20220801012500/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2022-09-01,10846,stars,from the source's records,https://web.archive.org/web/20220901065626/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2022-10-01,11948,stars,from the source's records,https://web.archive.org/web/20221001002932/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2022-11-08,13355,stars,from the source's records,https://web.archive.org/web/20221108133553/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2022-12-12,15034,stars,from the source's records,https://web.archive.org/web/20221212114305/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2023-01-08,16608,stars,from the source's records,https://web.archive.org/web/20230108123028/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2023-02-04,18170,stars,from the source's records,https://web.archive.org/web/20230204013732/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2023-03-05,19457,stars,from the source's records,https://web.archive.org/web/20230305105850/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2023-04-03,20650,stars,from the source's records,https://web.archive.org/web/20230403003825/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2023-05-11,21877,stars,from the source's records,https://web.archive.org/web/20230511031347/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2023-06-05,22613,stars,from the source's records,https://web.archive.org/web/20230605152323/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2023-10-05,25696,stars,from the source's records,https://web.archive.org/web/20231005094751/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2023-11-04,26488,stars,from the source's records,https://web.archive.org/web/20231104145014/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2023-12-02,27132,stars,from the source's records,https://web.archive.org/web/20231202012416/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2024-01-01,27780,stars,from the source's records,https://web.archive.org/web/20240101150242/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2024-02-08,28672,stars,from the source's records,https://web.archive.org/web/20240208130618/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2024-03-01,29152,stars,from the source's records,https://web.archive.org/web/20240301123821/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2024-05-01,30448,stars,from the source's records,https://web.archive.org/web/20240501064020/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2024-06-05,31123,stars,from the source's records,https://web.archive.org/web/20240605134730/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2024-07-29,32174,stars,from the source's records,https://web.archive.org/web/20240729221345/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2024-08-09,32369,stars,from the source's records,https://web.archive.org/web/20240809183044/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2024-09-01,32730,stars,from the source's records,https://web.archive.org/web/20240901192701/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2024-10-01,33243,stars,from the source's records,https://web.archive.org/web/20241001072056/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2024-11-10,33917,stars,from the source's records,https://web.archive.org/web/20241110161709/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2024-12-02,34299,stars,from the source's records,https://web.archive.org/web/20241202032754/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2025-01-03,34823,stars,from the source's records,https://web.archive.org/web/20250103131429/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2025-02-01,35272,stars,from the source's records,https://web.archive.org/web/20250201030344/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2025-03-04,35881,stars,from the source's records,https://web.archive.org/web/20250304204145/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2025-04-01,36402,stars,from the source's records,https://web.archive.org/web/20250401074055/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2025-05-03,37495,stars,from the source's records,https://web.archive.org/web/20250503050243/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2025-06-04,38351,stars,from the source's records,https://web.archive.org/web/20250604024216/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2025-08-01,39321,stars,from the source's records,https://web.archive.org/web/20250801213439/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2025-09-05,39853,stars,from the source's records,https://web.archive.org/web/20250905155332/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2025-10-04,40181,stars,from the source's records,https://web.archive.org/web/20251004045852/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2025-11-04,40574,stars,from the source's records,https://web.archive.org/web/20251104074626/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2025-12-02,40890,stars,from the source's records,https://web.archive.org/web/20251202211231/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2026-01-16,41485,stars,from the source's records,https://web.archive.org/web/20260116180730/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2026-02-05,41726,stars,from the source's records,https://web.archive.org/web/20260205011147/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2026-03-06,42050,stars,from the source's records,https://web.archive.org/web/20260306032443/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2026-04-01,42260,stars,from the source's records,https://web.archive.org/web/20260401014225/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2026-05-09,42619,stars,from the source's records,https://web.archive.org/web/20260509045849/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2026-06-15,42973,stars,from the source's records,https://web.archive.org/web/20260615170337/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2026-07-22,43315,stars,from the source's records,https://web.archive.org/web/20260722224553/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2026-08-19,43487,stars,from the source's records,https://web.archive.org/web/20260819000227/https://github.com/colinhacks/zod
+803,Zod · GitHub stars,2026-09-05,43845,stars,from the source's records,https://web.archive.org/web/20260905144350/https://github.com/colinhacks/zod
 803,Zod · GitHub stars,2026-11-21,44376,stars,read by Tally,https://github.com/colinhacks/zod
 804,"Zod · npm downloads, weekly",2020-03-08,22,downloads,from the source's records,https://www.npmjs.com/package/zod
 804,"Zod · npm downloads, weekly",2020-03-15,399,downloads,from the source's records,https://www.npmjs.com/package/zod
@@ -45108,6 +45507,117 @@ number_id,title,date,value,unit,kind,source
 804,"Zod · npm downloads, weekly",2026-11-08,454178256,downloads,from the source's records,https://www.npmjs.com/package/zod
 804,"Zod · npm downloads, weekly",2026-11-15,462273503,downloads,from the source's records,https://www.npmjs.com/package/zod
 804,"Zod · npm downloads, weekly",2026-11-21,475488459,downloads,read by Tally,https://www.npmjs.com/package/zod
+805,Express · GitHub stars,2016-02-22,23298,stars,from the source's records,https://web.archive.org/web/20160222234856/https://github.com/expressjs/express
+805,Express · GitHub stars,2016-07-04,26093,stars,from the source's records,https://web.archive.org/web/20160704222842/https://github.com/expressjs/express
+805,Express · GitHub stars,2016-10-04,27688,stars,from the source's records,https://web.archive.org/web/20161004152018/https://github.com/expressjs/express
+805,Express · GitHub stars,2016-12-01,28690,stars,from the source's records,https://web.archive.org/web/20161201052127/https://github.com/expressjs/express
+805,Express · GitHub stars,2017-02-18,30078,stars,from the source's records,https://web.archive.org/web/20170218023742/https://github.com/expressjs/express
+805,Express · GitHub stars,2017-03-26,30785,stars,from the source's records,https://web.archive.org/web/20170326062019/https://github.com/expressjs/express
+805,Express · GitHub stars,2017-04-05,30981,stars,from the source's records,https://web.archive.org/web/20170405115853/https://github.com/expressjs/express
+805,Express · GitHub stars,2017-05-07,31622,stars,from the source's records,https://web.archive.org/web/20170507134924/https://github.com/expressjs/express
+805,Express · GitHub stars,2017-06-16,32388,stars,from the source's records,https://web.archive.org/web/20170616170944/https://github.com/expressjs/express
+805,Express · GitHub stars,2017-07-11,32812,stars,from the source's records,https://web.archive.org/web/20170711124015/https://github.com/expressjs/express
+805,Express · GitHub stars,2017-08-23,33518,stars,from the source's records,https://web.archive.org/web/20170823111447/https://github.com/expressjs/express
+805,Express · GitHub stars,2017-10-23,34593,stars,from the source's records,https://web.archive.org/web/20171023231349/https://github.com/expressjs/express
+805,Express · GitHub stars,2017-11-06,34880,stars,from the source's records,https://web.archive.org/web/20171106144658/https://github.com/expressjs/express
+805,Express · GitHub stars,2018-02-08,36535,stars,from the source's records,https://web.archive.org/web/20180208113944/https://github.com/expressjs/express
+805,Express · GitHub stars,2018-03-11,37086,stars,from the source's records,https://web.archive.org/web/20180311150849/https://github.com/expressjs/express
+805,Express · GitHub stars,2018-04-22,37806,stars,from the source's records,https://web.archive.org/web/20180422114526/https://github.com/expressjs/express
+805,Express · GitHub stars,2018-05-04,38117,stars,from the source's records,https://web.archive.org/web/20180504153609/https://github.com/expressjs/express
+805,Express · GitHub stars,2018-06-12,38736,stars,from the source's records,https://web.archive.org/web/20180612133239/https://github.com/expressjs/express
+805,Express · GitHub stars,2018-07-05,39075,stars,from the source's records,https://web.archive.org/web/20180705014106/https://github.com/expressjs/express
+805,Express · GitHub stars,2018-08-01,39467,stars,from the source's records,https://web.archive.org/web/20180801023723/https://github.com/expressjs/express
+805,Express · GitHub stars,2018-09-03,39994,stars,from the source's records,https://web.archive.org/web/20180903221251/https://github.com/expressjs/express
+805,Express · GitHub stars,2018-10-02,40403,stars,from the source's records,https://web.archive.org/web/20181002224724/https://github.com/expressjs/express
+805,Express · GitHub stars,2018-11-05,40858,stars,from the source's records,https://web.archive.org/web/20181105045850/https://github.com/expressjs/express
+805,Express · GitHub stars,2018-12-01,41298,stars,from the source's records,https://web.archive.org/web/20181201020945/https://github.com/expressjs/express
+805,Express · GitHub stars,2019-02-04,42213,stars,from the source's records,https://web.archive.org/web/20190204051159/https://github.com/expressjs/express
+805,Express · GitHub stars,2019-03-03,42646,stars,from the source's records,https://web.archive.org/web/20190303022841/https://github.com/expressjs/express
+805,Express · GitHub stars,2019-04-01,43110,stars,from the source's records,https://web.archive.org/web/20190401205132/https://github.com/expressjs/express
+805,Express · GitHub stars,2019-05-02,43620,stars,from the source's records,https://web.archive.org/web/20190502172410/https://github.com/expressjs/express
+805,Express · GitHub stars,2019-06-07,44202,stars,from the source's records,https://web.archive.org/web/20190607113904/https://github.com/expressjs/express
+805,Express · GitHub stars,2019-07-16,44671,stars,from the source's records,https://web.archive.org/web/20190716033914/https://github.com/expressjs/express
+805,Express · GitHub stars,2019-08-19,45123,stars,from the source's records,https://web.archive.org/web/20190819104735/https://github.com/expressjs/express
+805,Express · GitHub stars,2019-10-06,45674,stars,from the source's records,https://web.archive.org/web/20191006231918/https://github.com/expressjs/express
+805,Express · GitHub stars,2019-11-02,45998,stars,from the source's records,https://web.archive.org/web/20191102200252/https://github.com/expressjs/express
+805,Express · GitHub stars,2019-12-01,46341,stars,from the source's records,https://web.archive.org/web/20191201062450/https://github.com/expressjs/express
+805,Express · GitHub stars,2020-01-20,46969,stars,from the source's records,https://web.archive.org/web/20200120005407/https://github.com/expressjs/express
+805,Express · GitHub stars,2020-02-03,47187,stars,from the source's records,https://web.archive.org/web/20200203182435/https://github.com/expressjs/express
+805,Express · GitHub stars,2020-03-28,47880,stars,from the source's records,https://web.archive.org/web/20200328121017/https://github.com/expressjs/express
+805,Express · GitHub stars,2020-04-04,47971,stars,from the source's records,https://web.archive.org/web/20200404052628/https://github.com/expressjs/express
+805,Express · GitHub stars,2020-05-01,48380,stars,from the source's records,https://web.archive.org/web/20200501170915/https://github.com/expressjs/express
+805,Express · GitHub stars,2020-06-01,48825,stars,from the source's records,https://web.archive.org/web/20200601110919/https://github.com/expressjs/express
+805,Express · GitHub stars,2020-07-04,49178,stars,from the source's records,https://web.archive.org/web/20200704123942/https://github.com/expressjs/express
+805,Express · GitHub stars,2020-08-01,49517,stars,from the source's records,https://web.archive.org/web/20200801092531/https://github.com/expressjs/express
+805,Express · GitHub stars,2020-09-02,49936,stars,from the source's records,https://web.archive.org/web/20200902160638/https://github.com/expressjs/express
+805,Express · GitHub stars,2020-10-01,50343,stars,from the source's records,https://web.archive.org/web/20201001200830/https://github.com/expressjs/express
+805,Express · GitHub stars,2020-12-03,51023,stars,from the source's records,https://web.archive.org/web/20201203184638/https://github.com/expressjs/express
+805,Express · GitHub stars,2021-01-12,51495,stars,from the source's records,https://web.archive.org/web/20210112052640/https://github.com/expressjs/express
+805,Express · GitHub stars,2021-02-13,51904,stars,from the source's records,https://web.archive.org/web/20210213213841/https://github.com/expressjs/express
+805,Express · GitHub stars,2021-03-05,52163,stars,from the source's records,https://web.archive.org/web/20210305053713/https://github.com/expressjs/express
+805,Express · GitHub stars,2021-04-12,52668,stars,from the source's records,https://web.archive.org/web/20210412152146/https://github.com/expressjs/express
+805,Express · GitHub stars,2021-05-02,52907,stars,from the source's records,https://web.archive.org/web/20210502025918/https://github.com/expressjs/express
+805,Express · GitHub stars,2021-06-06,53321,stars,from the source's records,https://web.archive.org/web/20210606184740/https://github.com/expressjs/express
+805,Express · GitHub stars,2021-07-05,53617,stars,from the source's records,https://web.archive.org/web/20210705152937/https://github.com/expressjs/express
+805,Express · GitHub stars,2021-08-01,53893,stars,from the source's records,https://web.archive.org/web/20210801213659/https://github.com/expressjs/express
+805,Express · GitHub stars,2021-09-08,54336,stars,from the source's records,https://web.archive.org/web/20210908165437/https://github.com/expressjs/express
+805,Express · GitHub stars,2021-10-04,54586,stars,from the source's records,https://web.archive.org/web/20211004071000/https://github.com/expressjs/express
+805,Express · GitHub stars,2021-11-13,54941,stars,from the source's records,https://web.archive.org/web/20211113030256/https://github.com/expressjs/express
+805,Express · GitHub stars,2021-12-07,55182,stars,from the source's records,https://web.archive.org/web/20211207161204/https://github.com/expressjs/express
+805,Express · GitHub stars,2022-01-01,55475,stars,from the source's records,https://web.archive.org/web/20220101043404/https://github.com/expressjs/express
+805,Express · GitHub stars,2022-02-07,55848,stars,from the source's records,https://web.archive.org/web/20220207045003/https://github.com/expressjs/express
+805,Express · GitHub stars,2022-03-13,56262,stars,from the source's records,https://web.archive.org/web/20220313172537/https://github.com/expressjs/express
+805,Express · GitHub stars,2022-04-02,56511,stars,from the source's records,https://web.archive.org/web/20220402064541/https://github.com/expressjs/express
+805,Express · GitHub stars,2022-05-04,56848,stars,from the source's records,https://web.archive.org/web/20220504060411/https://github.com/expressjs/express
+805,Express · GitHub stars,2022-06-05,57213,stars,from the source's records,https://web.archive.org/web/20220605174410/https://github.com/expressjs/express
+805,Express · GitHub stars,2022-07-23,57716,stars,from the source's records,https://web.archive.org/web/20220723081219/https://github.com/expressjs/express
+805,Express · GitHub stars,2022-09-05,58199,stars,from the source's records,https://web.archive.org/web/20220905065119/https://github.com/expressjs/express
+805,Express · GitHub stars,2022-10-04,58489,stars,from the source's records,https://web.archive.org/web/20221004035630/https://github.com/expressjs/express
+805,Express · GitHub stars,2022-11-01,58764,stars,from the source's records,https://web.archive.org/web/20221101002628/https://github.com/expressjs/express
+805,Express · GitHub stars,2022-12-05,59110,stars,from the source's records,https://web.archive.org/web/20221205125741/https://github.com/expressjs/express
+805,Express · GitHub stars,2023-01-19,59635,stars,from the source's records,https://web.archive.org/web/20230119110235/https://github.com/expressjs/express
+805,Express · GitHub stars,2023-02-12,59887,stars,from the source's records,https://web.archive.org/web/20230212144539/https://github.com/expressjs/express
+805,Express · GitHub stars,2023-03-06,60140,stars,from the source's records,https://web.archive.org/web/20230306114723/https://github.com/expressjs/express
+805,Express · GitHub stars,2023-04-03,60458,stars,from the source's records,https://web.archive.org/web/20230403160347/https://github.com/expressjs/express
+805,Express · GitHub stars,2023-05-03,60745,stars,from the source's records,https://web.archive.org/web/20230503071001/https://github.com/expressjs/express
+805,Express · GitHub stars,2023-06-06,61036,stars,from the source's records,https://web.archive.org/web/20230606203323/https://github.com/expressjs/express
+805,Express · GitHub stars,2023-07-30,61507,stars,from the source's records,https://web.archive.org/web/20230730130558/https://github.com/expressjs/express
+805,Express · GitHub stars,2023-08-01,61507,stars,from the source's records,https://web.archive.org/web/20230801125357/https://github.com/expressjs/express
+805,Express · GitHub stars,2023-09-23,61936,stars,from the source's records,https://web.archive.org/web/20230923090808/https://github.com/expressjs/express
+805,Express · GitHub stars,2023-10-04,62014,stars,from the source's records,https://web.archive.org/web/20231004141523/https://github.com/expressjs/express
+805,Express · GitHub stars,2023-11-16,62294,stars,from the source's records,https://web.archive.org/web/20231116102516/https://github.com/expressjs/express
+805,Express · GitHub stars,2023-12-04,62428,stars,from the source's records,https://web.archive.org/web/20231204222515/https://github.com/expressjs/express
+805,Express · GitHub stars,2024-01-06,62644,stars,from the source's records,https://web.archive.org/web/20240106062829/https://github.com/expressjs/express
+805,Express · GitHub stars,2024-02-07,62944,stars,from the source's records,https://web.archive.org/web/20240207013350/https://github.com/expressjs/express
+805,Express · GitHub stars,2024-03-09,63389,stars,from the source's records,https://web.archive.org/web/20240309234437/https://github.com/expressjs/express
+805,Express · GitHub stars,2024-04-02,63600,stars,from the source's records,https://web.archive.org/web/20240402224002/https://github.com/expressjs/express
+805,Express · GitHub stars,2024-06-03,64079,stars,from the source's records,https://web.archive.org/web/20240603085630/https://github.com/expressjs/express
+805,Express · GitHub stars,2024-07-08,64351,stars,from the source's records,https://web.archive.org/web/20240708224904/https://github.com/expressjs/express
+805,Express · GitHub stars,2024-08-02,64513,stars,from the source's records,https://web.archive.org/web/20240802044004/https://github.com/expressjs/express
+805,Express · GitHub stars,2024-09-06,64747,stars,from the source's records,https://web.archive.org/web/20240906165347/https://github.com/expressjs/express
+805,Express · GitHub stars,2024-10-01,65285,stars,from the source's records,https://web.archive.org/web/20241001160932/https://github.com/expressjs/express
+805,Express · GitHub stars,2024-11-08,65615,stars,from the source's records,https://web.archive.org/web/20241108104918/https://github.com/expressjs/express
+805,Express · GitHub stars,2024-12-15,65891,stars,from the source's records,https://web.archive.org/web/20241215210520/https://github.com/expressjs/express
+805,Express · GitHub stars,2025-01-06,66011,stars,from the source's records,https://web.archive.org/web/20250106074522/https://github.com/expressjs/express
+805,Express · GitHub stars,2025-02-04,66187,stars,from the source's records,https://web.archive.org/web/20250204042134/https://github.com/expressjs/express
+805,Express · GitHub stars,2025-03-04,66412,stars,from the source's records,https://web.archive.org/web/20250304075354/https://github.com/expressjs/express
+805,Express · GitHub stars,2025-04-02,66660,stars,from the source's records,https://web.archive.org/web/20250402073306/https://github.com/expressjs/express
+805,Express · GitHub stars,2025-05-01,66889,stars,from the source's records,https://web.archive.org/web/20250501234942/https://github.com/expressjs/express
+805,Express · GitHub stars,2025-06-08,67112,stars,from the source's records,https://web.archive.org/web/20250608035904/https://github.com/expressjs/express
+805,Express · GitHub stars,2025-07-10,67316,stars,from the source's records,https://web.archive.org/web/20250710132141/https://github.com/expressjs/express
+805,Express · GitHub stars,2025-08-02,67452,stars,from the source's records,https://web.archive.org/web/20250802192544/https://github.com/expressjs/express
+805,Express · GitHub stars,2025-09-01,67621,stars,from the source's records,https://web.archive.org/web/20250901043002/https://github.com/expressjs/express
+805,Express · GitHub stars,2025-10-07,67901,stars,from the source's records,https://web.archive.org/web/20251007071100/https://github.com/expressjs/express
+805,Express · GitHub stars,2025-11-12,68191,stars,from the source's records,https://web.archive.org/web/20251112010221/https://github.com/expressjs/express
+805,Express · GitHub stars,2025-12-05,68302,stars,from the source's records,https://web.archive.org/web/20251205011857/https://github.com/expressjs/express
+805,Express · GitHub stars,2026-01-06,68495,stars,from the source's records,https://web.archive.org/web/20260106012604/https://github.com/expressjs/express
+805,Express · GitHub stars,2026-03-07,68869,stars,from the source's records,https://web.archive.org/web/20260307081844/https://github.com/expressjs/express
+805,Express · GitHub stars,2026-04-18,68948,stars,from the source's records,https://web.archive.org/web/20260418082400/https://github.com/expressjs/express
+805,Express · GitHub stars,2026-05-08,69003,stars,from the source's records,https://web.archive.org/web/20260508044426/https://github.com/expressjs/express
+805,Express · GitHub stars,2026-06-03,69077,stars,from the source's records,https://web.archive.org/web/20260603003120/https://github.com/expressjs/express
+805,Express · GitHub stars,2026-07-06,69249,stars,from the source's records,https://web.archive.org/web/20260706150322/https://github.com/expressjs/express
+805,Express · GitHub stars,2026-08-09,69363,stars,from the source's records,https://web.archive.org/web/20260809144748/https://github.com/expressjs/express
+805,Express · GitHub stars,2026-09-05,69418,stars,from the source's records,https://web.archive.org/web/20260905183231/https://github.com/expressjs/express
 805,Express · GitHub stars,2026-11-21,69672,stars,read by Tally,https://github.com/expressjs/express
 806,"Express · npm downloads, weekly",2021-10-03,4696657,downloads,from the source's records,https://www.npmjs.com/package/express
 806,"Express · npm downloads, weekly",2021-10-10,18185942,downloads,from the source's records,https://www.npmjs.com/package/express
@@ -45378,6 +45888,91 @@ number_id,title,date,value,unit,kind,source
 806,"Express · npm downloads, weekly",2026-11-08,196494336,downloads,from the source's records,https://www.npmjs.com/package/express
 806,"Express · npm downloads, weekly",2026-11-15,198122501,downloads,from the source's records,https://www.npmjs.com/package/express
 806,"Express · npm downloads, weekly",2026-11-21,208674705,downloads,read by Tally,https://www.npmjs.com/package/express
+807,NestJS · GitHub stars,2017-09-18,1325,stars,from the source's records,https://web.archive.org/web/20170918024103/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2018-01-01,2975,stars,from the source's records,https://web.archive.org/web/20180101001621/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2018-05-14,5690,stars,from the source's records,https://web.archive.org/web/20180514084540/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2018-08-23,7973,stars,from the source's records,https://web.archive.org/web/20180823072416/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2018-12-12,10841,stars,from the source's records,https://web.archive.org/web/20181212215853/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2019-01-12,11616,stars,from the source's records,https://web.archive.org/web/20190112204148/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2019-03-16,13429,stars,from the source's records,https://web.archive.org/web/20190316103659/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2019-04-10,14389,stars,from the source's records,https://web.archive.org/web/20190410123656/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2019-05-01,15226,stars,from the source's records,https://web.archive.org/web/20190501155445/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2019-08-22,18758,stars,from the source's records,https://web.archive.org/web/20190822121252/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2019-10-03,20016,stars,from the source's records,https://web.archive.org/web/20191003042348/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2019-11-02,20932,stars,from the source's records,https://web.archive.org/web/20191102185937/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2020-03-04,24835,stars,from the source's records,https://web.archive.org/web/20200304102959/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2020-04-13,25921,stars,from the source's records,https://web.archive.org/web/20200413105318/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2020-05-21,27015,stars,from the source's records,https://web.archive.org/web/20200521061856/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2020-06-05,27504,stars,from the source's records,https://web.archive.org/web/20200605194443/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2020-07-03,28307,stars,from the source's records,https://web.archive.org/web/20200703192444/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2020-08-06,29158,stars,from the source's records,https://web.archive.org/web/20200806111553/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2020-09-03,29800,stars,from the source's records,https://web.archive.org/web/20200903132344/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2020-10-07,30776,stars,from the source's records,https://web.archive.org/web/20201007031303/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2020-11-01,31402,stars,from the source's records,https://web.archive.org/web/20201101071356/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2020-12-02,32237,stars,from the source's records,https://web.archive.org/web/20201202191132/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2021-01-22,33896,stars,from the source's records,https://web.archive.org/web/20210122191746/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2021-02-09,34397,stars,from the source's records,https://web.archive.org/web/20210209182503/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2021-03-12,35235,stars,from the source's records,https://web.archive.org/web/20210312033244/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2021-05-06,36750,stars,from the source's records,https://web.archive.org/web/20210506014048/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2021-06-24,37940,stars,from the source's records,https://web.archive.org/web/20210624011223/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2021-07-09,38418,stars,from the source's records,https://web.archive.org/web/20210709204808/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2021-08-05,39302,stars,from the source's records,https://web.archive.org/web/20210805195601/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2021-09-13,40523,stars,from the source's records,https://web.archive.org/web/20210913062434/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2021-10-13,41279,stars,from the source's records,https://web.archive.org/web/20211013054250/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2021-11-10,41962,stars,from the source's records,https://web.archive.org/web/20211110105309/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2022-01-06,43383,stars,from the source's records,https://web.archive.org/web/20220106014757/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2022-02-06,44287,stars,from the source's records,https://web.archive.org/web/20220206233643/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2022-03-06,45098,stars,from the source's records,https://web.archive.org/web/20220306224731/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2022-04-05,45889,stars,from the source's records,https://web.archive.org/web/20220405004533/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2022-05-04,46632,stars,from the source's records,https://web.archive.org/web/20220504072507/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2022-06-02,47332,stars,from the source's records,https://web.archive.org/web/20220602205621/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2022-07-03,48250,stars,from the source's records,https://web.archive.org/web/20220703153303/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2022-08-22,49657,stars,from the source's records,https://web.archive.org/web/20220822001740/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2022-09-02,50184,stars,from the source's records,https://web.archive.org/web/20220902193038/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2022-10-16,51454,stars,from the source's records,https://web.archive.org/web/20221016003921/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2022-11-01,51818,stars,from the source's records,https://web.archive.org/web/20221101002710/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2022-12-11,52758,stars,from the source's records,https://web.archive.org/web/20221211224358/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2023-01-21,53715,stars,from the source's records,https://web.archive.org/web/20230121173735/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2023-02-08,54122,stars,from the source's records,https://web.archive.org/web/20230208083331/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2023-03-07,54827,stars,from the source's records,https://web.archive.org/web/20230307031718/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2023-04-02,55595,stars,from the source's records,https://web.archive.org/web/20230402221529/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2023-05-02,56277,stars,from the source's records,https://web.archive.org/web/20230502195710/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2023-06-03,57091,stars,from the source's records,https://web.archive.org/web/20230603011038/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2023-07-27,58432,stars,from the source's records,https://web.archive.org/web/20230727101930/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2023-08-01,58558,stars,from the source's records,https://web.archive.org/web/20230801125428/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2023-10-17,60340,stars,from the source's records,https://web.archive.org/web/20231017053253/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2023-11-13,60898,stars,from the source's records,https://web.archive.org/web/20231113051958/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2023-12-02,61312,stars,from the source's records,https://web.archive.org/web/20231202012406/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2024-01-23,62387,stars,from the source's records,https://web.archive.org/web/20240123180658/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2024-02-04,62648,stars,from the source's records,https://web.archive.org/web/20240204203123/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2024-04-21,64240,stars,from the source's records,https://web.archive.org/web/20240421014643/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2024-05-05,64504,stars,from the source's records,https://web.archive.org/web/20240505134650/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2024-06-06,65054,stars,from the source's records,https://web.archive.org/web/20240606183237/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2024-07-15,65799,stars,from the source's records,https://web.archive.org/web/20240715205649/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2024-08-30,66530,stars,from the source's records,https://web.archive.org/web/20240830093518/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2024-09-13,66768,stars,from the source's records,https://web.archive.org/web/20240913064314/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2024-10-01,67049,stars,from the source's records,https://web.archive.org/web/20241001160643/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2024-11-08,67653,stars,from the source's records,https://web.archive.org/web/20241108132312/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2024-12-01,68155,stars,from the source's records,https://web.archive.org/web/20241201093605/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2025-01-13,68871,stars,from the source's records,https://web.archive.org/web/20250113195639/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2025-02-06,69277,stars,from the source's records,https://web.archive.org/web/20250206173718/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2025-03-08,69725,stars,from the source's records,https://web.archive.org/web/20250308085822/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2025-04-04,70293,stars,from the source's records,https://web.archive.org/web/20250404064022/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2025-05-04,70703,stars,from the source's records,https://web.archive.org/web/20250504214938/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2025-06-09,71267,stars,from the source's records,https://web.archive.org/web/20250609184055/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2025-08-02,72044,stars,from the source's records,https://web.archive.org/web/20250802193558/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2025-10-29,73235,stars,from the source's records,https://web.archive.org/web/20251029110236/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2025-11-12,73439,stars,from the source's records,https://web.archive.org/web/20251112082510/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2025-12-03,73711,stars,from the source's records,https://web.archive.org/web/20251203104013/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2026-01-11,74199,stars,from the source's records,https://web.archive.org/web/20260111214216/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2026-02-15,74564,stars,from the source's records,https://web.archive.org/web/20260215032940/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2026-03-06,74871,stars,from the source's records,https://web.archive.org/web/20260306131748/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2026-04-02,75036,stars,from the source's records,https://web.archive.org/web/20260402114425/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2026-05-08,75421,stars,from the source's records,https://web.archive.org/web/20260508092313/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2026-06-18,75901,stars,from the source's records,https://web.archive.org/web/20260618190127/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2026-07-28,76225,stars,from the source's records,https://web.archive.org/web/20260728022255/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2026-08-09,76373,stars,from the source's records,https://web.archive.org/web/20260809095157/https://github.com/nestjs/nest
+807,NestJS · GitHub stars,2026-09-04,76567,stars,from the source's records,https://web.archive.org/web/20260904052558/https://github.com/nestjs/nest
 807,NestJS · GitHub stars,2026-11-21,77113,stars,read by Tally,https://github.com/nestjs/nest
 808,"NestJS · npm downloads, weekly",2017-05-14,166,downloads,from the source's records,https://www.npmjs.com/package/@nestjs/core
 808,"NestJS · npm downloads, weekly",2017-05-21,111,downloads,from the source's records,https://www.npmjs.com/package/@nestjs/core
@@ -45877,6 +46472,118 @@ number_id,title,date,value,unit,kind,source
 808,"NestJS · npm downloads, weekly",2026-11-08,23905491,downloads,from the source's records,https://www.npmjs.com/package/@nestjs/core
 808,"NestJS · npm downloads, weekly",2026-11-15,24406436,downloads,from the source's records,https://www.npmjs.com/package/@nestjs/core
 808,"NestJS · npm downloads, weekly",2026-11-21,25474914,downloads,read by Tally,https://www.npmjs.com/package/@nestjs/core
+809,Electron · GitHub stars,2016-07-04,32440,stars,from the source's records,https://web.archive.org/web/20160704212533/https://github.com/electron/electron
+809,Electron · GitHub stars,2016-08-02,33703,stars,from the source's records,https://web.archive.org/web/20160802143320/https://github.com/electron/electron
+809,Electron · GitHub stars,2016-09-09,35254,stars,from the source's records,https://web.archive.org/web/20160909172337/https://github.com/electron/electron
+809,Electron · GitHub stars,2016-12-26,39640,stars,from the source's records,https://web.archive.org/web/20161226124715/https://github.com/electron/electron
+809,Electron · GitHub stars,2017-01-03,39886,stars,from the source's records,https://web.archive.org/web/20170103101612/https://github.com/electron/electron
+809,Electron · GitHub stars,2017-03-12,42840,stars,from the source's records,https://web.archive.org/web/20170312223902/https://github.com/electron/electron
+809,Electron · GitHub stars,2017-04-28,44935,stars,from the source's records,https://web.archive.org/web/20170428004747/https://github.com/electron/electron
+809,Electron · GitHub stars,2017-05-13,45578,stars,from the source's records,https://web.archive.org/web/20170513150007/https://github.com/electron/electron
+809,Electron · GitHub stars,2017-06-05,46510,stars,from the source's records,https://web.archive.org/web/20170605130546/https://github.com/electron/electron
+809,Electron · GitHub stars,2017-07-11,47814,stars,from the source's records,https://web.archive.org/web/20170711121217/https://github.com/electron/electron
+809,Electron · GitHub stars,2017-08-22,49441,stars,from the source's records,https://web.archive.org/web/20170822143449/https://github.com/electron/electron
+809,Electron · GitHub stars,2017-11-07,52509,stars,from the source's records,https://web.archive.org/web/20171107003325/https://github.com/electron/electron
+809,Electron · GitHub stars,2017-12-04,53574,stars,from the source's records,https://web.archive.org/web/20171204170920/https://github.com/electron/electron
+809,Electron · GitHub stars,2018-01-06,54864,stars,from the source's records,https://web.archive.org/web/20180106175723/https://github.com/electron/electron
+809,Electron · GitHub stars,2018-02-02,56127,stars,from the source's records,https://web.archive.org/web/20180202183255/https://github.com/electron/electron
+809,Electron · GitHub stars,2018-03-06,57379,stars,from the source's records,https://web.archive.org/web/20180306191839/https://github.com/electron/electron
+809,Electron · GitHub stars,2018-05-10,59853,stars,from the source's records,https://web.archive.org/web/20180510135544/https://github.com/electron/electron
+809,Electron · GitHub stars,2018-06-04,60820,stars,from the source's records,https://web.archive.org/web/20180604093523/https://github.com/electron/electron
+809,Electron · GitHub stars,2018-07-08,62141,stars,from the source's records,https://web.archive.org/web/20180708030511/https://github.com/electron/electron
+809,Electron · GitHub stars,2018-08-12,63256,stars,from the source's records,https://web.archive.org/web/20180812013207/https://github.com/electron/electron
+809,Electron · GitHub stars,2018-09-17,64532,stars,from the source's records,https://web.archive.org/web/20180917120144/https://github.com/electron/electron
+809,Electron · GitHub stars,2018-10-05,65206,stars,from the source's records,https://web.archive.org/web/20181005043756/https://github.com/electron/electron
+809,Electron · GitHub stars,2018-11-02,66134,stars,from the source's records,https://web.archive.org/web/20181102141002/https://github.com/electron/electron
+809,Electron · GitHub stars,2018-12-09,67399,stars,from the source's records,https://web.archive.org/web/20181209202044/https://github.com/electron/electron
+809,Electron · GitHub stars,2019-01-08,68451,stars,from the source's records,https://web.archive.org/web/20190108051102/https://github.com/electron/electron
+809,Electron · GitHub stars,2019-03-03,70550,stars,from the source's records,https://web.archive.org/web/20190303021451/https://github.com/electron/electron
+809,Electron · GitHub stars,2019-04-02,71732,stars,from the source's records,https://web.archive.org/web/20190402235240/https://github.com/electron/electron
+809,Electron · GitHub stars,2019-05-01,72747,stars,from the source's records,https://web.archive.org/web/20190501130637/https://github.com/electron/electron
+809,Electron · GitHub stars,2019-06-02,73836,stars,from the source's records,https://web.archive.org/web/20190602015909/https://github.com/electron/electron
+809,Electron · GitHub stars,2019-07-02,74754,stars,from the source's records,https://web.archive.org/web/20190702212317/https://github.com/electron/electron
+809,Electron · GitHub stars,2019-08-04,75808,stars,from the source's records,https://web.archive.org/web/20190804005422/https://github.com/electron/electron
+809,Electron · GitHub stars,2019-09-09,76776,stars,from the source's records,https://web.archive.org/web/20190909214229/https://github.com/electron/electron
+809,Electron · GitHub stars,2019-10-03,77313,stars,from the source's records,https://web.archive.org/web/20191003081835/https://github.com/electron/electron
+809,Electron · GitHub stars,2019-11-02,78204,stars,from the source's records,https://web.archive.org/web/20191102093237/https://github.com/electron/electron
+809,Electron · GitHub stars,2019-12-05,79085,stars,from the source's records,https://web.archive.org/web/20191205041245/https://github.com/electron/electron
+809,Electron · GitHub stars,2020-01-01,79752,stars,from the source's records,https://web.archive.org/web/20200101005449/https://github.com/electron/electron
+809,Electron · GitHub stars,2020-02-01,80424,stars,from the source's records,https://web.archive.org/web/20200201200912/https://github.com/electron/electron
+809,Electron · GitHub stars,2020-03-19,81361,stars,from the source's records,https://web.archive.org/web/20200319132311/https://github.com/electron/electron
+809,Electron · GitHub stars,2020-04-05,81716,stars,from the source's records,https://web.archive.org/web/20200405173124/https://github.com/electron/electron
+809,Electron · GitHub stars,2020-05-01,82358,stars,from the source's records,https://web.archive.org/web/20200501215020/https://github.com/electron/electron
+809,Electron · GitHub stars,2020-06-01,83127,stars,from the source's records,https://web.archive.org/web/20200601015157/https://github.com/electron/electron
+809,Electron · GitHub stars,2020-07-01,83844,stars,from the source's records,https://web.archive.org/web/20200701050126/https://github.com/electron/electron
+809,Electron · GitHub stars,2020-08-01,84816,stars,from the source's records,https://web.archive.org/web/20200801005447/https://github.com/electron/electron
+809,Electron · GitHub stars,2020-09-01,85479,stars,from the source's records,https://web.archive.org/web/20200901190840/https://github.com/electron/electron
+809,Electron · GitHub stars,2020-10-01,86114,stars,from the source's records,https://web.archive.org/web/20201001092247/https://github.com/electron/electron
+809,Electron · GitHub stars,2020-12-02,87832,stars,from the source's records,https://web.archive.org/web/20201202202657/https://github.com/electron/electron
+809,Electron · GitHub stars,2021-01-07,88571,stars,from the source's records,https://web.archive.org/web/20210107163715/https://github.com/electron/electron
+809,Electron · GitHub stars,2021-02-04,89139,stars,from the source's records,https://web.archive.org/web/20210204132238/https://github.com/electron/electron
+809,Electron · GitHub stars,2021-03-01,90495,stars,from the source's records,https://web.archive.org/web/20210301145308/https://github.com/electron/electron
+809,Electron · GitHub stars,2021-04-02,91086,stars,from the source's records,https://web.archive.org/web/20210402054216/https://github.com/electron/electron
+809,Electron · GitHub stars,2021-05-01,91521,stars,from the source's records,https://web.archive.org/web/20210501112758/https://github.com/electron/electron
+809,Electron · GitHub stars,2021-06-01,92030,stars,from the source's records,https://web.archive.org/web/20210601105805/https://github.com/electron/electron
+809,Electron · GitHub stars,2021-07-02,94189,stars,from the source's records,https://web.archive.org/web/20210702055704/https://github.com/electron/electron
+809,Electron · GitHub stars,2021-08-01,95032,stars,from the source's records,https://web.archive.org/web/20210801072953/https://github.com/electron/electron
+809,Electron · GitHub stars,2021-09-14,96763,stars,from the source's records,https://web.archive.org/web/20210914234633/https://github.com/electron/electron
+809,Electron · GitHub stars,2021-10-01,97038,stars,from the source's records,https://web.archive.org/web/20211001225455/https://github.com/electron/electron
+809,Electron · GitHub stars,2021-11-14,98841,stars,from the source's records,https://web.archive.org/web/20211114215551/https://github.com/electron/electron
+809,Electron · GitHub stars,2021-12-04,99206,stars,from the source's records,https://web.archive.org/web/20211204151330/https://github.com/electron/electron
+809,Electron · GitHub stars,2022-01-17,99779,stars,from the source's records,https://web.archive.org/web/20220117200116/https://github.com/electron/electron
+809,Electron · GitHub stars,2022-02-01,100068,stars,from the source's records,https://web.archive.org/web/20220201054830/https://github.com/electron/electron
+809,Electron · GitHub stars,2022-03-01,100528,stars,from the source's records,https://web.archive.org/web/20220301122005/https://github.com/electron/electron
+809,Electron · GitHub stars,2022-04-05,101176,stars,from the source's records,https://web.archive.org/web/20220405191035/https://github.com/electron/electron
+809,Electron · GitHub stars,2022-05-01,101470,stars,from the source's records,https://web.archive.org/web/20220501190619/https://github.com/electron/electron
+809,Electron · GitHub stars,2022-06-01,101901,stars,from the source's records,https://web.archive.org/web/20220601141058/https://github.com/electron/electron
+809,Electron · GitHub stars,2022-07-01,102340,stars,from the source's records,https://web.archive.org/web/20220701194738/https://github.com/electron/electron
+809,Electron · GitHub stars,2022-09-01,103440,stars,from the source's records,https://web.archive.org/web/20220901053525/https://github.com/electron/electron
+809,Electron · GitHub stars,2022-10-02,103907,stars,from the source's records,https://web.archive.org/web/20221002114937/https://github.com/electron/electron
+809,Electron · GitHub stars,2022-11-01,104326,stars,from the source's records,https://web.archive.org/web/20221101115128/https://github.com/electron/electron
+809,Electron · GitHub stars,2022-12-03,104741,stars,from the source's records,https://web.archive.org/web/20221203051652/https://github.com/electron/electron
+809,Electron · GitHub stars,2023-01-12,105365,stars,from the source's records,https://web.archive.org/web/20230112213423/https://github.com/electron/electron
+809,Electron · GitHub stars,2023-02-03,105739,stars,from the source's records,https://web.archive.org/web/20230203224244/https://github.com/electron/electron
+809,Electron · GitHub stars,2023-03-03,106142,stars,from the source's records,https://web.archive.org/web/20230303054616/https://github.com/electron/electron
+809,Electron · GitHub stars,2023-04-14,106829,stars,from the source's records,https://web.archive.org/web/20230414021240/https://github.com/electron/electron
+809,Electron · GitHub stars,2023-05-02,107107,stars,from the source's records,https://web.archive.org/web/20230502111507/https://github.com/electron/electron
+809,Electron · GitHub stars,2023-06-01,107595,stars,from the source's records,https://web.archive.org/web/20230601130918/https://github.com/electron/electron
+809,Electron · GitHub stars,2023-07-05,108049,stars,from the source's records,https://web.archive.org/web/20230705080534/https://github.com/electron/electron
+809,Electron · GitHub stars,2023-08-01,108488,stars,from the source's records,https://web.archive.org/web/20230801063259/https://github.com/electron/electron
+809,Electron · GitHub stars,2023-09-01,108901,stars,from the source's records,https://web.archive.org/web/20230901043731/https://github.com/electron/electron
+809,Electron · GitHub stars,2023-10-04,109224,stars,from the source's records,https://web.archive.org/web/20231004134039/https://github.com/electron/electron
+809,Electron · GitHub stars,2023-11-10,109538,stars,from the source's records,https://web.archive.org/web/20231110005535/https://github.com/electron/electron
+809,Electron · GitHub stars,2023-12-02,109821,stars,from the source's records,https://web.archive.org/web/20231202192259/https://github.com/electron/electron
+809,Electron · GitHub stars,2024-01-02,110138,stars,from the source's records,https://web.archive.org/web/20240102025150/https://github.com/electron/electron
+809,Electron · GitHub stars,2024-02-01,110472,stars,from the source's records,https://web.archive.org/web/20240201223026/https://github.com/electron/electron
+809,Electron · GitHub stars,2024-03-04,110808,stars,from the source's records,https://web.archive.org/web/20240304164007/https://github.com/electron/electron
+809,Electron · GitHub stars,2024-04-01,111668,stars,from the source's records,https://web.archive.org/web/20240401093730/https://github.com/electron/electron
+809,Electron · GitHub stars,2024-06-06,112370,stars,from the source's records,https://web.archive.org/web/20240606171839/https://github.com/electron/electron
+809,Electron · GitHub stars,2024-07-02,112689,stars,from the source's records,https://web.archive.org/web/20240702152802/https://github.com/electron/electron
+809,Electron · GitHub stars,2024-08-04,113069,stars,from the source's records,https://web.archive.org/web/20240804135133/https://github.com/electron/electron
+809,Electron · GitHub stars,2024-09-01,113584,stars,from the source's records,https://web.archive.org/web/20240901212345/https://github.com/electron/electron
+809,Electron · GitHub stars,2024-10-01,113810,stars,from the source's records,https://web.archive.org/web/20241001042329/https://github.com/electron/electron
+809,Electron · GitHub stars,2024-11-01,114265,stars,from the source's records,https://web.archive.org/web/20241101233942/https://github.com/electron/electron
+809,Electron · GitHub stars,2024-12-03,114587,stars,from the source's records,https://web.archive.org/web/20241203084434/https://github.com/electron/electron
+809,Electron · GitHub stars,2025-01-03,114994,stars,from the source's records,https://web.archive.org/web/20250103052208/https://github.com/electron/electron
+809,Electron · GitHub stars,2025-02-02,115306,stars,from the source's records,https://web.archive.org/web/20250202090425/https://github.com/electron/electron
+809,Electron · GitHub stars,2025-03-01,115642,stars,from the source's records,https://web.archive.org/web/20250301162818/https://github.com/electron/electron
+809,Electron · GitHub stars,2025-04-01,116182,stars,from the source's records,https://web.archive.org/web/20250401162639/https://github.com/electron/electron
+809,Electron · GitHub stars,2025-05-01,116592,stars,from the source's records,https://web.archive.org/web/20250501102840/https://github.com/electron/electron
+809,Electron · GitHub stars,2025-06-20,117190,stars,from the source's records,https://web.archive.org/web/20250620141136/https://github.com/electron/electron
+809,Electron · GitHub stars,2025-07-02,117300,stars,from the source's records,https://web.archive.org/web/20250702053141/https://github.com/electron/electron
+809,Electron · GitHub stars,2025-08-02,117709,stars,from the source's records,https://web.archive.org/web/20250802191915/https://github.com/electron/electron
+809,Electron · GitHub stars,2025-09-02,118134,stars,from the source's records,https://web.archive.org/web/20250902090611/https://github.com/electron/electron
+809,Electron · GitHub stars,2025-10-03,118541,stars,from the source's records,https://web.archive.org/web/20251003105407/https://github.com/electron/electron
+809,Electron · GitHub stars,2025-11-06,118979,stars,from the source's records,https://web.archive.org/web/20251106032813/https://github.com/electron/electron
+809,Electron · GitHub stars,2025-12-02,119235,stars,from the source's records,https://web.archive.org/web/20251202020943/https://github.com/electron/electron
+809,Electron · GitHub stars,2026-01-02,119586,stars,from the source's records,https://web.archive.org/web/20260102105728/https://github.com/electron/electron
+809,Electron · GitHub stars,2026-03-09,120394,stars,from the source's records,https://web.archive.org/web/20260309200617/https://github.com/electron/electron
+809,Electron · GitHub stars,2026-04-04,120749,stars,from the source's records,https://web.archive.org/web/20260404140157/https://github.com/electron/electron
+809,Electron · GitHub stars,2026-05-03,121130,stars,from the source's records,https://web.archive.org/web/20260503221122/https://github.com/electron/electron
+809,Electron · GitHub stars,2026-06-01,121506,stars,from the source's records,https://web.archive.org/web/20260601111834/https://github.com/electron/electron
+809,Electron · GitHub stars,2026-07-23,122147,stars,from the source's records,https://web.archive.org/web/20260723124346/https://github.com/electron/electron
+809,Electron · GitHub stars,2026-08-03,122292,stars,from the source's records,https://web.archive.org/web/20260803000113/https://github.com/electron/electron
+809,Electron · GitHub stars,2026-09-07,122925,stars,from the source's records,https://web.archive.org/web/20260907191814/https://github.com/electron/electron
 809,Electron · GitHub stars,2026-11-21,124027,stars,read by Tally,https://github.com/electron/electron
 810,"Electron · npm downloads, weekly",2015-03-01,536,downloads,from the source's records,https://www.npmjs.com/package/electron
 810,"Electron · npm downloads, weekly",2015-03-08,1546,downloads,from the source's records,https://www.npmjs.com/package/electron
@@ -46491,7 +47198,191 @@ number_id,title,date,value,unit,kind,source
 810,"Electron · npm downloads, weekly",2026-11-08,12713369,downloads,from the source's records,https://www.npmjs.com/package/electron
 810,"Electron · npm downloads, weekly",2026-11-15,12662253,downloads,from the source's records,https://www.npmjs.com/package/electron
 810,"Electron · npm downloads, weekly",2026-11-21,12949945,downloads,read by Tally,https://www.npmjs.com/package/electron
+811,Tauri · GitHub stars,2019-10-23,398,stars,from the source's records,https://web.archive.org/web/20191023025130/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2020-01-04,736,stars,from the source's records,https://web.archive.org/web/20200104054039/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2020-06-07,2379,stars,from the source's records,https://web.archive.org/web/20200607152304/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2020-07-08,3167,stars,from the source's records,https://web.archive.org/web/20200708131217/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2020-08-07,5988,stars,from the source's records,https://web.archive.org/web/20200807054743/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2020-10-03,6736,stars,from the source's records,https://web.archive.org/web/20201003055634/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2020-11-01,7040,stars,from the source's records,https://web.archive.org/web/20201101113715/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2020-12-07,7408,stars,from the source's records,https://web.archive.org/web/20201207141858/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2021-01-20,7896,stars,from the source's records,https://web.archive.org/web/20210120092228/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2021-02-02,8072,stars,from the source's records,https://web.archive.org/web/20210202065352/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2021-03-13,13480,stars,from the source's records,https://web.archive.org/web/20210313232747/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2021-04-11,14177,stars,from the source's records,https://web.archive.org/web/20210411182518/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2021-05-01,15734,stars,from the source's records,https://web.archive.org/web/20210501124035/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2021-06-05,17144,stars,from the source's records,https://web.archive.org/web/20210605020813/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2021-07-03,17777,stars,from the source's records,https://web.archive.org/web/20210703093715/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2021-08-04,19066,stars,from the source's records,https://web.archive.org/web/20210804081228/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2021-09-13,22173,stars,from the source's records,https://web.archive.org/web/20210913233931/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2021-10-03,23152,stars,from the source's records,https://web.archive.org/web/20211003021114/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2021-11-09,24113,stars,from the source's records,https://web.archive.org/web/20211109214119/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2021-12-26,25541,stars,from the source's records,https://web.archive.org/web/20211226101837/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2022-02-04,30057,stars,from the source's records,https://web.archive.org/web/20220204134537/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2022-03-02,33241,stars,from the source's records,https://web.archive.org/web/20220302205145/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2022-04-01,35666,stars,from the source's records,https://web.archive.org/web/20220401045555/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2022-05-01,37169,stars,from the source's records,https://web.archive.org/web/20220501233854/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2022-06-13,42314,stars,from the source's records,https://web.archive.org/web/20220613000037/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2022-07-12,46460,stars,from the source's records,https://web.archive.org/web/20220712081029/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2022-08-01,47700,stars,from the source's records,https://web.archive.org/web/20220801191346/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2022-09-07,49735,stars,from the source's records,https://web.archive.org/web/20220907012006/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2022-10-01,51584,stars,from the source's records,https://web.archive.org/web/20221001193229/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2022-11-05,53619,stars,from the source's records,https://web.archive.org/web/20221105100049/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2022-12-06,54866,stars,from the source's records,https://web.archive.org/web/20221206012924/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2023-01-03,56287,stars,from the source's records,https://web.archive.org/web/20230103075456/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2023-02-05,58326,stars,from the source's records,https://web.archive.org/web/20230205134221/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2023-03-04,59836,stars,from the source's records,https://web.archive.org/web/20230304221030/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2023-04-09,62025,stars,from the source's records,https://web.archive.org/web/20230409073146/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2023-05-02,62921,stars,from the source's records,https://web.archive.org/web/20230502105936/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2023-06-09,64324,stars,from the source's records,https://web.archive.org/web/20230609203907/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2023-07-04,66092,stars,from the source's records,https://web.archive.org/web/20230704085432/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2023-08-05,67195,stars,from the source's records,https://web.archive.org/web/20230805040314/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2023-09-01,68037,stars,from the source's records,https://web.archive.org/web/20230901072145/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2023-11-03,69905,stars,from the source's records,https://web.archive.org/web/20231103171442/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2023-12-01,70954,stars,from the source's records,https://web.archive.org/web/20231201215430/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2024-01-03,71926,stars,from the source's records,https://web.archive.org/web/20240103015200/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2024-02-06,73677,stars,from the source's records,https://web.archive.org/web/20240206064105/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2024-03-07,75521,stars,from the source's records,https://web.archive.org/web/20240307081945/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2024-04-03,76602,stars,from the source's records,https://web.archive.org/web/20240403123137/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2024-05-01,77506,stars,from the source's records,https://web.archive.org/web/20240501155621/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2024-06-06,78704,stars,from the source's records,https://web.archive.org/web/20240606202039/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2024-07-09,79672,stars,from the source's records,https://web.archive.org/web/20240709040610/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2024-08-01,80313,stars,from the source's records,https://web.archive.org/web/20240801125550/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2024-09-06,81545,stars,from the source's records,https://web.archive.org/web/20240906071054/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2024-10-02,82436,stars,from the source's records,https://web.archive.org/web/20241002160540/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2024-11-06,84477,stars,from the source's records,https://web.archive.org/web/20241106073637/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2024-12-02,85841,stars,from the source's records,https://web.archive.org/web/20241202132630/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2025-01-02,87880,stars,from the source's records,https://web.archive.org/web/20250102181029/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2025-02-03,89018,stars,from the source's records,https://web.archive.org/web/20250203091412/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2025-03-02,89978,stars,from the source's records,https://web.archive.org/web/20250302101158/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2025-04-04,91149,stars,from the source's records,https://web.archive.org/web/20250404033735/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2025-05-06,92176,stars,from the source's records,https://web.archive.org/web/20250506121042/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2025-07-07,94280,stars,from the source's records,https://web.archive.org/web/20250707032248/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2025-08-02,95156,stars,from the source's records,https://web.archive.org/web/20250802191926/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2025-09-02,96156,stars,from the source's records,https://web.archive.org/web/20250902123054/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2025-10-13,97292,stars,from the source's records,https://web.archive.org/web/20251013055142/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2025-11-07,98637,stars,from the source's records,https://web.archive.org/web/20251107041654/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2025-12-02,99488,stars,from the source's records,https://web.archive.org/web/20251202020055/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2026-01-02,100688,stars,from the source's records,https://web.archive.org/web/20260102182229/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2026-02-02,102188,stars,from the source's records,https://web.archive.org/web/20260202114927/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2026-03-02,103478,stars,from the source's records,https://web.archive.org/web/20260302052451/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2026-04-01,104817,stars,from the source's records,https://web.archive.org/web/20260401215127/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2026-05-03,106154,stars,from the source's records,https://web.archive.org/web/20260503195021/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2026-07-11,108921,stars,from the source's records,https://web.archive.org/web/20260711095026/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2026-08-18,110323,stars,from the source's records,https://web.archive.org/web/20260818142520/https://github.com/tauri-apps/tauri
+811,Tauri · GitHub stars,2026-09-14,111045,stars,from the source's records,https://web.archive.org/web/20260914023242/https://github.com/tauri-apps/tauri
 811,Tauri · GitHub stars,2026-11-21,113032,stars,read by Tally,https://github.com/tauri-apps/tauri
+812,Kubernetes · GitHub stars,2016-01-22,12282,stars,from the source's records,https://web.archive.org/web/20160122081312/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2016-02-07,12559,stars,from the source's records,https://web.archive.org/web/20160207183402/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2016-03-20,13348,stars,from the source's records,https://web.archive.org/web/20160320094424/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2016-07-04,15299,stars,from the source's records,https://web.archive.org/web/20160704224802/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2016-10-04,17296,stars,from the source's records,https://web.archive.org/web/20161004154002/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2016-12-07,18952,stars,from the source's records,https://web.archive.org/web/20161207112258/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2017-01-04,19661,stars,from the source's records,https://web.archive.org/web/20170104082759/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2017-03-01,21041,stars,from the source's records,https://web.archive.org/web/20170301161844/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2017-04-28,22742,stars,from the source's records,https://web.archive.org/web/20170428151139/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2017-05-10,23029,stars,from the source's records,https://web.archive.org/web/20170510121432/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2017-06-02,23652,stars,from the source's records,https://web.archive.org/web/20170602021618/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2017-07-23,25185,stars,from the source's records,https://web.archive.org/web/20170723101431/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2017-08-21,26135,stars,from the source's records,https://web.archive.org/web/20170821163739/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2017-12-13,29955,stars,from the source's records,https://web.archive.org/web/20171213001507/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2018-01-04,30753,stars,from the source's records,https://web.archive.org/web/20180104015124/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2018-05-06,35957,stars,from the source's records,https://web.archive.org/web/20180506081627/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2018-06-04,37138,stars,from the source's records,https://web.archive.org/web/20180604091348/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2018-07-31,39397,stars,from the source's records,https://web.archive.org/web/20180731045809/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2018-08-05,39616,stars,from the source's records,https://web.archive.org/web/20180805120841/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2018-09-21,41677,stars,from the source's records,https://web.archive.org/web/20180921221455/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2018-10-02,42106,stars,from the source's records,https://web.archive.org/web/20181002071902/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2018-11-29,44518,stars,from the source's records,https://web.archive.org/web/20181129235341/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2018-12-01,44582,stars,from the source's records,https://web.archive.org/web/20181201002717/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2019-02-08,47935,stars,from the source's records,https://web.archive.org/web/20190208183057/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2019-03-01,48893,stars,from the source's records,https://web.archive.org/web/20190301153236/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2019-04-02,50545,stars,from the source's records,https://web.archive.org/web/20190402235116/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2019-05-01,51976,stars,from the source's records,https://web.archive.org/web/20190501163015/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2019-06-01,53449,stars,from the source's records,https://web.archive.org/web/20190601131708/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2019-07-02,54713,stars,from the source's records,https://web.archive.org/web/20190702163317/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2019-08-04,56149,stars,from the source's records,https://web.archive.org/web/20190804104019/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2019-09-11,57703,stars,from the source's records,https://web.archive.org/web/20190911090424/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2019-10-02,58432,stars,from the source's records,https://web.archive.org/web/20191002202009/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2019-11-09,59794,stars,from the source's records,https://web.archive.org/web/20191109224021/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2019-12-02,60683,stars,from the source's records,https://web.archive.org/web/20191202231603/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2020-01-04,61953,stars,from the source's records,https://web.archive.org/web/20200104223030/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2020-02-03,62882,stars,from the source's records,https://web.archive.org/web/20200203182434/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2020-03-04,63744,stars,from the source's records,https://web.archive.org/web/20200304100902/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2020-04-04,64701,stars,from the source's records,https://web.archive.org/web/20200404220128/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2020-05-06,65745,stars,from the source's records,https://web.archive.org/web/20200506031038/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2020-06-01,66609,stars,from the source's records,https://web.archive.org/web/20200601041533/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2020-07-01,67598,stars,from the source's records,https://web.archive.org/web/20200701071106/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2020-08-01,68643,stars,from the source's records,https://web.archive.org/web/20200801031223/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2020-09-01,69616,stars,from the source's records,https://web.archive.org/web/20200901212747/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2020-11-01,71300,stars,from the source's records,https://web.archive.org/web/20201101104124/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2020-12-01,72102,stars,from the source's records,https://web.archive.org/web/20201201223409/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2021-01-01,73197,stars,from the source's records,https://web.archive.org/web/20210101215006/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2021-02-01,73985,stars,from the source's records,https://web.archive.org/web/20210201062052/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2021-03-01,74758,stars,from the source's records,https://web.archive.org/web/20210301075734/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2021-04-03,75858,stars,from the source's records,https://web.archive.org/web/20210403003515/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2021-05-01,76811,stars,from the source's records,https://web.archive.org/web/20210501123604/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2021-06-02,77712,stars,from the source's records,https://web.archive.org/web/20210602004658/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2021-07-01,78620,stars,from the source's records,https://web.archive.org/web/20210701002052/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2021-08-01,79511,stars,from the source's records,https://web.archive.org/web/20210801071333/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2021-09-01,80511,stars,from the source's records,https://web.archive.org/web/20210901045043/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2021-10-01,81406,stars,from the source's records,https://web.archive.org/web/20211001000909/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2021-11-01,82256,stars,from the source's records,https://web.archive.org/web/20211101052707/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2021-12-02,83213,stars,from the source's records,https://web.archive.org/web/20211202061130/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2022-01-01,84047,stars,from the source's records,https://web.archive.org/web/20220101161232/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2022-02-01,85030,stars,from the source's records,https://web.archive.org/web/20220201183449/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2022-03-01,85952,stars,from the source's records,https://web.archive.org/web/20220301222153/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2022-04-01,87015,stars,from the source's records,https://web.archive.org/web/20220401080555/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2022-05-01,87950,stars,from the source's records,https://web.archive.org/web/20220501042415/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2022-06-01,88901,stars,from the source's records,https://web.archive.org/web/20220601044900/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2022-08-01,90731,stars,from the source's records,https://web.archive.org/web/20220801194348/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2022-09-01,91660,stars,from the source's records,https://web.archive.org/web/20220901184339/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2022-10-01,92501,stars,from the source's records,https://web.archive.org/web/20221001203359/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2022-11-05,93454,stars,from the source's records,https://web.archive.org/web/20221105012151/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2022-12-05,94234,stars,from the source's records,https://web.archive.org/web/20221205110943/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2023-01-02,94815,stars,from the source's records,https://web.archive.org/web/20230102211445/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2023-02-04,95601,stars,from the source's records,https://web.archive.org/web/20230204142830/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2023-03-02,96302,stars,from the source's records,https://web.archive.org/web/20230302091945/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2023-04-01,97050,stars,from the source's records,https://web.archive.org/web/20230401172652/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2023-05-04,98025,stars,from the source's records,https://web.archive.org/web/20230504091200/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2023-06-03,98867,stars,from the source's records,https://web.archive.org/web/20230603153546/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2023-07-04,99687,stars,from the source's records,https://web.archive.org/web/20230704172619/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2023-08-01,100496,stars,from the source's records,https://web.archive.org/web/20230801055824/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2023-09-06,101435,stars,from the source's records,https://web.archive.org/web/20230906210947/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2023-10-04,102058,stars,from the source's records,https://web.archive.org/web/20231004142928/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2023-11-04,102699,stars,from the source's records,https://web.archive.org/web/20231104101557/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2023-12-01,103460,stars,from the source's records,https://web.archive.org/web/20231201161231/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2024-01-01,104140,stars,from the source's records,https://web.archive.org/web/20240101103700/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2024-02-01,104863,stars,from the source's records,https://web.archive.org/web/20240201210730/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2024-03-02,105475,stars,from the source's records,https://web.archive.org/web/20240302182906/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2024-05-05,106976,stars,from the source's records,https://web.archive.org/web/20240505213705/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2024-06-06,107691,stars,from the source's records,https://web.archive.org/web/20240606195634/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2024-07-08,108375,stars,from the source's records,https://web.archive.org/web/20240708134000/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2024-08-01,108878,stars,from the source's records,https://web.archive.org/web/20240801121824/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2024-09-01,109541,stars,from the source's records,https://web.archive.org/web/20240901215633/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2024-10-01,110157,stars,from the source's records,https://web.archive.org/web/20241001052340/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2024-11-06,110878,stars,from the source's records,https://web.archive.org/web/20241106015339/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2024-12-01,111431,stars,from the source's records,https://web.archive.org/web/20241201070653/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2025-01-03,112099,stars,from the source's records,https://web.archive.org/web/20250103132419/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2025-02-01,112759,stars,from the source's records,https://web.archive.org/web/20250201133557/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2025-03-04,113441,stars,from the source's records,https://web.archive.org/web/20250304131638/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2025-04-01,114098,stars,from the source's records,https://web.archive.org/web/20250401080141/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2025-05-01,114807,stars,from the source's records,https://web.archive.org/web/20250501112615/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2025-06-03,115488,stars,from the source's records,https://web.archive.org/web/20250603114307/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2025-07-08,116211,stars,from the source's records,https://web.archive.org/web/20250708200131/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2025-08-02,116657,stars,from the source's records,https://web.archive.org/web/20250802191915/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2025-09-01,117202,stars,from the source's records,https://web.archive.org/web/20250901211636/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2025-10-09,117873,stars,from the source's records,https://web.archive.org/web/20251009025438/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2025-11-10,118495,stars,from the source's records,https://web.archive.org/web/20251110083555/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2025-12-04,118955,stars,from the source's records,https://web.archive.org/web/20251204063219/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2026-02-08,120347,stars,from the source's records,https://web.archive.org/web/20260208042626/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2026-03-08,120988,stars,from the source's records,https://web.archive.org/web/20260308004901/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2026-04-01,121419,stars,from the source's records,https://web.archive.org/web/20260401030802/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2026-05-07,122090,stars,from the source's records,https://web.archive.org/web/20260507032111/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2026-06-01,122592,stars,from the source's records,https://web.archive.org/web/20260601110257/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2026-07-01,123299,stars,from the source's records,https://web.archive.org/web/20260701085552/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2026-08-01,124091,stars,from the source's records,https://web.archive.org/web/20260801113653/https://github.com/kubernetes/kubernetes
+812,Kubernetes · GitHub stars,2026-09-06,126420,stars,from the source's records,https://web.archive.org/web/20260906145834/https://github.com/kubernetes/kubernetes
 812,Kubernetes · GitHub stars,2026-11-21,129307,stars,read by Tally,https://github.com/kubernetes/kubernetes
 813,Terraform · GitHub stars,2026-11-21,50302,stars,read by Tally,https://github.com/hashicorp/terraform
 814,Prometheus · GitHub stars,2026-11-21,67743,stars,read by Tally,https://github.com/prometheus/prometheus
