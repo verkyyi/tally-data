@@ -1,0 +1,68 @@
+name: Weekly snapshot and copies
+# Every Monday: refresh the two files from tallycatalog.com, tag a release, and copy it to the places that are configured.
+# A GitHub Release is what Zenodo archives (once the repository is switched on at zenodo.org, each release gets a DOI).
+# Copies run only when their secret exists:
+#   HF_TOKEN  (+ repository variable HF_REPO, e.g. "name/tally")            -> Hugging Face dataset
+#   KAGGLE_USERNAME + KAGGLE_KEY (+ repository variable KAGGLE_DATASET)     -> Kaggle dataset
+on:
+  schedule:
+    - cron: "17 6 * * 1"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Refresh the snapshot
+        id: snap
+        run: echo "tag=$(python .github/scripts/snapshot.py)" >> "$GITHUB_OUTPUT"
+      - name: Commit, tag and release
+        if: steps.snap.outputs.tag != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ steps.snap.outputs.tag }}
+        run: |
+          git config user.name "tally-data release"
+          git config user.email "actions@users.noreply.github.com"
+          git add numbers.csv history.csv README.md CHANGES.md
+          git commit -m "Release $TAG"
+          git tag "$TAG"
+          git push origin HEAD --tags
+          gh release create "$TAG" numbers.csv history.csv --title "Tally data $TAG" --notes "$(sed -n '3,6p' CHANGES.md)"
+      - name: Copy to Hugging Face
+        if: steps.snap.outputs.tag != '' && env.HF_TOKEN != '' && vars.HF_REPO != ''
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          HF_REPO: ${{ vars.HF_REPO }}
+        run: |
+          pip -q install huggingface_hub
+          python - <<'PY'
+          import os
+          from huggingface_hub import HfApi
+          api = HfApi(token=os.environ["HF_TOKEN"])
+          api.create_repo(os.environ["HF_REPO"], repo_type="dataset", exist_ok=True)
+          api.upload_folder(folder_path=".", repo_id=os.environ["HF_REPO"], repo_type="dataset",
+                            allow_patterns=["README.md", "numbers.csv", "history.csv", "CHANGES.md", "LICENSE"], commit_message="Release " + os.environ.get("TAG", ""))
+          PY
+      - name: Copy to Kaggle
+        if: steps.snap.outputs.tag != '' && env.KAGGLE_KEY != '' && vars.KAGGLE_DATASET != ''
+        env:
+          KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
+          KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
+          KAGGLE_DATASET: ${{ vars.KAGGLE_DATASET }}
+          TAG: ${{ steps.snap.outputs.tag }}
+        run: |
+          pip -q install kaggle
+          mkdir -p /tmp/k && cp numbers.csv history.csv README.md /tmp/k/
+          printf '{"title":"Tally: company and open-source numbers with history and sources","id":"%s","licenses":[{"name":"CC-BY-4.0"}]}' "$KAGGLE_DATASET" > /tmp/k/dataset-metadata.json
+          kaggle datasets version -p /tmp/k -m "Release $TAG" || kaggle datasets create -p /tmp/k
+    env:
+      HF_TOKEN: ${{ secrets.HF_TOKEN }}
+      KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
