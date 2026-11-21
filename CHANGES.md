@@ -1,5 +1,19 @@
 # Changes
 
+## 2026-11-21 (fourth release)
+
+- Open roles for 37 more companies, counted from each company's own public job board (Greenhouse, Ashby, Lever) once a day, with
+  the months the Internet Archive's copies of the board show: for example Scale AI from September 2022, Glean from December 2022,
+  ElevenLabs and Cognition from March 2024. Boards that redirect to a company's own careers site have no archived past, and
+  start now.
+- Archived Greenhouse counts are corrected: a newer board shows fifty postings a page, so some past counts had stopped at 50.
+  The count is now the total the page states, and a single team is no longer counted from the first page of several.
+- More open-source projects with their stars and weekly downloads (PyTorch, TensorFlow, React, Vue, Svelte, Astro, Vite,
+  Tailwind CSS and others; more are being added).
+- A figure a source gives as "about" is recorded and labelled approximate.
+- Anthropic is listed: its valuation is now its valuation at IPO, with the IPO price and shares sold.
+- 598 numbers, 31,830 dated values.
+
 ## 2026-11-19 (third release)
 
 - The histories of twelve of the most-read companies (Anthropic, OpenAI, Cursor, Perplexity, Mistral AI, Cohere, Databricks, Figma,
