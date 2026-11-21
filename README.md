@@ -13,8 +13,8 @@ configs:
 
 # Tally: numbers about companies and open-source projects, each with its history and source
 
-A snapshot of the public record kept at [tallycatalog.com](https://tallycatalog.com): 598 numbers about 161 companies and
-open-source projects, with 31,830 dated values going back to 2005. Every value carries the address of the page it was read from.
+A snapshot of the public record kept at [tallycatalog.com](https://tallycatalog.com): 788 numbers about 229 companies and
+open-source projects, with 49,463 dated values going back to 2005. Every value carries the address of the page it was read from.
 
 Typical numbers: latest valuation, total funding raised, quarterly and annual revenue, plan and API prices, headcount,
 open roles, GitHub stars, weekly npm and PyPI downloads, Y Combinator batch sizes.

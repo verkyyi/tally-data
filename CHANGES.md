@@ -1,5 +1,16 @@
 # Changes
 
+## 2026-11-21 (fifth release)
+
+- 22 listed software and AI companies from their filings with the US Securities and Exchange Commission, every reported quarter and
+  year: CoreWeave, Pegasystems, GitLab, MongoDB, Elastic, Atlassian, Twilio, DigitalOcean, UiPath, Figma, Okta, Zscaler, HubSpot,
+  Samsara, Dynatrace, Fastly, JFrog, SoundHound AI, Asana, Dropbox, Nutanix and Rubrik (revenue, net income, operating income,
+  shares outstanding where reported).
+- More open-source projects with stars and weekly npm and PyPI downloads (NumPy, Pydantic, Flask, pgvector, dbt, Prisma, Langflow
+  and others). Star histories for React, Vue, Bun and Deno, which the last release lacked.
+- Tally's own figures, kept like any other number: numbers tracked, dated values on record, daily visitors, visitors from Google,
+  page views, and pages read by crawlers (https://tallycatalog.com/growth).
+
 ## 2026-11-21 (fourth release)
 
 - Open roles for 37 more companies, counted from each company's own public job board (Greenhouse, Ashby, Lever) once a day, with
