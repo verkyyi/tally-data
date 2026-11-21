@@ -1,0 +1,8 @@
+{
+  "title": "Tally: company and open-source numbers with history and sources",
+  "description": "A public record of numbers about companies and open-source projects (valuations, funding, revenue, plan prices, open roles, GitHub stars, npm and PyPI downloads), each with its dated history and the address of the page every value was read from. Snapshot of the live record at https://tallycatalog.com.",
+  "upload_type": "dataset",
+  "license": "cc-by-4.0",
+  "keywords": ["startups", "valuation", "funding", "open source", "time series", "SEC filings", "GitHub stars"],
+  "related_identifiers": [{"identifier": "https://tallycatalog.com", "relation": "isSupplementTo", "scheme": "url"}]
+}

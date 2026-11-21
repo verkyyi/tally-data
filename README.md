@@ -13,6 +13,8 @@ configs:
 
 # Tally: numbers about companies and open-source projects, each with its history and source
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24429662.svg)](https://doi.org/10.5281/zenodo.24429662)
+
 A snapshot of the public record kept at [tallycatalog.com](https://tallycatalog.com): 788 numbers about 229 companies and
 open-source projects, with 51,697 dated values going back to 2005. Every value carries the address of the page it was read from.
 
@@ -87,3 +89,7 @@ Corrections and removals are logged at <https://tallycatalog.com/corrections>; t
 <https://github.com/verkyyi/tally/issues>. Changes between releases of this dataset are in `CHANGES.md`.
 
 For one number at a time, as JSON, Markdown or CSV, or its value on a past date, see <https://tallycatalog.com/llms.txt>.
+
+## Cite
+
+Tally. *Tally: company and open-source numbers with history and sources.* Zenodo. https://doi.org/10.5281/zenodo.24429662 (all versions; each release has its own DOI on that page).
