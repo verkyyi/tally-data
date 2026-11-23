@@ -1,5 +1,9 @@
 # Changes
 
+## 2026-11-23 (release 8)
+
+- Snapshot of the live record: 835 numbers about 243 companies and open-source projects, 52,659 dated values.
+
 ## 2026-11-21 (release 7)
 
 - Snapshot of the live record: 788 numbers about 229 companies and open-source projects, 51,697 dated values.

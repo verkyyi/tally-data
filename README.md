@@ -15,13 +15,13 @@ configs:
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24429662.svg)](https://doi.org/10.5281/zenodo.24429662)
 
-A snapshot of the public record kept at [tallycatalog.com](https://tallycatalog.com): 788 numbers about 229 companies and
-open-source projects, with 51,697 dated values going back to 2005. Every value carries the address of the page it was read from.
+A snapshot of the public record kept at [tallycatalog.com](https://tallycatalog.com): 835 numbers about 243 companies and
+open-source projects, with 52,659 dated values going back to 2005. Every value carries the address of the page it was read from.
 
 Typical numbers: latest valuation, total funding raised, quarterly and annual revenue, plan and API prices, headcount,
 open roles, GitHub stars, weekly npm and PyPI downloads, Y Combinator batch sizes.
 
-Snapshot date: 2026-11-21. The live record changes daily; the current files are always at
+Snapshot date: 2026-11-23. The live record changes daily; the current files are always at
 <https://tallycatalog.com/data/numbers.csv> and <https://tallycatalog.com/data/history.csv>.
 
 ## Files
